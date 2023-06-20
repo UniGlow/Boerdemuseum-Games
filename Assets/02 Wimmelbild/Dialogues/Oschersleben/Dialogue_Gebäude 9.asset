@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7cdca8fa1c6f26f40ac66f11763ddcdf, type: 3}
+  m_Name: "Dialogue_Geb\xE4ude 9"
+  m_EditorClassIdentifier: 
+  ComplementingImage: {fileID: 0}
+  Messages:
+  - CharacterName: {fileID: 0}
+    CharacterImage: {fileID: 21300000, guid: 0045c3762b8c03447bb80adad4e665ac, type: 3}
+    Sound: {fileID: 8300000, guid: 64332557299d6bb4d95b41b1271dd80d, type: 3}
+    SoundEnglish: {fileID: 8300000, guid: a81e2e6b2542b3c4b966d8987033b5dc, type: 3}
+    SoundPlatt: {fileID: 8300000, guid: 63438c9d31d1583429509450acd6a6df, type: 3}
+    SoundVolume: 1
+    SoundOffset: 0
+    Text: "B\xFCrgerschule (heute Puschkinschule): Die B\xFCrgerschule wurde 1896
+      erbaut. Damals hatten M\xE4dchen und Jungen getrennte Klassenzimmer und Schulh\xF6fe.
+      Heute hei\xDFt  die Schule Puschkinschule."
+    TextEnglish: 'Elementary school (today Puschkin-school): The elementary school
+      was built in 1896. In those days, boys and girls were taught separately and
+      played in separate schoolyards. Today the school is called Puschkin-school.'
+    TextPlatt: "B\xF6rjerschaule (h\xFCte Puschkinschaule): De B\xF6rjerschaule worre
+      1896 ebuut. Dunnemals harren de M\xE4kens un Jungen jetrennte Schaulstuwen
+      un Schaulh\xF6wwe. H\xFCte hett se Puschkinschaule."

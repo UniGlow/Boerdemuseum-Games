@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7cdca8fa1c6f26f40ac66f11763ddcdf, type: 3}
+  m_Name: Dialogue_Hint 4
+  m_EditorClassIdentifier: 
+  ComplementingImage: {fileID: 0}
+  Messages:
+  - CharacterName: {fileID: 0}
+    CharacterImage: {fileID: 21300000, guid: f8ee1a54a5b4dc948a632c3aa4700945, type: 3}
+    Sound: {fileID: 8300000, guid: 365c0fd78bb776e499ce40f8976c40a7, type: 3}
+    SoundEnglish: {fileID: 8300000, guid: 7ddc2ed84c3a81a47b42c04c6c08fb21, type: 3}
+    SoundPlatt: {fileID: 8300000, guid: 85162a8ec607e394688c0d27cfc7108e, type: 3}
+    SoundVolume: 1
+    SoundOffset: 0
+    Text: Aufwendige Spielzeuglaster gab es in der Bronzezeit noch nicht. Kinder
+      spielten vor allem mit Naturmaterialien.
+    TextEnglish: Elaborate toy trucks were not invented in the Bronze age. Most of
+      the time children played with natural materials.
+    TextPlatt: "Oppwennije Speelt\xFC\xFCchlaster jaaf et in de Bronzetiet noch nich.
+      Kinner speelten mid T\xFC\xFCch ut de Natur."

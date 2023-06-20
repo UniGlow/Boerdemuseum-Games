@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7cdca8fa1c6f26f40ac66f11763ddcdf, type: 3}
+  m_Name: Dialogue_Zoomable 7
+  m_EditorClassIdentifier: 
+  ComplementingImage: {fileID: 0}
+  Messages:
+  - CharacterName: {fileID: 0}
+    CharacterImage: {fileID: 21300000, guid: 80c940e27d2398b44bf3ef08ce65324b, type: 3}
+    Sound: {fileID: 8300000, guid: d5861286b37b14f4ab295f0e80d8e89b, type: 3}
+    SoundEnglish: {fileID: 8300000, guid: d6beee75b72df584980c6ba7d250b771, type: 3}
+    SoundPlatt: {fileID: 8300000, guid: 8dc43b200d864d24aa2ee73413cf00b1, type: 3}
+    SoundVolume: 1
+    SoundOffset: 0
+    Text: "Stickmustertuch: Auf solchen T\xFCchern konnte man sticken \xFCben. H\xE4ufig
+      stickte man Buchstaben, Zahlen und Namen, aber auch Tiere und Pflanzen."
+    TextEnglish: 'Sampling cloth for embroidery: This cloth is for practicing embroidery.
+      People often embroidered not only letters, numbers or names but also animals
+      and plants.'
+    TextPlatt: "Stickmusterdauk: Opp d\xFCsse D\xE4uker konnen man sticken leern.
+      Ofte w\xF6rren Baukstawen, Talen un Namen dropp, ok Diere un Planten."

@@ -1,0 +1,3010 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8717494995361182620
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1580881846634583271}
+  - component: {fileID: 5353862031806289056}
+  m_Layer: 0
+  m_Name: Fritz Giesecke
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1580881846634583271
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8717494995361182620}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5353862031806289056
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8717494995361182620}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62e6b64417a487d468a23e2c6a841775, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Name: Fritz Giesecke
+  Lifetime: "* 1. Februar 1905 in Eilsleben; \u2020 28. Juli 1984 in Domersleben"
+  Image: {fileID: 21300000, guid: 922b1b6bf38b6b74a804e5335d82fefe, type: 3}
+  Description: "Fritz Giesecke, der seine gesamte Lebenszeit in der Magdeburger B\xF6rde
+    verbrachte, erlernte zun\xE4chst einen kaufm\xE4nnischen Beruf und war ab Ende
+    der 1920er-Jahre journalistisch t\xE4tig.\r\nAls Mitarbeiter beim Magdeburger
+    General-Anzeiger schrieb er unter anderem Lokalartikel, Geschichten und Kurzreportagen.
+    Hervorzuheben sind daraus seine zahlreichen Mundartbeitr\xE4ge. Die von ihm geschaffenen
+    B\xF6rde-Originale Andrees Laudan und Oskar Banse trugen dazu bei, die Mundart
+    der B\xF6rde zu pflegen und zu erhalten.\r\n\nSein Bekanntheitsgrad steigerte
+    sich durch sein fotografisches Schaffen und seine Rubrik \u201ENeulich sah ich
+    \u2026\u201D, in der viele Alltagssituationen festgehalten wurden.\r\n\nAb 1928
+    baute er \xFCber gut 30 Jahre eine Sammlung eigener Aufnahmen, bestehend aus
+    ca. 1.000 Glasplatten und Filmen, auf. Die schwarz-wei\xDFen und farbigen Impressionen
+    des damaligen Landlebens in der Region zeigen authentische Begebenheiten, kuriose
+    Kleinigkeiten und Situationskomik. Sie trugen Fritz Giesecke den Beinamen \u201EFotochronist
+    der B\xF6rde\u201C ein."
+  DescriptionEnglish: "Fritz Giesecke lived in the Magdeburger B\xF6rde his entire
+    life. He first trained as a businessman, but from the end of the 1920s he worked
+    as a journalist. As an employee of the General-Anzeiger of Magdeburg, he published
+    local news, stories and short features. Noteworthy are particularly his publications
+    in the local dialect. His fictional characters of Andrees Laudan and Oskar Banse
+    helped to preserve this dialect. His publicity increased when he published photographs
+    of local, daily life under the header \u201CRecently I saw ...\u201D.\r\n\nStarting
+    in 1928, he accumulated a collection of his photographs spanning over 30 years,
+    consisting of around 1000 glass photographs and films. The monochrome and coloured
+    impressions of local country-life at the time show authentic situations, strange
+    events and funny incidents. This work earned him the title \u201Cchronicler of
+    the B\xF6rde\u201D. "
+  DescriptionPlatt: "Fritz Giesecke forrbrochte de jesamte Leemstiet in de Madeborjer
+    B\xF6re. Tauerst w\xF6rre hei Koopmann. Aff Enne 1920 arbeie hei as Schriewer
+    forr de Lokalbl\xE4dder, sau ok forr`n Madeborjer General-Anteiger. Berichte
+    un Stippst\xF6rekens harre hei forrfaat. De B\xF6re-Orjinale Adrees Laudan un
+    Oskar Banse s\xFCnd fonn Giesecke utedacht ewest un de Forrtellije opp Platt
+    datau. Damidde jaaf et ok Hilpe forr de plattd\xFCtsche Spraake in de B\xF6re.
+    Tau de Biller, de hei mid siene Plattenkamera emaakt harre, jeh\xF6re ok \u201CForr
+    korten hewwe ick esein \u2026\u201D. Dabie jaaf et feel ut`n Alldaachsleem in
+    de B\xF6re.\r\n\nAff 1928 maake hei in ower 30 Jaaren dusend Biller opp Glasplatten
+    un Filme. Dat Leem opp`n Lanne wieset hei mid de Biller fonn de sware Arbeit
+    awer ok mid snurrije Bejemheiten. Fritz Giesecke is de \u201CB\xF6re-Fotograf\u201D. "
+  Categories:
+  - Name: Landschaft
+    NameEnglish: Landscape
+    NamePlatt: Landschaft
+    Artworks:
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film sw
+      Technique: Film monochrome
+      TechnikPlatt: Film swart-witt
+      Dimensions: 5,5 x 5,5 cm
+      InvNr: 109_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 9a67fc67a90e7224a8c791352f3a39fe, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Jungen pflanzen einen jungen Baum
+      Description: Boys planting a young tree
+      OppPlatt: Jungen plant en Boom
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film sw
+      Technique: Film monochrome
+      TechnikPlatt: Film swart-witt
+      Dimensions: 5,5 x 5,5 cm
+      InvNr: 110_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 10023f7f4c672c04b9645c8d6c328075, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Jungen auf dem Weg zum Aufforsten
+      Description: Boys going to reforest
+      OppPlatt: "Jungen opp en Wech taun B\xF6meplanten"
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film sw
+      Technique: Film monochrome
+      TechnikPlatt: Film swart-witt
+      Dimensions: 5,5 x 5,5 cm
+      InvNr: 146_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 594602583324668408fba5d124c2c730, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Schafherde auf dem Feld
+      Description: Sheep on a field
+      OppPlatt: Schaapheere opp en Felle
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Glasnegativ
+      Technique: Glass negative
+      TechnikPlatt: Glasplatte
+      Dimensions: 6,5 x 9 cm
+      InvNr: 282_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 852269af7a5fec947a010a3baab93dc2, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: "Feldfl\xE4che mit Getreide"
+      Description: Field with sheaves
+      OppPlatt: Koornacker
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film sw
+      Technique: Film monochrome
+      TechnikPlatt: Film swart-witt
+      Dimensions: 5,5 x 5,5 cm
+      InvNr: 524_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: ad77bbd0bb3954f45b7f3aec58d46a2f, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Auf dem Seeberg
+      Description: On the Seeberg (hill)
+      OppPlatt: Opp en Barch "Seeberg"
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film sw
+      Technique: Film monochrome
+      TechnikPlatt: Film swart-witt
+      Dimensions: 4,5 x 6 cm
+      InvNr: 545_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 34f5c72f9a2f7ad4f9a7c8e3db360a12, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: "Die \"Sieben Br\xFCder\" bei Domersleben"
+      Description: Domersleben, road and trees
+      OppPlatt: "Daumersl\xE4, Strate un B\xF6me, de \"Sem`m Br\xE4uder\""
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film sw
+      Technique: Film monochrome
+      TechnikPlatt: Film swart-witt
+      Dimensions: 4 x 6 cm
+      InvNr: 546_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 54a0f3e71bdee0f41a1809544b8603d1, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: "Die \"Sieben Br\xFCder\" bei Domersleben"
+      Description: Domersleben, road and trees
+      OppPlatt: "Daumersl\xE4, Strate un B\xF6me, de \"Sem`m Br\xE4uder\""
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film sw
+      Technique: Film monochrome
+      TechnikPlatt: Film swart-witt
+      Dimensions: 5,5 x 5,5 cm
+      InvNr: 609_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 88cd19aab75e62141aa0aede682bc9b2, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Gespann mit Schneepflug
+      Description: Horses with a snowplough
+      OppPlatt: Pere mid en Sneiplauch
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film sw
+      Technique: Film monochrome
+      TechnikPlatt: Film swart-witt
+      Dimensions: 5,5 x 5,5 cm
+      InvNr: 636_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 5e428d6611416cd46b4a12cb29cc03d4, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: "M\xE4dchen und Jungen beim Aufforsten"
+      Description: Girls and boys doing reforestation
+      OppPlatt: "M\xE4ken un Jungen plant B\xF6me"
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film color
+      Technique: Film color
+      TechnikPlatt: Film bunt
+      Dimensions: 6 x 9 cm
+      InvNr: 643_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: e342203a1be5d3e479d7a61198b7090b, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: "Sch\xE4fer mit Herde auf einer Wiese"
+      Description: Shepherd with his flock on a field
+      OppPlatt: Schaper mid siene Heere am Ackerranne
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film color
+      Technique: Film color
+      TechnikPlatt: Film bunt
+      Dimensions: 5,5 x 5,5 cm
+      InvNr: 645_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: a34dfec4bab1d204389e6e09e681010b, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: "Sch\xE4fer mit Herde und Hund"
+      Description: Shepherd with his flock and dog
+      OppPlatt: Schaper mid siene Heere un Tewe
+  - Name: Landwirtschaft
+    NameEnglish: Agriculture
+    NamePlatt: Landwirtschaft
+    Artworks:
+    - Year: 1930er
+      YearEnglish: 1930s
+      Technik: Film sw
+      Technique: Film monochrome
+      TechnikPlatt: Film swart-witt
+      Dimensions: 5,5 x 5,5 cm
+      InvNr: 002_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 49362118697407c4090f55bd86dea9fc, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: "Schlachter am Wurstf\xFCller"
+      Description: Butcher at work
+      OppPlatt: Schlachter an de Wostpresse
+    - Year: 1930er
+      YearEnglish: 1930s
+      Technik: Film sw
+      Technique: Film monochrome
+      TechnikPlatt: Film swart-witt
+      Dimensions: 5,5 x 5,6 cm
+      InvNr: 008_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 1eea5134043e1f44a9342a287fc6415f, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: "Schlachter mit Sch\xFCrze, Film sw"
+      Description: Butcher with apron at work
+      OppPlatt: "Schlachter mid Sch\xF6rte"
+    - Year: 1930er
+      YearEnglish: 1930s
+      Technik: Glasnegativ
+      Technique: Glass negative
+      TechnikPlatt: Glasplatte
+      Dimensions: 5,5 x 5,7 cm
+      InvNr: 017_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 5ec216f6dab578246873d542e0f7ec2c, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Pferdewagen mit Haushaltswaren
+      Description: Horse and cart with various things to sell
+      OppPlatt: Perewaan mid Jeschirr forr`n Huushalt
+    - Year: 1920er-30er
+      YearEnglish: 1920s-30s
+      Technik: Glasnegativ
+      Technique: Glass negative
+      TechnikPlatt: Glasplatte
+      Dimensions: 5,5 x 5,8 cm
+      InvNr: 020_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: ad9fb77421d41d4409834d430390d34d, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Scherenschleifer
+      Description: Grinder at work
+      OppPlatt: Scherenslieper
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film color
+      Technique: Film color
+      TechnikPlatt: Film bunt
+      Dimensions: 5,5 x 5,5 cm
+      InvNr: 034_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: e81a09c9e8c5af142ad0dcca514ba7fb, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Frau mit Weidenkorb bei Hopfenernte
+      Description: Woman with basket harvesting hops
+      OppPlatt: "Ne junke Fruu pl\xFCckt de Hoppentappen aff"
+    - Year: 1930er
+      YearEnglish: 1930s
+      Technik: Glasnegativ
+      Technique: Glass negative
+      TechnikPlatt: Glasplatte
+      Dimensions: 6,5 x 9 cm
+      InvNr: 043_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: ca5c3bcba4960a84984423935827f9da, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Flachsdreschen von Hand
+      Description: Fla x  harvest by hand
+      OppPlatt: "Flassd\xF6schen mid D\xF6schflejjel"
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film sw
+      Technique: Film monochrome
+      TechnikPlatt: Film swart-witt
+      Dimensions: 5,5 x 5,5 cm
+      InvNr: 047_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: bcf7da198e990844bb5878dcb41a3d9b, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: "Mann streut mit der Hand D\xFCnger"
+      Description: Man throwing fertiliser on a field
+      OppPlatt: "Bure smitt D\xFCnger ut de Molle opp`n Acker"
+    - Year: 1930er
+      YearEnglish: 1930s
+      Technik: Glasnegativ
+      Technique: Glass negative
+      TechnikPlatt: Glasplatte
+      Dimensions: 6,5 x 9 cm
+      InvNr: 051_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 1d0a8d94568c3d14b856986b4ad093b2, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Feldarbeiten mit Pferdegespann
+      Description: field work with horse and cart
+      OppPlatt: 'Opplaan opp`n  Perewaan '
+    - Year: 1930er
+      YearEnglish: 1930s
+      Technik: Film sw
+      Technique: Film monochrome
+      TechnikPlatt: Film swart-witt
+      Dimensions: 5,5 x 5,5 cm
+      InvNr: 087_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: df63fe22f9a6e1144bd885d70876a3ec, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: "R\xFCbenanlieferung mit Ackerwagen in Klein Wanzleben"
+      Description: Sugar beet delivery with horse carts in Klein Wanzleben
+      OppPlatt: "Ackerwaan mid Z\xFCckerr\xE4ube in L\xFCttchen Wanzl\xE4 "
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film sw
+      Technique: Film monochrome
+      TechnikPlatt: Film swart-witt
+      Dimensions: 5,5 x 5,5 cm
+      InvNr: 092_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 4715b52eb22066d4580050bf9114b6ca, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: "R\xFCbentransport mit Bahnwaggons zur Zuckerfabrik"
+      Description: Transport of sugar beets to the sugar factory by train
+      OppPlatt: "De Iesenbahne bringet de Zuckerr\xE4uben tau de Zuckerfabrik"
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film sw
+      Technique: Film monochrome
+      TechnikPlatt: Film swart-witt
+      Dimensions: 5,5 x 5,5 cm
+      InvNr: 096_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 6eb36f283fff81f48a47c00b6b843036, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Zwei Korbflechter
+      Description: Two basket makers
+      OppPlatt: Twei Korfmakers
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film sw
+      Technique: Film monochrome
+      TechnikPlatt: Film swart-witt
+      Dimensions: 5,5 x 5,5 cm
+      InvNr: 098_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 46a3b31e9d853ea449550bcd9e60136f, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Zwei Korbflechter
+      Description: Two basket makers
+      OppPlatt: Twei Korfmakers
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film sw
+      Technique: Film monochrome
+      TechnikPlatt: Film buil
+      Dimensions: 5,5 x 5,5 cm
+      InvNr: 106_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: b39ce8571fbf0e44eacdb0f00cb5ebed, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Besprechung auf dem Feld beim Drillen
+      Description: Talk on the field
+      OppPlatt: "Dreepen mid de B\xF6bbersten opp en Acker"
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film sw
+      Technique: Film monochrome
+      TechnikPlatt: Film swart-witt
+      Dimensions: 5,5 x 5,5 cm
+      InvNr: 161_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 057b40b322c5a8e4ba5fd8165ae3664d, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Auf dem Feld mit dem Dreschflegel
+      Description: Harvest with a traditional flail
+      OppPlatt: "Mid D\xF6schflejjel opp en Acker"
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film sw
+      Technique: Film monochrome
+      TechnikPlatt: Film swart-witt
+      Dimensions: 5,5 x 5,5 cm
+      InvNr: 166_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: cc7494920b1976b4db318a073e93e321, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Frau bei der Flachsernte
+      Description: 'Woman harvesting fla x '
+      OppPlatt: A Fruu bie`t Flasseern
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film sw
+      Technique: Film monochrome
+      TechnikPlatt: Film swart-witt
+      Dimensions: 5,5 x 5,5 cm
+      InvNr: 168_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: a33df7c7cb72f0d4bbe5ca7830cc17e8, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Bei der Flachsernte
+      Description: During fla x  harvest
+      OppPlatt: Bie et Flasseern
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Glasnegativ
+      Technique: Glass negative
+      TechnikPlatt: Glasplatte
+      Dimensions: 6,5 x 9 cm
+      InvNr: 172_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 2dea7833cd2e74e499e2b38bf6c646cc, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: "Zwei M\xE4nner beim Hacken"
+      Description: 2 hacking men on a field
+      OppPlatt: "Twei Mannsl\xFCe bien Hacken "
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Glasnegativ
+      Technique: Glass negative
+      TechnikPlatt: Glasplatte
+      Dimensions: 6,5 x 9 cm
+      InvNr: 189_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: d5d1faf5584d6f04794091cc6fd90994, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: "R\xFCbentransporte mit verschiedenen Gespannen"
+      Description: Turnip transport with various carts
+      OppPlatt: "Pere un Ossen trecket de Ackerwaan mid R\xE4ube"
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film color
+      Technique: Film color
+      TechnikPlatt: Film bunt
+      Dimensions: 5,5 x 5,5 cm
+      InvNr: 191_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 2895ba69c3185cb42b5eadf901d71c09, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Bauer mit Pferden auf dem Hof
+      Description: Farmer with horses on his yard
+      OppPlatt: 'Bure mid Perd opp sien Acker '
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film sw
+      Technique: Film monochrome
+      TechnikPlatt: Film swart-witt
+      Dimensions: 5,5 x 5,5 cm
+      InvNr: 197_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 47c687a9d83ce7f448d7891459201b04, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: "Windm\xFChle in Domersleben mit Bulldog"
+      Description: Windmill with bulldog (tractor) in Domersleben
+      OppPlatt: "Windm\xF6lle un Trecker \"Bulldog\" in Daumersl\xE4"
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film sw
+      Technique: Film monochrome
+      TechnikPlatt: Film swart-witt
+      Dimensions: 5,5 x 5,5 cm
+      InvNr: 203_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: b38c086028a409b4aa99a2d2ebe6b1f2, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Zwei Ochsengespanne beim Eggen
+      Description: Yoke of o x en doing harrowing
+      OppPlatt: Ossen ejjet opp`n Acker
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film sw
+      Technique: Film monochrome
+      TechnikPlatt: Film swart-witt
+      Dimensions: 5,5 x 5,5 cm
+      InvNr: 205_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 0e39ca78cfe78724bb9ebb0ed41b9eea, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: "Pfl\xFCgende Ochsengespanne vor Windm\xFChle"
+      Description: 2 harrowing yoke of o x en in front of a windmill
+      OppPlatt: Ossen ejjet opp`n Acker
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Glasnegativ
+      Technique: Glass negative
+      TechnikPlatt: Glasplatte
+      Dimensions: 6,5 x 9 cm
+      InvNr: 211_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 48114e5176a25c24f9decbce8d0e89e9, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: "Bulldog mit M\xE4hbinder bei der Getreideernte"
+      Description: Bulldog (tractor) with reaper-binder during harvest
+      OppPlatt: "Twei Ossen bien ejjen, ne Wildm\xF6lle wiet hinne"
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Glasnegativ
+      Technique: Glass negative
+      TechnikPlatt: Glasplatte
+      Dimensions: 6,5 x 9 cm
+      InvNr: 212_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 7fa6736860459464084cf2e187a8bfb1, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Kolonne erntet Luzerne
+      Description: Team harvesting lucerne
+      OppPlatt: "Opphucken taun Dr\xF6en"
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film sw
+      Technique: Film monochrome
+      TechnikPlatt: Film swart-witt
+      Dimensions: 5,5 x 5,5 cm
+      InvNr: 216_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 3720a2cd759897449bbeba7e63e9494c, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Bulldog zieht Drillmaschine und Eggen
+      Description: Bulldog (tractor), sowing machine and harrows
+      OppPlatt: '"Bulldog" treckt Drille un Ejje'
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Glasnegativ
+      Technique: Glass negative
+      TechnikPlatt: Glasplatte
+      Dimensions: 6,5 x 9 cm
+      InvNr: 222_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: f2992ed42d09fa445ba5fed0daf7f359, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: "Gutskolonne mit Aufseher beim R\xFCbenhacken"
+      Description: Foreman with group of women in Domersleben
+      OppPlatt: "Fruunsl\xFC\xFC hackt R\xE4ube un en Oppsaier passet opp"
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film sw
+      Technique: Film monochrome
+      TechnikPlatt: Film swart-witt
+      Dimensions: 5,5 x 5,5 cm
+      InvNr: 308_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 8f90492ba7dd7e2418f1ed1e7db9164c, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: "M\xE4hdrescher und Spreuwagen"
+      Description: 3 combine harvesters
+      OppPlatt: Groote Maschinen ernt Koorn
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film color
+      Technique: Film color
+      TechnikPlatt: Film bunt
+      Dimensions: 6 x 9 cm
+      InvNr: 309_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 08ea0a9a78913644b9b555e15410ee96, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: "LKW \xFCbernimmt das Dreschgut vom M\xE4hdrescher"
+      Description: Lorry and combine harvester
+      OppPlatt: "Dat Koorn k\xFCmmt opp en Waan fonn en Trecker taun afff\xE4uern"
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film color
+      Technique: Film color
+      TechnikPlatt: Film bunt
+      Dimensions: 5,5 x 5,5 cm
+      InvNr: 314_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: c97bc4946c5491643ac0167782dfdf73, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: "Arbeiter im F\xFChrerstand des M\xE4hdreschers"
+      Description: Workers on a combine harvester
+      OppPlatt: "Mannsl\xFCe opp ne groote Maschine taun Eern fonn`t Koorn"
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film color
+      Technique: Film color
+      TechnikPlatt: Film bunt
+      Dimensions: 5,5 x 5,5 cm
+      InvNr: 315_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: c29dad7ab69b5d741b2b3fcfe7f7fb09, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: "Stroh bergen mit Presse, Traktor und M\xE4hdrescher"
+      Description: Gathering straw with press, tractor and combine harvester
+      OppPlatt: "Stroh k\xFCmmt dorch de Presse un opp en Waan"
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film color
+      Technique: Film color
+      TechnikPlatt: Film bunt
+      Dimensions: 6 x 9 cm
+      InvNr: 316_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 21b9f4562c784a74c8437dba6e24f2fe, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: "M\xE4hdrescher, Spreuwagen und LKW"
+      Description: Combine harvester and lorry
+      OppPlatt: Kombine un LKW forr dat Koorn
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film color
+      Technique: Film color
+      TechnikPlatt: Film bunt
+      Dimensions: 5,5 x 5,5 cm
+      InvNr: 320_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 883321d77feb4b348a21689cf9ced81b, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: "M\xE4hdrescher und LKWs bei der Getreideernte"
+      Description: Combine harvester and lorry
+      OppPlatt: Kombine un LKW forr dat Koorn
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film color
+      Technique: Film color
+      TechnikPlatt: Film bunt
+      Dimensions: 4,5 x 5,5 cm
+      InvNr: 321_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: c5d2fd2c002c2a348804a8ebdc6a3766, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: "Einsatz der R\xFCbenkombine bei der R\xFCbenernte"
+      Description: Turnip harvester at work
+      OppPlatt: "Maschine ernt de R\xE4ube"
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film color
+      Technique: Film color
+      TechnikPlatt: Film bunt
+      Dimensions: 5,5 x 5,5 cm
+      InvNr: 324_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: ab7d57e0aa5d3d348a2553e5445d910c, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: "Flugzeuge zum D\xFCngerstreuen"
+      Description: Airplanes used for dispensing fertiliser
+      OppPlatt: "D\xFCngerfliejer"
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film color
+      Technique: Film color
+      TechnikPlatt: Film bunt
+      Dimensions: 4,5 x 6 cm
+      InvNr: 326_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 51b8a50c90605b94b9692431a6a52e2e, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: "R\xFCbenernte mit Maschinen"
+      Description: Harvesting turnips
+      OppPlatt: "Mannsl\xFCe ernt R\xE4ube mid de Maschine"
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film color
+      Technique: Film color
+      TechnikPlatt: Film bunt
+      Dimensions: 4,5 x 6 cm
+      InvNr: 327_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 75af7d91c83edc1458b7f09da2351019, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Traktor mit Kartoffellegemaschine
+      Description: Tractor with potato sowing machine
+      OppPlatt: Trecker mid Lejjemaschine forr Plantkartuffeln
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film color
+      Technique: Film color
+      TechnikPlatt: Film bunt
+      Dimensions: 4,5 x 6 cm
+      InvNr: 328_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 33d84f20f65eb534e887e818c5b397f1, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Aussaat von Mais mit Maislegemaschine
+      Description: Sowing sweetcorn with a machine
+      OppPlatt: "Lejjemaschine forr Maisk\xF6rner un Trecker"
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film color
+      Technique: Film color
+      TechnikPlatt: Film bunt
+      Dimensions: 4,5 x 6 cm
+      InvNr: 333_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: b5eb912eda72b76468e9c2fd6325ca8b, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Frauen legen Zichorienwurzeln
+      Description: Women planting chicory from a cart
+      OppPlatt: "Fruunsl\xFCe opp ne Lejjemaschine forr Zickorie"
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film color
+      Technique: Film color
+      TechnikPlatt: Film bunt
+      Dimensions: 4,5 x 6 cm
+      InvNr: 343_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 9dffd8ed04c0afd4b87046c8471ac10b, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: "Zwei Personen auf einem R\xFCbenberg"
+      Description: 2 people on a mountain of turnips
+      OppPlatt: "Twei L\xFCe opp en Barch mid R\xE4ube"
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film sw
+      Technique: Film monochrome
+      TechnikPlatt: Film swart-witt
+      Dimensions: 2,5 x 3,5 cm
+      InvNr: 360_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: adda04aa3a265824ca7e2ec118954aee, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Pferdegespann bei der Rapsernte
+      Description: 'Horses during rapeseed harvest '
+      OppPlatt: En Perejespann ernt Raps
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film color
+      Technique: Film color
+      TechnikPlatt: Film bunt
+      Dimensions: 5,5 x 6 cm
+      InvNr: 362_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: c29566a1041da3341a1d46d83384df63, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: "Junger Mann im Gew\xE4chshaus mit Salatgurken"
+      Description: Young man in a greenhouse with cucumber
+      OppPlatt: "En Jew\xE4chshuus mid Jurken un en junken Mannsminschen"
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film color
+      Technique: Film color
+      TechnikPlatt: Film bunt
+      Dimensions: 5,5 x 5,5 cm
+      InvNr: 364_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: eae12a6ea0d043c42835cdc7e2cbe19d, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Hopfenernte
+      Description: Men and women during hops harvest
+      OppPlatt: "Fruuns- un Mannsl\xFCe ernt Hoppen"
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film color
+      Technique: Film color
+      TechnikPlatt: Film bunt
+      Dimensions: 5,5 x 5,5 cm
+      InvNr: 368_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 80cf056e39f966a4aaf32f6c9ae75230, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Junge Frau mit Weidenkorb und Blumenzwiebeln
+      Description: Young woman with willow basket
+      OppPlatt: Junke Fruu mid en Korf un Blaumenbollen
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film color
+      Technique: Film color
+      TechnikPlatt: Film bunt
+      Dimensions: 6 x 9 cm
+      InvNr: 370_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 1038563ab63fb3f4fb71267b973e5d12, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: "Arbeiter beim R\xFCben verziehen"
+      Description: Workers on a turnip field
+      OppPlatt: "Junke L\xFCe forrtrecket R\xE4ube fonn en Trecker ut"
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film color
+      Technique: Film color
+      TechnikPlatt: Film bunt
+      Dimensions: 5,5 x 5,5 cm
+      InvNr: 371_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 8ab8fac1e462f874281b924c680d4315, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Hopfenernte
+      Description: Hops harvest
+      OppPlatt: "Fruuns- und Mannsl\xFCe ernt Hoppen"
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film color
+      Technique: Film color
+      TechnikPlatt: Film bunt
+      Dimensions: 5,5 x 5,5 cm
+      InvNr: 372_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 59f0a313cf73d624da8dbf5980e8f90b, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Hopfenernte
+      Description: Hops harvest
+      OppPlatt: "Fruuns- und Mannsl\xFCe ernt Hoppen"
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film sw
+      Technique: Film monochrome
+      TechnikPlatt: Film swart-witt
+      Dimensions: 5,5 x 5,5 cm
+      InvNr: 377_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 9dd6744b47f535d4caffd8adc3e40b12, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Soldaten leisten Erntehilfe in Domersleben
+      Description: Soldiers helping out during harvest in Domersleben
+      OppPlatt: "Mannsminschen hilpt R\xE4ube opptelaan"
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Glasnegativ
+      Technique: Glass negative
+      TechnikPlatt: Glasplatte
+      Dimensions: 5,5 x 5,5 cm
+      InvNr: 379_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 07ed3cbcaf1537447b929925295120ca, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Drei Frauen beim Spargelstechen
+      Description: 3 women harvesting asparagus
+      OppPlatt: "Drei Fruunsl\xFC\xFC ernt Sparjel"
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film color
+      Technique: Film color
+      TechnikPlatt: Film bunt
+      Dimensions: 5,5 x 5,5 cm
+      InvNr: 488_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: b97640a031b039a4886f8f640b9fe3b6, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Erntefest
+      Description: Harvest festival, Thanksgiving
+      OppPlatt: 'Eernwaan '
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film sw
+      Technique: Film monochrome
+      TechnikPlatt: Film swart-witt
+      Dimensions: 5,5 x 5,5 cm
+      InvNr: 621_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 2c2c6ff35fb3cd343a37cdbea657287d, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: In der Zuckerfabrik Klein Wanzleben
+      Description: In the sugar factory Klein Wanzleben
+      OppPlatt: "In de Zuckerfabrik in L\xFCttchen Wanzl\xE4"
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film color
+      Technique: Film color
+      TechnikPlatt: Film bunt
+      Dimensions: 5,5 x 5,5 cm
+      InvNr: 653_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: ec274d13fe0f25746b1abeb0940978b6, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: "LKW und M\xE4hdrescher in Klein Wanzleben,"
+      Description: Lorry and combine harvester in Klein Wanzleben
+      OppPlatt: "LKW und M\xE4hdrescher in L\xFCttchen Wanzl\xE4"
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film color
+      Technique: Film color
+      TechnikPlatt: Film bunt
+      Dimensions: 5,5 x 5,5 cm
+      InvNr: 654_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: c7cbb35736a9c5f4eb6663cca8272d1c, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: "Arbeiter in F\xFChrerkabine eines Erntefahrzeuges"
+      Description: Workers in a harvest machine
+      OppPlatt: "Mannsl\xFCe bie ne Maschine taun Eern"
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film sw
+      Technique: Film monochrome
+      TechnikPlatt: Film swart-witt
+      Dimensions: 5,5 x 5,5 cm
+      InvNr: 655_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: f062f5cefc59e574386b684020f4a26d, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Ifa-Traktor  auf dem Feld
+      Description: Tractor with harrowing equipment
+      OppPlatt: '"IFA"-Trecker opp en Acker'
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film color
+      Technique: Film color
+      TechnikPlatt: Film bunt
+      Dimensions: 5,5 x 5,5 cm
+      InvNr: 657_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: f758ac2de1af3ab45afa1adb1ff6a942, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Kartoffelvollerntemaschine auf dem Feld
+      Description: Potato-harvesting machine at work
+      OppPlatt: Maschine taun Eern fonn Kartuffeln
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film color
+      Technique: Film color
+      TechnikPlatt: Film bunt
+      Dimensions: 4,5 x 6 cm
+      InvNr: 658_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 9ead628278c73f545969dfc4b5801f43, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Kartoffelvollerntemaschine auf dem Feld
+      Description: Potato-harvesting machine at work
+      OppPlatt: Maschine taun Eern fonn Kartuffeln
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film color
+      Technique: Film color
+      TechnikPlatt: Film bunt
+      Dimensions: 4,5 x 6 cm
+      InvNr: 660_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 834d73da15a5b674fadb5c8c65e50e5e, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Kartoffelvollerntemaschine auf dem Feld
+      Description: Potato-harvesting machine at work
+      OppPlatt: Maschine taun Eern fonn Kartuffeln
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film color
+      Technique: Film color
+      TechnikPlatt: Film bunt
+      Dimensions: 5,5 x 5,5 cm
+      InvNr: 671_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: a273aea17be6b394e903864a9115971d, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: "M\xE4hdrescher und Erntetransporter"
+      Description: Combine harvester and lorry
+      OppPlatt: Maschine taun Eren forr`t Koorn
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film color
+      Technique: Film color
+      TechnikPlatt: Film bunt
+      Dimensions: 6 x 9 cm
+      InvNr: 672_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 5a743ef406759284eace843c69c9c389, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: "M\xE4hdrescher bei der Gertreideernte"
+      Description: Combine harvester at work
+      OppPlatt: Maschine taun Eren forr`t Koorn
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film color
+      Technique: Film color
+      TechnikPlatt: Film bunt
+      Dimensions: 5,5 x 6 cm
+      InvNr: 694_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 7a6543b3aea7b3e4b832d95f3dc26fbd, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Bei der Maisernte
+      Description: Workers during maize harvest
+      OppPlatt: "L\xFCe bie`t Maiseren"
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film color
+      Technique: Film color
+      TechnikPlatt: Film bunt
+      Dimensions: 4,5 x 6 cm
+      InvNr: 701_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: d4a55c2e8c1fd7d45ad221af1a116e87, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: 4 Frauen setzen Kartoffeln
+      Description: 4 women sowing potatoes
+      OppPlatt: "Faiere Fruunsl\xFCe bien Kartuffelplanten"
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film color
+      Technique: Film color
+      TechnikPlatt: Film bunt
+      Dimensions: 4,5 x 6 cm
+      InvNr: 735_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 027f1d519ec73604fb56f5d8a0182f14, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Vietnamesische Erntehelfer beim Stroh aufladen
+      Description: Vietnamese workers help loading straw
+      OppPlatt: "Twei junke Mannsl\xFCe ut Vietnam hilpt opp en Acker"
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film sw
+      Technique: Film monochrome
+      TechnikPlatt: Film swart-witt
+      Dimensions: 5,5 x 5,5 cm
+      InvNr: 828_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 03ee3a6337429e84f8d178b238f5e1c2, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Besprechung auf dem Feld
+      Description: Talk on the field
+      OppPlatt: "Dreepen mid de B\xF6bbersten opp en Acker"
+  - Name: Ortsmotive
+    NameEnglish: Locations
+    NamePlatt: Orte
+    Artworks:
+    - Year: 1930er
+      YearEnglish: 1930s
+      Technik: Glasnegativ
+      Technique: Glass negative
+      TechnikPlatt: Glasplatte
+      Dimensions: 5,5 x 5,9 cm
+      InvNr: 022_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 99a94f10849f58c44a46af16c31445bd, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: "2 \xE4ltere M\xE4nner in KFZ- Werkstatt"
+      Description: 2 men in a garage with a toy car
+      OppPlatt: "Twei \xF6ldere Mannsl\xFCe in e Warkstidde"
+    - Year: 1930er
+      YearEnglish: 1930s
+      Technik: Glasnegativ
+      Technique: Glass negative
+      TechnikPlatt: Glasplatte
+      Dimensions: 5,5 x 5,5 cm
+      InvNr: 039_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 66fe1207ddfa1ee4a937a06f06c8e41d, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Dorfteich in Domersleben
+      Description: The village pond in Domersleben
+      OppPlatt: "Dorpdiek in Daumersl\xE4"
+    - Year: 1930er
+      YearEnglish: 1930s
+      Technik: Glasnegativ
+      Technique: Glass negative
+      TechnikPlatt: Glasplatte
+      Dimensions: 6,5 x 9 cm
+      InvNr: 052_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 7f41bec006501324b8af833c392ad11f, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Reichspostbus nach Domersleben
+      Description: Imperial mail bus to Domersleben
+      OppPlatt: "Reichspostbus na Daumersl\xE4"
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film sw
+      Technique: Film monochrome
+      TechnikPlatt: Film swart-witt
+      Dimensions: 5,5 x 5,5 cm
+      InvNr: 091_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 2b590382abc8cc349bb7de9417daa295, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Hof der Zuckerfabrik Klein Wanzleben
+      Description: 'Yard of the sugar factory Klein Wanzleben '
+      OppPlatt: "Hoff opp de Zuckerfabrik in L\xFCttchen Wanzl\xE4"
+    - Year: 1930er
+      YearEnglish: 1930s
+      Technik: Film sw
+      Technique: Film monochrome
+      TechnikPlatt: Film swart-witt
+      Dimensions: 6 x 9 cm
+      InvNr: 132_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 8ce927b3c9c77d24f97a0e48bd6662f1, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: "Zeppelin \xFCber Magdeburg"
+      Description: Zeppelin over Magdeburg
+      OppPlatt: "Zeppelin \xF6wwer Madeborch"
+    - Year: 1930er
+      YearEnglish: 1930s
+      Technik: Film sw
+      Technique: Film monochrome
+      TechnikPlatt: Film swart-witt
+      Dimensions: 5,5 x 5,5 cm
+      InvNr: 142_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: b72a67f02d0d5b54fba9f5a66b930979, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Der Breite Weg in Magdeburg
+      Description: The Breite Weg in Magdeburg
+      OppPlatt: De Breite Wech in Madeborch
+    - Year: 1930er
+      YearEnglish: 1930s
+      Technik: Film sw
+      Technique: Film monochrome
+      TechnikPlatt: Film swart-witt
+      Dimensions: 5,5 x 5,5 cm
+      InvNr: 144_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 381808c98a40b0e469cd18c3b90b59a9, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Magdeburger Stadtzentrum mit St. Katharinenkirche
+      Description: Magdeburg city centre with church
+      OppPlatt: Madeborch mid de St. Katharinen-Kerche
+    - Year: 1930er
+      YearEnglish: 1930s
+      Technik: Glasnegativ
+      Technique: Glass negative
+      TechnikPlatt: Glasplatte
+      Dimensions: 6,5 x 9 cm
+      InvNr: 174_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: dc15e5af06e479e4d86658dee174dd01, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Erntedankfest in Domersleben
+      Description: Harvest festival, Thanksgiving, in Domersleben
+      OppPlatt: "Eernfest in Daumersl\xE4"
+    - Year: 1930er
+      YearEnglish: 1930s
+      Technik: Film sw
+      Technique: Film monochrome
+      TechnikPlatt: Film swart-witt
+      Dimensions: 5,5 x 5,5 cm
+      InvNr: 177_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 92820aa8ed41d6440b9adb63152bfd57, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Landwehrfest in Domersleben
+      Description: Festival in Domersleben
+      OppPlatt: "\"Landwehrfest\" fonn de Reservisten in Daumersl\xE4"
+    - Year: 1920er
+      YearEnglish: 1920s
+      Technik: Glasnegativ
+      Technique: Glass negative
+      TechnikPlatt: Glasplatte
+      Dimensions: 6,5 x 9 cm
+      InvNr: 178_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 669b6a25a3a2b6e4ea4e976eee26f0bc, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: "M\xE4nner spielen Fu\xDFball in Domersleben"
+      Description: Men playing football in Domersleben
+      OppPlatt: "Mannsl\xFCe speelt Fautball in Daumersl\xE4"
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Glasnegativ
+      Technique: Glass negative
+      TechnikPlatt: Glasplatte
+      Dimensions: 6,5 x 9 cm
+      InvNr: 185_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: b330784ddcbdda54a8e5c89a54060e74, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Steintransporte auf Ackerwagen und Schleppen
+      Description: Stone transport on various carts
+      OppPlatt: Ackerwaan und Sleepen mit groote Staine underwejens
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film sw
+      Technique: Film monochrome
+      TechnikPlatt: Film swart-witt
+      Dimensions: 5,5 x 5,5 cm
+      InvNr: 227_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 876f26a85422bf3468c296d312cbbce8, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Kuh auf dem Burghof Wanzleben
+      Description: Cow on the yard of castle Wanzleben
+      OppPlatt: "Kau opp de Borch in Wanzl\xE4"
+    - Year: 1930er
+      YearEnglish: 1930s
+      Technik: Film sw
+      Technique: Film monochrome
+      TechnikPlatt: Film swart-witt
+      Dimensions: 6 x 9 cm
+      InvNr: 235_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: f89c3121835f02f4d94e35a762465689, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Pferdemarkt
+      Description: Horse market
+      OppPlatt: 'Peremarkt '
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Glasnegativ
+      Technique: Glass negative
+      TechnikPlatt: Glasplatte
+      Dimensions: 6,5 x 9 cm
+      InvNr: 273_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 1598c12b250f6bb48b85a36936d6399f, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Domersleber Kirchturm vom Schulfenster aus
+      Description: View to the church of Domersleben from a window
+      OppPlatt: "De Kerche fonn Daumersl\xE4, Blick fonn en Fenster ut "
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film sw
+      Technique: Film monochrome
+      TechnikPlatt: Film swart-witt
+      Dimensions: 5,5 x 5,5 cm
+      InvNr: 275_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 5a886fcad655dc1419f05617ddccd80b, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Pferde eggen ein Feld bei Domersleben
+      Description: Horse harrowing a field outside Domersleben
+      OppPlatt: "Perejespann opp en Acker, hinne de Kerche in Daumersl\xE4"
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Glasnegativ
+      Technique: Glass negative
+      TechnikPlatt: Glasplatte
+      Dimensions: 6,5 x 9 cm
+      InvNr: 284_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 6a376f9d010696f479a2188faa71ee1b, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: "Blick von den H\xE4ngelsbergen auf Magdeburg"
+      Description: "View of Magdeburg from the H\xE4ngelsberge"
+      OppPlatt: "Blick opp Madeborch fonn de \"H\xE4ngelsberge\""
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Glasnegativ
+      Technique: Glass negative
+      TechnikPlatt: Glasplatte
+      Dimensions: 6,5 x 9 cm
+      InvNr: 399_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 01c8d854413e2e742b3d79c57e3af98a, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Wetterfahne Weihnachtsmann
+      Description: Weather vane father christmas
+      OppPlatt: Wedderfahne mid Wienachtsmann
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Glasnegativ
+      Technique: Glass negative
+      TechnikPlatt: Glasplatte
+      Dimensions: 6,5 x 9 cm
+      InvNr: 400_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 8156ff47c3d6993499cc9aa8fc05425e, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Blick auf den Kirchenturm
+      Description: View of the churchtower
+      OppPlatt: "Kerchtorm in Daumersl\xE4"
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film sw
+      Technique: Film monochrome
+      TechnikPlatt: Film swart-witt
+      Dimensions: 5,5 x 5,5 cm
+      InvNr: 410_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 5d706331ddfe68f4a820dabfb872bd99, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Wetterfahne Flugzeug und Eisenbahn
+      Description: Weather vane, airplane and train
+      OppPlatt: Wedderfahne Fliejer un Iesenbahne
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Glasnegativ
+      Technique: Glass negative
+      TechnikPlatt: Glasplatte
+      Dimensions: 6,5 x 9 cm
+      InvNr: 413_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 289a5a9cd8e985d4ba13a117b55d8e42, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Kirchturmspitze mit Adler
+      Description: Church top with eagle
+      OppPlatt: Kerchtormspitze mid Adeler
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film sw
+      Technique: Film monochrome
+      TechnikPlatt: Film swart-witt
+      Dimensions: 6 x 9 cm
+      InvNr: 423_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: d5a82bd91030c6241a901650790e0e9a, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Wetterfahne Katze und Maus
+      Description: Weather vane cat and mouse
+      OppPlatt: Wedderfahne Katte un Muus
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film sw
+      Technique: Film monochrome
+      TechnikPlatt: Film swart-witt
+      Dimensions: 6 x 9 cm
+      InvNr: 432_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 2c7ded9f695393845ae2832e81b9234a, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Tombola des Nationalen Aufbauwerks in Magdeburg
+      Description: Tombola of the National Aufbauwerk in Magdeburg
+      OppPlatt: Tombola "Nationales Aufbauwerk" in Madeborch
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film color
+      Technique: Film color
+      TechnikPlatt: Film bunt
+      Dimensions: 5,5 x 5,5 cm
+      InvNr: 433_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: c3f4d29156839104a827142772927a38, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Dampfschiff auf der Elbe
+      Description: Steamship on the river Elbe
+      OppPlatt: Dampschipp opp de Elbe in Madeborch
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film color
+      Technique: Film color
+      TechnikPlatt: Film bunt
+      Dimensions: 5,5 x 5,5 cm
+      InvNr: 435_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 8da3824c724f95f439dbb46b6c8c3432, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Dampfschiff auf der Elbe
+      Description: Steamship on the river Elbe
+      OppPlatt: Dampschipp opp de Elbe in Madeborch
+    - Year: nach 1945
+      YearEnglish: after 1945
+      Technik: Film sw
+      Technique: Film monochrome
+      TechnikPlatt: Film bunt
+      Dimensions: 5,5 x 5,5 cm
+      InvNr: 437_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: c7d12705c325ab047b331c237256998f, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: "Magdeburg, Neue H\xE4user mit Kirche St. Ulrich"
+      Description: "Magdeburg, new houses and St. Ulrich\u2019s church"
+      OppPlatt: "Madeborch mid niee H\xFCser un de Ulrichskerche"
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film sw
+      Technique: Film monochrome
+      TechnikPlatt: Film swart-witt
+      Dimensions: 5,5 x 5,5 cm
+      InvNr: 438_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: f895c88652074c14da8a14b146c2221f, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Magdeburg, St. Johannis Kirche
+      Description: Magdeburg, view of the St. Johannis church
+      OppPlatt: Madeborch mid de Johanniskerche
+    - Year: vor 1945
+      YearEnglish: before 1945
+      Technik: Film sw
+      Technique: Film monochrome
+      TechnikPlatt: Film swart-witt
+      Dimensions: 5,5 x 5,5 cm
+      InvNr: 439_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 7663c7ad5b379174bb01a41ee6630770, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Magdeburg, St. Ulrich und St. Johannis
+      Description: Magdeburg, churches St. Ulrich and St. Johannis
+      OppPlatt: Madeborch mid Ulrichs- un Johanniskerche
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film sw
+      Technique: Film monochrome
+      TechnikPlatt: Film swart-witt
+      Dimensions: 5,5 x 5,5 cm
+      InvNr: 482_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 6b3e0aefcd5ed2c4aa73583ba8f8ba57, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Erntefest in Domersleben
+      Description: Harvest festival, Thanksgiving, in Domersleben
+      OppPlatt: "Eernfest in Daumersl\xE4"
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film sw
+      Technique: Film monochrome
+      TechnikPlatt: Film swart-witt
+      Dimensions: 5,5 x 5,5 cm
+      InvNr: 485_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 5a15bdc1768198e4eacc1d90065d5241, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Domersleben, Radtour auf dem Hermsdorfer Weg
+      Description: Bicycle tour on Hermsdorfer Weg in Domersleben
+      OppPlatt: "Drahtessel bien Eernfest opp en Hermsdorper Wech in Daumersl\xE4"
+    - Year: 1930er
+      YearEnglish: 1930s
+      Technik: Glasnegativ
+      Technique: Glass negative
+      TechnikPlatt: Glasplatte
+      Dimensions: 6,5 x 9 cm
+      InvNr: 507_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: e4049f52e825ef242acd8fb6dec7c2ca, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Musikanten spielen im Dorf
+      Description: Musicians playing in a village
+      OppPlatt: Musikanten in`t Dorpe
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film sw
+      Technique: Film monochrome
+      TechnikPlatt: Film swart-witt
+      Dimensions: 4,5 x 6 cm
+      InvNr: 525_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 33f892c91584c19448bdb8c2cd91b6e3, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Rathaus in Wanzleben
+      Description: Townhall of Wanzleben
+      OppPlatt: "Rathuus in Wanzl\xE4"
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film sw
+      Technique: Film monochrome
+      TechnikPlatt: Film swart-witt
+      Dimensions: 4,5 x 6 cm
+      InvNr: 527_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 0d0a17fd8b3d2974a9f2524aee431ef2, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Volkspark in Wanzleben
+      Description: Park in Wanzleben
+      OppPlatt: "Park in Wanzl\xE4"
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film color
+      Technique: Film color
+      TechnikPlatt: Fim bunt
+      Dimensions: 4,5 x 6 cm
+      InvNr: 537_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 9f2be097b2e2abf4092e315112d0e546, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Wanzleben, Ausflug des Kindergartens
+      Description: Group from the kindergarden on tour in Wanzleben
+      OppPlatt: "Kinnergaarnkinner underwejens in Wanzl\xE4"
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Glasnegativ
+      Technique: Glass negative
+      TechnikPlatt: Glasplatte
+      Dimensions: 6,5 x 9 cm
+      InvNr: 539_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 0f778bef3236b504995bc743e0bd4e35, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Bahnhof Wellen
+      Description: Wellen trainstation
+      OppPlatt: Bahnhoff fonn Wellen bie Madeborch
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film color
+      Technique: Film color
+      TechnikPlatt: Film bunt
+      Dimensions: 6 x 9 cm
+      InvNr: 541_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 22ed59c47523677459f736f44d17959d, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Rathaus von Niederndodeleben
+      Description: Niederndodeleben, view of the townhall
+      OppPlatt: "Rathuus off Nedderndol\xE4"
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film color
+      Technique: Film color
+      TechnikPlatt: Film bunt
+      Dimensions: 5,5 x 5,5 cm
+      InvNr: 543_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 61ebd6a394ea41049bd475755d936c8e, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Klein Rodensleben, Teich wird entschlammt
+      Description: Klein Rodensleben, sludge removal in the pond
+      OppPlatt: "L\xFCttch Rodensl\xE4, Mannsl\xFCe maakt den Diek reine"
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film sw
+      Technique: Film monochrome
+      TechnikPlatt: Film swart-witt
+      Dimensions: 5,5 x 5,5 cm
+      InvNr: 544_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: beceab1f2d34d22499b97cbf1b9c2cc3, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Blick auf den Wanzlebener Burgturm
+      Description: Wanzleben, view of the castle tower
+      OppPlatt: "Wanzl\xE4, fonn`n Borchtorm ut ekiekt"
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film sw
+      Technique: Film monochrome
+      TechnikPlatt: Film swart-witt
+      Dimensions: 4 x 6 cm
+      InvNr: 547_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: f514ba2030009bb4aaa97123275b6506, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Der Schneiderturm am Marktplatz in Seehausen
+      Description: The Schneider-tower of Seehausen
+      OppPlatt: De Sniedertorm in Seehuusen am Marcht
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film color
+      Technique: Film color
+      TechnikPlatt: Film bunt
+      Dimensions: 6 x 8,5 cm
+      InvNr: 548_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: d6aff1bfb0f2bd64282032d087ae2673, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Das Stadttor von Seehausen
+      Description: Town gate of Seehausen
+      OppPlatt: Dat Stadtdoor off Seehuusen
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film sw
+      Technique: Film monochrome
+      TechnikPlatt: Film swart-witt
+      Dimensions: 6 x 8,5 cm
+      InvNr: 551_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 2c3d17078ee0428438752cd1eba5568e, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Spielende Kinder beim Rathaus Wanzleben
+      Description: Playing children by the townhall of Wanzleben
+      OppPlatt: "Kinner speelt bie dat Rathuus opp Wanzl\xE4"
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Glasnegativ
+      Technique: Glass negative
+      TechnikPlatt: Glasplatte
+      Dimensions: 6,5 x 9 cm
+      InvNr: 556_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: c167e1dc6c9421c458692c878240edd6, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Schwimmen im Domerslebener Dorfteich
+      Description: Swimming in the village pond of Domersleben
+      OppPlatt: "Baen im Dorpdiek fonn Daumersl\xE4"
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film sw
+      Technique: Film monochrome
+      TechnikPlatt: Film swart-witt
+      Dimensions: 5,5 x 5,5 cm
+      InvNr: 563_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 8c222006a774685428b1e7be1d81d377, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Blick auf die Domerslebener Kirche
+      Description: Domersleben, view of the church
+      OppPlatt: "Daumersl\xE4sche Kerche fonn butten"
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Glasnegativ
+      Technique: Glass negative
+      TechnikPlatt: Glasplatte
+      Dimensions: 6,5 x 9 cm
+      InvNr: 565_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 5f8c7dba51318984b8821c22695144b5, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Domersleben von der Wanzleber Chaussee
+      Description: Domersleben viewed from the Wanzleber Chaussee
+      OppPlatt: "Daumersl\xE4 fonn de Strate \"Wanzleber Chaussee\" ut "
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film color
+      Technique: Film color
+      TechnikPlatt: Film bunt
+      Dimensions: 6 x 9 cm
+      InvNr: 571_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 2ca59c888f0504644a58721c552b670a, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Blick auf die Domerslebener Kirche
+      Description: The church of Domersleben
+      OppPlatt: "De Kerche fonn Daumersl\xE4"
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film color
+      Technique: Film color
+      TechnikPlatt: Film bunt
+      Dimensions: 6 x 9 cm
+      InvNr: 573_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 4ba10f072fa636140a89bc0040d4edb8, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: "Stra\xDFenecke in Domersleben"
+      Description: Industrial goods shop in Domersleben
+      OppPlatt: "Koopmann in Daumersl\xE4"
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film sw
+      Technique: Film monochrome
+      TechnikPlatt: Film swart-witt
+      Dimensions: 5,5 x 5,5 cm
+      InvNr: 576_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 4fb9eeab72a5feb4f954dede2c958420, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Dorfansicht von Domersleben
+      Description: View of Domersleben
+      OppPlatt: "Blick opp Daumersl\xE4 "
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film color
+      Technique: Film color
+      TechnikPlatt: Film bunt
+      Dimensions: 6 x 9 cm
+      InvNr: 580_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 67b9f433fab9f4a4ba53b47671604933, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: "Friedensstra\xDFe in Domersleben"
+      Description: "Friedensstra\xDFe in Domersleben"
+      OppPlatt: "Friedensstrate in Daumersl\xE4"
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film sw
+      Technique: Film monochrome
+      TechnikPlatt: Film swart-witt
+      Dimensions: 5,5 x 5,5 cm
+      InvNr: 585_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 364cc8aac61a7e14583f646fd93beb1b, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Pferdeschlitten in Domersleben
+      Description: Horse-sleigh in Domersleben
+      OppPlatt: "Pereslicker in Daumersl\xE4"
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film sw
+      Technique: Film monochrome
+      TechnikPlatt: Film swart-witt
+      Dimensions: 5,5 x 5,5 cm
+      InvNr: 588_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 602b9688dabf5f7488651c45beaa9b2e, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Hausfrau beim Teppichklopfen im Schnee
+      Description: Woman beating a carpet in the snow
+      OppPlatt: En Fruunsminsche kloppt en Teppich in`n Snei
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film sw
+      Technique: Film monochrome
+      TechnikPlatt: Film swart-witt
+      Dimensions: 5,5 x 5,5 cm
+      InvNr: 591_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 875883202b9b0e04babfc2b0aa4bbcd4, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: "Sch\xFClermannschaft bei der Feuerwehr\xFCbung"
+      Description: Young firemen during an e x ercise
+      OppPlatt: "Junke L\xFCe probeiert in de F\xFCerwehr"
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film sw
+      Technique: Film monochrome
+      TechnikPlatt: Film swart-witt
+      Dimensions: 5,5 x 5,5 cm
+      InvNr: 625_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 21a802afe4774914dbc743d38fdee02d, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Zuckerfabrik in Klein Wanzleben
+      Description: The sugar factory of Klein Wanzleben
+      OppPlatt: "Kollenlager in de Zuckerfabrik L\xFCttchen Wanzl\xE4"
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film sw
+      Technique: Film monochrome
+      TechnikPlatt: Film bunt
+      Dimensions: 4 x 3 cm
+      InvNr: 647_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 3ae807113e5d0fc449e6ab9eb6c1a903, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: "Zirkus, Kind reitet auf B\xE4ren"
+      Description: Circus, child on a bear
+      OppPlatt: "Z\xFCrkus, l\xFCttchet M\xE4ken sitt opp en B\xE4ren"
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film sw
+      Technique: Film monochrome
+      TechnikPlatt: Film swart-witt
+      Dimensions: 5,5 x 5,5 cm
+      InvNr: 775_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 6f6a441bc7ed1b740935cb2aeb9fe9ac, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Kulturhaus in Domersleben
+      Description: Arts centre in Domersleben
+      OppPlatt: "Kulturhuus in Daumersl\xE4"
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film sw
+      Technique: Film monochrome
+      TechnikPlatt: Film swart-witt
+      Dimensions: 5,5 x 5,5 cm
+      InvNr: 777_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: ee948219e49700f48b558796a0baca82, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Im Domerslebener Kulturhaus
+      Description: Inside the arts centre of Domersleben
+      OppPlatt: "Im Kulturhuus in Daumersl\xE4"
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film sw
+      Technique: Film monochrome
+      TechnikPlatt: Film swart-witt
+      Dimensions: 5,5 x 5,5 cm
+      InvNr: 778_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 2fc24fe8a7bc95a47bed7321ae3d3358, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Im Domerslebener Kulturhaus
+      Description: Inside the arts centre of Domersleben
+      OppPlatt: "Im Kulturhuus in Daumersl\xE4"
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film color
+      Technique: Film color
+      TechnikPlatt: Film bunt
+      Dimensions: 4,5 x 6 cm
+      InvNr: 779_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: b458fe7c66e3a244a8fb51f1030717ee, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: "Erntefest mit geschm\xFCckten Pferdewagen"
+      Description: Harvest festival,Thanksgiving
+      OppPlatt: "Eernfest mid jesm\xFCckte Perewaan in Daumersl\xE4"
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Glasnegativ
+      Technique: Glass negative
+      TechnikPlatt: Glasplatte
+      Dimensions: 6,5 x 9 cm
+      InvNr: 783_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 8fb744d27871053448218215f4de2bee, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: "Teich mit Schw\xE4nen im Wanzlebener Volkspark"
+      Description: Pond with swans in a park in Wanzleben
+      OppPlatt: "Diek mid Sw\xE4ne im Park in Wanzl\xE4"
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film sw
+      Technique: Film monochrome
+      TechnikPlatt: Film swart-witt
+      Dimensions: 4,5 x 6 cm
+      InvNr: 806_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 8478318532d0fbc469f080d0f5112b81, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Blick auf das Wanzlebener Rathaus
+      Description: Townhall of Wanzleben
+      OppPlatt: "Rathuus in Wanzl\xE4"
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film sw
+      Technique: Film monochrome
+      TechnikPlatt: Film swart-witt
+      Dimensions: 5,5 x 5,5 cm
+      InvNr: 816_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 7b8bb77f2ab31de499ac0e6ed2bc7dda, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Gasthof in Klein Rodensleben
+      Description: Local inn in Klein Rodensleben
+      OppPlatt: "Krauch in L\xFCttchen Rodensl\xE4"
+  - Name: Personen
+    NameEnglish: Persons
+    NamePlatt: "L\xFCe"
+    Artworks:
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film sw
+      Technique: Film monochrome
+      TechnikPlatt: Film swart-witt
+      Dimensions: 5,5 x 5,5 cm
+      InvNr: 100_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: e1be5b5c41e6c244a90c91df06d21e2b, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: "F\xFCnf Kinder auf einem Wagen"
+      Description: 5 children in clogs on a cart
+      OppPlatt: "Fiwe Kinner in H\xF6llschen opp en Plattenwaan"
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film sw
+      Technique: Film monochrome
+      TechnikPlatt: Film swart-witt
+      Dimensions: 5,5 x 5,5 cm
+      InvNr: 101_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 008aaace878604140b32e6c35da30d5f, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: "M\xE4dchen im Kleidchen auf dem T\xF6pfchen"
+      Description: Girl with a dress on a pot
+      OppPlatt: "L\xFCttchet M\xE4ken mid Kleed sitt opp en Pott"
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Glasnegativ
+      Technique: Glass negative
+      TechnikPlatt: Glasplatte
+      Dimensions: 6,5 x 9 cm
+      InvNr: 121_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 75d12596bfb1bf14fba8863b1f5fb84c, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Kinderspiel mit Pferd und Grammophon
+      Description: "hild\u2019s play with horse and gramophone"
+      OppPlatt: Kinnerspeel mid Holtperd un Grammophon
+    - Year: 1930er-40er
+      YearEnglish: 1930s-40s
+      Technik: Glasnegativ
+      Technique: Glass negative
+      TechnikPlatt: Glasplatte
+      Dimensions: 6,5 x 9 cm
+      InvNr: 181_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: cfb8be57a06b3474582c4e25cc72fab8, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Fest mit Artisten und Kindern
+      Description: Party with children and 2 artists
+      OppPlatt: "Z\xFCrkusl\xFCe opp ne Wiesche mit Kinner, Fruuns- un Mannsl\xFCe"
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Glasnegativ
+      Technique: Glass negative
+      TechnikPlatt: Glasplatte
+      Dimensions: 6,5 x 9 cm
+      InvNr: 248_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 341e60d23e57032408fcf7aadd03b2ed, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Zirkusvorstellung, der Eisenbieger
+      Description: Circus, strong man
+      OppPlatt: "Z\xFCrkus, starker Mannsminsche"
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Glasnegativ
+      Technique: Glass negative
+      TechnikPlatt: Glasplatte
+      Dimensions: 6,5 x 9 cm
+      InvNr: 259_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: c80e1f81b74e2b04dba10dc2dfa8ef3b, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Trachtengruppe vor einem Pavillon
+      Description: Local costume group in front of a pavilion
+      OppPlatt: "Junke L\xFCe in B\xF6redracht "
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film sw
+      Technique: Film monochrome
+      TechnikPlatt: Film swart-witt
+      Dimensions: 5,5 x 5,5 cm
+      InvNr: 260_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: d7cffcb1c42571a4795eb2fdf1bda8e6, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: "M\xE4dchen des B\xF6rde-Ensembles in Tracht"
+      Description: Girl in local costume
+      OppPlatt: "Junke Fruu in B\xF6redracht"
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film sw
+      Technique: Film monochrome
+      TechnikPlatt: Film swart-witt
+      Dimensions: 5,5 x 5,5 cm
+      InvNr: 263_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 4780a49c9827f8b41b8f6826609efcf7, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: "Zirkusvorstellung, das Kraftm\xE4dchen"
+      Description: Circus, strong woman
+      OppPlatt: "Z\xFCrkus, starket Fruunsminsche"
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film sw
+      Technique: Film monochrome
+      TechnikPlatt: Film swart-witt
+      Dimensions: 5,5 x 5,5 cm
+      InvNr: 356_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 1f007cb9782e99b42afdcd960b911ad5, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Essensausgabe auf dem Acker
+      Description: Catering on the field
+      OppPlatt: Middacheten opp en Acker
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film color
+      Technique: Film color
+      TechnikPlatt: Film bunt
+      Dimensions: 4,5 x 6 cm
+      InvNr: 444_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 04c054f756338504ba90742dbde33c1a, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Schausteller, Riese und Zwerg
+      Description: Circus artists, giant and dwarf
+      OppPlatt: "Z\xFCrkus, groot und l\xFCttch"
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film sw
+      Technique: Film monochrome
+      TechnikPlatt: Film swart-witt
+      Dimensions: 5,5 x 5,5 cm
+      InvNr: 453_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 8a2944cc85b5a4149a0f91978c760e41, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: "M\xE4dchen des B\xF6rde-Ensemble in Tracht"
+      Description: "Girl of the B\xF6rde-Ensemble in costume"
+      OppPlatt: "Junke Fruunsl\xFC\xFC in B\xF6redracht"
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film sw
+      Technique: Film monochrome
+      TechnikPlatt: Film swart-witt
+      Dimensions: 5,5 x 5,5 cm
+      InvNr: 454_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 5bf3a47bc28c7fd45b160f41d7f30ed5, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: "Paar des B\xF6rde-Ensembles in Trachten"
+      Description: "Couple of the B\xF6rde-Ensemble in traditional costumes"
+      OppPlatt: "Ne junke Fruu un en junker Mannsminsche in B\xF6redracht"
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film color
+      Technique: Film color
+      TechnikPlatt: Film bunt
+      Dimensions: 6 x 9 cm
+      InvNr: 459_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 4b77c4203d7cc4d48ba3800f86ea4e76, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: "B\xF6rde-Ensemble in Tracht bei einer Hochzeit"
+      Description: "B\xF6rde-Ensemble in traditional costumes at a wedding"
+      OppPlatt: "L\xFCe fonn dat \"B\xF6rde-Ensemble\" bie ne Hochtiet"
+    - Year: 1950er Jahre
+      YearEnglish: 1950s
+      Technik: Film color
+      Technique: Film color
+      TechnikPlatt: Film bunt
+      Dimensions: 6 x 9 cm
+      InvNr: 463_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 76f1a13cffd5a4c4894ec47cb82a363c, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: "Fu\xDFballmannschaft auf dem Domerslebener Sportplatz"
+      Description: Football team in Domersleben
+      OppPlatt: "Mannsl\xFCe speelt Fautball in Daumersl\xE4"
+    - Year: 1950er Jahre
+      YearEnglish: 1950s
+      Technik: Film color
+      Technique: Film color
+      TechnikPlatt: Film bunt
+      Dimensions: 6 x 9 cm
+      InvNr: 464_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 81f069b945ca40b4c8b9ef1722ce6256, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: "Fu\xDFballmannschaft auf dem Domerslebener Sportplatz"
+      Description: Football team in Domersleben
+      OppPlatt: "Mannsl\xFCe speelt Fautball in Daumersl\xE4"
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film sw
+      Technique: Film monochrome
+      TechnikPlatt: Film swart-witt
+      Dimensions: 5,5 x 5,5 cm
+      InvNr: 469_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 1054f74cef182a742b0e8d65e528ca8e, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: "Paar des B\xF6rse-Ensembles mit Tuba"
+      Description: "Couple of the B\xF6rde-Ensemble with tuba"
+      OppPlatt: Ne junke Fruu un en junker Mannsminsche mid ne Tuba
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film color
+      Technique: Film color
+      TechnikPlatt: Film bunt
+      Dimensions: 5,5 x 5,5 cm
+      InvNr: 489_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: b8de3a2350a1fc74fb48ccd10fe5b56c, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Hochzeitsgesellschaft
+      Description: Wedding party
+      OppPlatt: Hochtietsjesellschaft
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film color
+      Technique: Film color
+      TechnikPlatt: Film bunt
+      Dimensions: 6 x 9 cm
+      InvNr: 490_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: f58a080a125bdf347923efdee9d74c44, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Konfirmanden mit Gemeindepfarrer in Domersleben
+      Description: Confirmands and priest in Domersleben
+      OppPlatt: "Konfirmannen un Paster in Daumersl\xE4"
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film color
+      Technique: Film color
+      TechnikPlatt: Film bunt
+      Dimensions: 4,5 x 6 cm
+      InvNr: 513_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 5a1f734c9a59cc241bea04473ed310a4, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: "Mann mit H\xFChnern auf dem Scho\xDF"
+      Description: Man in a chair with chicken
+      OppPlatt: "Mann in`n Lehnstaul mid H\xE4uner"
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film sw
+      Technique: Film monochrome
+      TechnikPlatt: Film swart-witt
+      Dimensions: 6 x 9 cm
+      InvNr: 515_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 27ba8f84d313cf14ba319dd2efa7569e, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: "Frau posiert mit gro\xDFer R\xFCbe"
+      Description: Woman poses with big turnip
+      OppPlatt: "Fruu mid ne groote Futterr\xE4ube"
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film sw
+      Technique: Film monochrome
+      TechnikPlatt: Film swart-witt
+      Dimensions: 5,5 x 5,5 cm
+      InvNr: 519_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 6fbc8108acb41c24ab243a395e20511b, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: "M\xE4dchen mit gro\xDFer Frucht im Garten"
+      Description: Girl with big fruit in the garden
+      OppPlatt: "M\xE4ken mid grootet Jem\xFCse ut en Gaarn"
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film sw
+      Technique: Film monochrome
+      TechnikPlatt: Film swart-witt
+      Dimensions: 5,5 x 5,5 cm
+      InvNr: 564_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: ad472551e1784df4689ed19c6fd8ed6b, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Eltern von Fritz Giesecke in Domersleben
+      Description: Parents of Fritz Giesecke in Domersleben
+      OppPlatt: "De \xD6ldern fonn Fritz Giesecke in Daumersl\xE4"
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film color
+      Technique: Film color
+      TechnikPlatt: Film bunt
+      Dimensions: 6 x 9 cm
+      InvNr: 586_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 9dce18d81a40e6b45888f78417bcf72d, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Hohendodeleben, Wirt Bangemann am Tresen
+      Description: Hohendodeleben, pub owner Bangemann at the counter
+      OppPlatt: "Hohendodel\xE4, Kr\xE4uger Bangemann an sienen Tresen"
+    - Year: 1930er
+      YearEnglish: 1930s
+      Technik: Film sw
+      Technique: Film monochrome
+      TechnikPlatt: Film swart-witt
+      Dimensions: 5,5 x 5,5 cm
+      InvNr: 597_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: bfae0554c45948b45b3589585e36c0a9, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: "Feuerwehr\xFCbung in Domersleben mit Kindern"
+      Description: Young firemen during an e x ercise in Domersleben
+      OppPlatt: "Ok l\xFCttje Kinner probeiert in de F\xFCerwehr in Daumersl\xE4"
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film sw
+      Technique: Film monochrome
+      TechnikPlatt: Film swart-witt
+      Dimensions: 5,5 x 5,5 cm
+      InvNr: 610_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: b781844d04438d448a0d9f88757fc5bf, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Kinder mit einem Schneemann
+      Description: 2 children with a snowman
+      OppPlatt: Twei Kinner mid en Sneimann
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film sw
+      Technique: Film monochrome
+      TechnikPlatt: Film swart-witt
+      Dimensions: 5,5 x 5,5 cm
+      InvNr: 627_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 009fe83abd5423344a1683d1e9c4266c, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: "F\xFCnf Kinder auf einer Holzbank"
+      Description: 5 children in clogs on a bench
+      OppPlatt: "Fiwe Kinner in H\xF6llschen opp en Plattenwaan"
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film sw
+      Technique: Film monochrome
+      TechnikPlatt: Film swart-witt
+      Dimensions: 5,5 x 5,5 cm
+      InvNr: 629_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: ac596f95be87d984da9b7952ab7108ce, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Kinder auf der Wiese
+      Description: 5 children in clogs on a field
+      OppPlatt: "Fiwe Kinner in H\xF6llschen sitt in`t Gras"
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film sw
+      Technique: Film monochrome
+      TechnikPlatt: Film swart-witt
+      Dimensions: 5,5 x 5,5 cm
+      InvNr: 632_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 3e520703c94d2b24e913ec2fc0d8ca56, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Mutter und Tochter beim Erbsen auspulen
+      Description: Mother and daughter with peas in a yard
+      OppPlatt: "Mudder und l\xFCttchet M\xE4ken pult de Arften ut"
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film sw
+      Technique: Film monochrome
+      TechnikPlatt: Film swart-witt
+      Dimensions: 5,5 x 5,5 cm
+      InvNr: 634_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: a645e7310bab14c4b93db04112c25a76, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: "M\xE4dchen im Spielauto"
+      Description: Girl in a toy car in a yard
+      OppPlatt: "L\xFCttchet M\xE4ken in en Speelauto"
+    - Year: 1950er Jahre
+      YearEnglish: 1950s
+      Technik: Film color
+      Technique: Film color
+      TechnikPlatt: Film bunt
+      Dimensions: 4,5 x 6 cm
+      InvNr: 742_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: bc1e42154662bdf4ab2a216e554c6f07, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: "Gruppenfoto des B\xF6rde-Ensembles in Tracht"
+      Description: "B\xF6rde-Ensemble in traditional costumes"
+      OppPlatt: "\"B\xF6rde-Ensemble\" Minschen ut de B\xF6re in Dracht"
+    - Year: 17.09.1955
+      YearEnglish: 17.09.1955
+      Technik: Film sw
+      Technique: Film monochrome
+      TechnikPlatt: Film swart-witt
+      Dimensions: 6 x 8 cm
+      InvNr: 753_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 1184279b9ff43e04d911fdd7a8f32fc7, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Namensgebung des Kulturhauses J.R. Becher in Domersleben
+      Description: Ceremony of the arts centre J. R. Becher in Domersleben
+      OppPlatt: "Dat Kulturhuus in Daumersl\xE4 kricht sienen Namen J. R. Becher"
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film color
+      Technique: Film color
+      TechnikPlatt: Film bunt
+      Dimensions: 6 x 9 cm
+      InvNr: 754_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 8a60037e3205f834daae874c797afca3, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: "Domersleben, B\xF6rde-Ensemble bei einer Hochzeit"
+      Description: "Domersleben, B\xF6rde-Ensemble at a wedding"
+      OppPlatt: "Daumersl\xE4, \"B\xF6rde-Ensemble\" bie ne Hochtiet"
+    - Year: 1950er Jahre
+      YearEnglish: 1950s
+      Technik: Film color
+      Technique: Film color
+      TechnikPlatt: Film bunt
+      Dimensions: 6 x 9 cm
+      InvNr: 764_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 84281424504b50543818da15392054e1, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: "Fu\xDFballmannschaft in Domersleben"
+      Description: Football team in Domersleben
+      OppPlatt: "Fautballmannschaft in Daumersl\xE4"
+    - Year: 1950er Jahre
+      YearEnglish: 1950s
+      Technik: Film color
+      Technique: Film color
+      TechnikPlatt: Film bunt
+      Dimensions: 5,5 x 5,5 cm
+      InvNr: 765_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 397d0278d1548344a9ab0d73431cb1f4, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: "Fu\xDFballmannschaft in Domersleben"
+      Description: Football team in Domersleben
+      OppPlatt: "Fautballmannschaft in Daumersl\xE4"
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film sw
+      Technique: Film monochrome
+      TechnikPlatt: Film swart-witt
+      Dimensions: 5,5 x 5,5 cm
+      InvNr: 769_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 64d9f33652094ed47b9bde9ed0877bc2, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: "B\xF6rde-Ensemble, Tenorhornbl\xE4ser"
+      Description: "B\xF6rde-Ensemble, boy with tenor horn"
+      OppPlatt: "\"B\xF6rde-Ensemble\", en junker Bengel mid en Tenorhorn"
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film sw
+      Technique: Film monochrome
+      TechnikPlatt: Film swart-witt
+      Dimensions: 5,5 x 5,5 cm
+      InvNr: 770_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: da333dec8fdceaa4d9de1be3c2a72ec7, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: "B\xF6rde-Ensemble, Tenorhornbl\xE4ser"
+      Description: "B\xF6rde-Ensemble, boy with tenor horn"
+      OppPlatt: "\"B\xF6rde-Ensemble\", en junker Bengel mid en Tenorhorn"
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film sw
+      Technique: Film monochrome
+      TechnikPlatt: Film swart-witt
+      Dimensions: 5,5 x 5,5 cm
+      InvNr: 772_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 9e560ba9420e51947bc8d0789ee4eb1f, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: "B\xF6rde-Ensemble, Paar in einer Wohnstube"
+      Description: "B\xF6rde-Ensemble, couple with a horn"
+      OppPlatt: "Junke L\xFCe in B\xF6redracht fonn`t \"B\xF6rde-Ensemble\" mid a
+        Horn"
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film sw
+      Technique: Film monochrome
+      TechnikPlatt: Film swart-witt
+      Dimensions: 5,5 x 5,5 cm
+      InvNr: 791_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: f84a8fcf5783c6c43931f5b10acb7e29, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: "2 M\xE4dchen mit Kohlkopf"
+      Description: 2 girls with cabbage
+      OppPlatt: "Twei M\xE4ken mid Kohlkopp"
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film sw
+      Technique: Film monochrome
+      TechnikPlatt: Film swart-witt
+      Dimensions: 6 x 9 cm
+      InvNr: 794_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: f331bcccee16b1c46b121c9701eb79b8, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: 2 Jungen mit Kohlrabi
+      Description: 2 boys with Kohlrabi (cabbage turnip)
+      OppPlatt: Twei Jungen mid Kohlrabi
+  - Name: Pflanzen
+    NameEnglish: Plants
+    NamePlatt: Planten
+    Artworks:
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film sw
+      Technique: Film monochrome
+      TechnikPlatt: Film swart-witt
+      Dimensions: 5,5 x 5,5 cm
+      InvNr: 119_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 949fcf393975b304da71ab261e4ad45a, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: "Zwei Frauen binden Blumenstr\xE4u\xDFe"
+      Description: 2 women making bouquets
+      OppPlatt: "Twei Fruunsl\xFCe makt Blaumenstr\xFCtze"
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film sw
+      Technique: Film monochrome
+      TechnikPlatt: Film swart-witt
+      Dimensions: 5,5 x 5,5 cm
+      InvNr: 169_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 3aea9ede38353b640a2f1ad11919d5be, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: "Geb\xFCndelte Flachsgarben"
+      Description: Sheaves during fla x  harvest
+      OppPlatt: "Flassb\xFCnder"
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film color
+      Technique: Film color
+      TechnikPlatt: Film bunt
+      Dimensions: 6 x 9 cm
+      InvNr: 450_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 464eabff9774f5a4c97dac59754c7de4, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: "Vereinsbus des B\xF6rde-Ensembles mit Insassen"
+      Description: "Bus of the B\xF6rde-Ensemble with members"
+      OppPlatt: "Fahrt\xFCch mid L\xFCe \"B\xF6rde-Ensemble\""
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Dia color
+      Technique: Color photography
+      TechnikPlatt: 'Jeraamtet Bild bunt '
+      Dimensions: 4,5 x 5 cm
+      InvNr: 538_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: f956747dd04db694480ca0080956d318, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: "Bl\xFChendes Tulpenfeld bei Klein Wanzleben"
+      Description: Blossoming field of tulips close to Klein Wanzleben
+      OppPlatt: "Tulpen blaumt opp en Acker bie L\xFCttchen Wanzl\xE4"
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film color
+      Technique: Film color
+      TechnikPlatt: Film bunt
+      Dimensions: 4,5 x 6 cm
+      InvNr: 716_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 6b3ac5e90c6bdf145b11aa1746ae0bec, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Arbeiter im Mais
+      Description: workers in maize
+      OppPlatt: 'Mannsminsche opp en Acker mid Mais '
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film sw
+      Technique: Film monochrome
+      TechnikPlatt: Film swart-witt
+      Dimensions: 6 x 8 cm
+      InvNr: 722_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: d9e3959df17d6d243b7404123194cc12, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: "Beim Hopfenpfl\xFCcken"
+      Description: Hops harvest
+      OppPlatt: "Bien Hoppenpl\xFCcken"
+  - Name: Tiere
+    NameEnglish: Animals
+    NamePlatt: Diere
+    Artworks:
+    - Year: 1930er
+      YearEnglish: 1930s
+      Technik: Film sw
+      Technique: Film monochrome
+      TechnikPlatt: Film swart-witt
+      Dimensions: 5,5 x 5,5 cm
+      InvNr: 032_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 6a65f70c9b0515846b7ca070651549a6, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: "Junge mit G\xE4nsen auf der Stra\xDFe"
+      Description: Boy with geese on a street
+      OppPlatt: "L\xFCttchet Kind mid G\xE4use opp de Strate"
+    - Year: 1930er
+      YearEnglish: 1930s
+      Technik: Film sw
+      Technique: Film monochrome
+      TechnikPlatt: Film swart-witt
+      Dimensions: 5,5 x 5,5 cm
+      InvNr: 062_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: f38ea51358479ed40a19ecdc63083978, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: "Gr\xF6\xDFenmessung eines Pferdes"
+      Description: Measuring the size of a horse
+      OppPlatt: Affmeten fonn en Perd mid en Tollstock
+    - Year: 1930er
+      YearEnglish: 1930s
+      Technik: Glasnegativ
+      Technique: Glass negative
+      TechnikPlatt: Glasplatte
+      Dimensions: 6,5 x 9 cm
+      InvNr: 067_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: bcc1819261dfd864da1e0169398372b7, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: "Schleiereule auf gr\xFCnendem Baum"
+      Description: Barn owl on a tree
+      OppPlatt: Sleierule opp en Boom
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film sw
+      Technique: Film monochrome
+      TechnikPlatt: Film swart-witt
+      Dimensions: 3 x 4 cm
+      InvNr: 080_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 58ca0b3bcbb33a549b7961d2992c3443, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Gefangener Feldhamster
+      Description: Caught common hamster
+      OppPlatt: Jepleckter Hamster inebucht
+    - Year: 1930er
+      YearEnglish: 1930s
+      Technik: Glasnegativ
+      Technique: Glass negative
+      TechnikPlatt: Glasplatte
+      Dimensions: 6,5 x 9 cm
+      InvNr: 081_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 2e09aa4fcb02afb4a92a665c405f1a4c, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Feldhamster
+      Description: Common hamster
+      OppPlatt: Jepleckter Hamster
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film sw
+      Technique: Film monochrome
+      TechnikPlatt: Film swart-witt
+      Dimensions: 5,5 x 5,5 cm
+      InvNr: 082_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: ec388c23cdf0de446af3a27bf7a589fa, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: "M\xE4dchen mit Reh im Garten"
+      Description: Girl in a garden with a deer
+      OppPlatt: "M\xE4ken mid Reh in en Gaarn "
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Glasnegativ
+      Technique: Glass negative
+      TechnikPlatt: Glasplatte
+      Dimensions: 6,5 x 9 cm
+      InvNr: 083_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 1dbcc2ed850a54e43ad9ac643bdd8370, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Hund mit Kitz und Katze
+      Description: Dog with fawn and cat
+      OppPlatt: Tewe mid Kitz un Katte
+    - Year: 1930er
+      YearEnglish: 1930s
+      Technik: Glasnegativ
+      Technique: Glass negative
+      TechnikPlatt: Glasplatte
+      Dimensions: 6,5 x 9 cm
+      InvNr: 084_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 02450b47b756f18498a28d402a178c93, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Hund mit Katzen auf einer Holzbank
+      Description: Dog and cats on a bench
+      OppPlatt: Tewe mid Katte opp ne Bank ut Holt
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Glasnegativ
+      Technique: Glass negative
+      TechnikPlatt: Glasplatte
+      Dimensions: 6,5 x 9 cm
+      InvNr: 147_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 411d21cf8f09ea74384d2b6f92cfad27, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: "Sch\xE4fer auf der Wiese"
+      Description: Shepherd on a field
+      OppPlatt: Schaper opp ne Wiesche
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Glasnegativ
+      Technique: Glass negative
+      TechnikPlatt: Glasplatte
+      Dimensions: 6,5 x 9 cm
+      InvNr: 148_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: f89d4004f31da3b4d9295bbd3af029ab, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Schafherde zieht durch das Dorf
+      Description: Sheep in a village
+      OppPlatt: Schaapheere treckt dorch Dorp
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film sw
+      Technique: Film monochrome
+      TechnikPlatt: Film swart-witt
+      Dimensions: 5,5 x 5,5 cm
+      InvNr: 152_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 4647f1f83ef432f4c863ba69763f9268, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Klauenpflege der Kuh auf dem Hof
+      Description: Hoof care in a yard
+      OppPlatt: Klauenplege bie de Kau opp en Hoff
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film color
+      Technique: Film color
+      TechnikPlatt: Film bunt
+      Dimensions: 6 x 9 cm
+      InvNr: 156_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 5dcd4b35a881f494887203161c730549, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: "Sch\xE4fer mit Herde auf einem Feld"
+      Description: Shepherd with his flock on a field
+      OppPlatt: Schaper mid siene Heere opp en Felle
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film color
+      Technique: Film color
+      TechnikPlatt: Film bunt
+      Dimensions: 6 x 9 cm
+      InvNr: 157_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: d706accfc31afe343a5f71abc5cb5d00, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: "Sch\xE4fer mit Herde und Hund"
+      Description: Shepherd with his flock and dog
+      OppPlatt: Schaper mid siene Heere un Tewe
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film sw
+      Technique: Film monochrome
+      TechnikPlatt: Film swart-witt
+      Dimensions: 4,5 x 6,5 cm
+      InvNr: 186_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 338be180a0f31514dad635e2777b6f1c, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Ochsengespanne pausieren auf dem Feld
+      Description: Yoke of o x en rela x ing
+      OppPlatt: "Ossen d\xF6rt sick forrmannen"
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Glasnegativ
+      Technique: Glass negative
+      TechnikPlatt: Glasplatte
+      Dimensions: 6,5 x 9 cm
+      InvNr: 187_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: e4ef4c5fafba5e14ba53888d05db7535, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: "Schleppe wird \xFCber die Wiese gezogen"
+      Description: 3 horses dragging a field
+      OppPlatt: Bure mid Pere un Sleepe
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Glasnegativ
+      Technique: Glass negative
+      TechnikPlatt: Glasplatte
+      Dimensions: 6,5 x 9 cm
+      InvNr: 188_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: acf0a0cbc570cb64baf55cb328770b16, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Hufpflege beim Pferd auf der Wiese
+      Description: Hoof care for horses on the field
+      OppPlatt: 'Hufsmedd bie de Arbeit opp de Wiesche '
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Glasnegativ
+      Technique: Glass negative
+      TechnikPlatt: Glasplatte
+      Dimensions: 6,5 x 9 cm
+      InvNr: 255_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 69d6519cc7ea7bc4cb830b41ba875401, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: "Zirkusvorf\xFChrung, B\xE4r und Trainer"
+      Description: Circus, bear drinking from a bottle
+      OppPlatt: "Z\xFCrkus, B\xE4re drinkt ut ne Pulle"
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Glasnegativ
+      Technique: Glass negative
+      TechnikPlatt: Glasplatte
+      Dimensions: 6,5 x 9 cm
+      InvNr: 256_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: c8b96a7dcd78caa479e3f931010cd1ad, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: "Zirkusvorstellung, B\xE4r und Trainer"
+      Description: Circus, bear riding a scooter
+      OppPlatt: "Z\xFCrkus, B\xE4re f\xE4uert mid en Roller"
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Glasnegativ
+      Technique: Glass negative
+      TechnikPlatt: Glasplatte
+      Dimensions: 6,5 x 9 cm
+      InvNr: 257_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: edc749205289e2449b36f22012b29206, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: "Zirkusvorstellung, zwei B\xE4ren und ein Roller"
+      Description: Circus, 2 bears and a scooter
+      OppPlatt: "Z\xFCrkus, en B\xE4re schufft en tweiten B\xE4ren opp en Waan"
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film sw
+      Technique: Film monochrome
+      TechnikPlatt: Film swart-witt
+      Dimensions: 5,5 x 5,5 cm
+      InvNr: 265_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 268d96f765bfff34ba09c634fbac6ebe, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Zirkusvorstellung, Artist mit Stuhl und Hund
+      Description: Circus, artist with chair and dog
+      OppPlatt: "Z\xFCrkus, Mannsminsche mid Staul un Tewe"
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film sw
+      Technique: Film monochrome
+      TechnikPlatt: Film swart-witt
+      Dimensions: 6 x 9 cm
+      InvNr: 295_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 530b9cd60c497c34a8395fdc590ab64e, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Rehe im Gehege
+      Description: Deer in an enclosure
+      OppPlatt: Rehe in en Jeheje
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film color
+      Technique: Film color
+      TechnikPlatt: Film bunt
+      Dimensions: 6 x 6 cm
+      InvNr: 380_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 8cc8bad36470e3a478ed280b2af7787f, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: "Sau mit Ferkel beim S\xE4ugen"
+      Description: Sow and piglets on a yard
+      OppPlatt: Suuswien un Farken opp en Hoff
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film color
+      Technique: Film color
+      TechnikPlatt: Film bunt
+      Dimensions: 4,5 x 6 cm
+      InvNr: 381_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 2896e9f89670c9849a58547bdaa5b810, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: "H\xE4hne auf der Obstbaumplantage"
+      Description: Cocks on a plantation
+      OppPlatt: "Hahne sitt opp en Holtjestelle in Gaarn mid B\xF6me"
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film sw
+      Technique: Film monochrome
+      TechnikPlatt: Film swart-witt
+      Dimensions: 6 x 6 cm
+      InvNr: 382_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 08a157e734acd3a43baa7a2691bebbbc, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: "H\xFChner am Stallbeg\xE4ude"
+      Description: Chicken on a wooden structure
+      OppPlatt: "H\xE4uner butten forr \xF6hren Stall"
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film color
+      Technique: Film color
+      TechnikPlatt: Film bunt
+      Dimensions: 4,5 x 6 cm
+      InvNr: 383_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 0ca578f09f4bcbe4e9c0ba47932edd4e, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: "H\xE4hne auf einem Holzgestell"
+      Description: Cocks on a wooden structure
+      OppPlatt: "Hahne sitt opp en Holtjestelle in Gaarn mid B\xF6me"
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film color
+      Technique: Film color
+      TechnikPlatt: Film bunt
+      Dimensions: 6 x 9 cm
+      InvNr: 384_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 87bcd4c98750e084b9d978afa4b3d89c, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: "H\xFChner vor einem Stallgeb\xE4ude"
+      Description: Chicken in front of a hen-house
+      OppPlatt: "H\xE4uner opp de Wiesche mid H\xE4unerstall"
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film color
+      Technique: Film color
+      TechnikPlatt: Film colorart-oloritt
+      Dimensions: 6 x 9 cm
+      InvNr: 387_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 93d7f731366a3504dbed1c8fc4068028, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Schweinezucht Domersleben
+      Description: Piggery in Domersleben
+      OppPlatt: "Swienekooben in Daumersl\xE4"
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film sw
+      Technique: Film monochrome
+      TechnikPlatt: Film swart-witt
+      Dimensions: 6 x 6 cm
+      InvNr: 388_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 8cfa9127e0e04044887426134e86e39e, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Rinderherde auf der Seewiese in Domersleben
+      Description: Cattle on a field in Domersleben
+      OppPlatt: "K\xE4ue opp de Seewiesche in Daumersl\xE4"
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Glasnegativ
+      Technique: Glass negative
+      TechnikPlatt: Glasplatte
+      Dimensions: 6,5 x 9 cm
+      InvNr: 393_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 7f7cbdc6b7debbf4d8d944d91f657ac5, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Pferdengespann mit Heuwagen
+      Description: 2 horses and a cart with hay
+      OppPlatt: Perewaan mid feel Heu
+    - Year: 1950er Jahre
+      YearEnglish: 1950s
+      Technik: Film color
+      Technique: Film color
+      TechnikPlatt: Film bunt
+      Dimensions: 4,5 x 6 cm
+      InvNr: 442_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 303420f927151de47ae60c6b268a0151, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: "Schaustellerin im L\xF6wenk\xE4fig"
+      Description: Circus artist with lion
+      OppPlatt: "Z\xFCrkus, Fruunsminsche mid en Leu"
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film sw
+      Technique: Film monochrome
+      TechnikPlatt: Film swart-witt
+      Dimensions: 5,5 x 5,5 cm
+      InvNr: 500_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 8b025d82abdd4f44a9476af0b7ae1e45, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: "Kr\xE4hender Hahn auf Mauer"
+      Description: Crowing cock on a wall
+      OppPlatt: Hahne kreit opp de Muure
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film sw
+      Technique: Film monochrome
+      TechnikPlatt: Film swart-witt
+      Dimensions: 5,5 x 5,5 cm
+      InvNr: 517_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 8a4f0af553e469b4c970fc53ffa3a16e, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: "Frau f\xFCttert Eichh\xF6rnchen"
+      Description: Woman feeding a squirrel
+      OppPlatt: Ne Fruu jifft ne Eikkatte wat tau freten
+    - Year: 1930er-40er
+      YearEnglish: 1930s-40s
+      Technik: Glasnegativ
+      Technique: Glass negative
+      TechnikPlatt: Glasplatte
+      Dimensions: 6,5 x 9 cm
+      InvNr: 607_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 1e027c1c718a0dc4eab5bb9dcf4cb7a0, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Zwei Jungen spielen mit einem Rehkitz
+      Description: 2 boys play with a fawn
+      OppPlatt: Twei Jungen speelt mid en Rehkitz
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film sw
+      Technique: Film monochrome
+      TechnikPlatt: Film swart-witt
+      Dimensions: 6 x 9 cm
+      InvNr: 613_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: db5e601d0d0828741a901e9c2824abbe, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Kind schmust mit Gans
+      Description: Child with goose
+      OppPlatt: "L\xFCttchet Kind mid Gaus"
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film sw
+      Technique: Film monochrome
+      TechnikPlatt: Film swart-witt
+      Dimensions: 6,5 x 9 cm
+      InvNr: 615_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 4cfd99ddb1467e44c8eaae327a58fb30, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: "M\xE4dchen am Dorfteich mit Schw\xE4nen"
+      Description: Girl by the village pond with swans
+      OppPlatt: "M\xE4ken an`n Dorpdiek mid Sw\xE4ne "
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film sw
+      Technique: Film monochrome
+      TechnikPlatt: Film swart-witt
+      Dimensions: 5,5 x 5,5 cm
+      InvNr: 617_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 6a20212bc77f86e4489306a9be99c396, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Kind mit Rehkitz
+      Description: Child and fawn
+      OppPlatt: "M\xE4ken mid Reh "
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film sw
+      Technique: Film monochrome
+      TechnikPlatt: Film swart-witt
+      Dimensions: 4 x 6 cm
+      InvNr: 618_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 8a091adb20742bd41a4832b81d279b54, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Hund mit Kitz und Katze
+      Description: Dog with fawn and cat
+      OppPlatt: Tewe mid Katte un Kitz
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film sw
+      Technique: Film monochrome
+      TechnikPlatt: Film swart-witt
+      Dimensions: 5,5 x 5,5 cm
+      InvNr: 651_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: f1662a41d27ff0d45b6319334d54b16f, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Hirsch im Gehege liegt am Baum
+      Description: Stag in an enclosure
+      OppPlatt: Hirsch liet in en Jeheje an en Boom
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film sw
+      Technique: Film monochrome
+      TechnikPlatt: Film swart-witt
+      Dimensions: 4 x 4,5 cm
+      InvNr: 713_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 8dbebe350a784ec4ab39d1fe1bd98fc6, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: "Sch\xE4fer mit Herde und Hund"
+      Description: Shepherd with his flock and dog on a field
+      OppPlatt: Schaper mid Schaape un Tewe
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film color
+      Technique: Film color
+      TechnikPlatt: Film bunt
+      Dimensions: 6 x 6 cm
+      InvNr: 723_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: fc42a44ef319902488ac84c92b050c9b, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: "Sau mit Ferkeln bei der F\xFCtterung"
+      Description: Sow and piglets feeding
+      OppPlatt: Suuswien un Farken kriejet Futter
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film sw
+      Technique: Film monochrome
+      TechnikPlatt: Film swart-witt
+      Dimensions: 6 x 8,5 cm
+      InvNr: 725_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 4e072aac95124f440b225e06a77e19a9, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: "H\xFChner vor dem Stall"
+      Description: Chicken by a hen-house
+      OppPlatt: "H\xE4uner forr en Stall"
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film sw
+      Technique: Film monochrome
+      TechnikPlatt: Film swart-witt
+      Dimensions: 6 x 8,5 cm
+      InvNr: 727_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: c0a5accfa0eae78489d81eefd2c21c37, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: "H\xFChner vor dem Stall"
+      Description: Chicken by a hen-house
+      OppPlatt: "H\xE4uner forr en Stall"
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film sw
+      Technique: Film monochrome
+      TechnikPlatt: Film swart-witt
+      Dimensions: 6 x 6 cm
+      InvNr: 728_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: fd38bee10c49c9d4e83719150ff860c7, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Bienenwagen im Rapsfeld
+      Description: Beehives in a rapeseed field
+      OppPlatt: "Waan mid Immen opp \xB4en Rapsacker"
+    - Year: 1950er Jahre
+      YearEnglish: 1950s
+      Technik: Film color
+      Technique: Film color
+      TechnikPlatt: Film bunt
+      Dimensions: 4,5 x 6 cm
+      InvNr: 740_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: c25fd66ddd6c56f47877eac4f8322e29, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: "Schaustellerin im L\xF6wenk\xE4fig"
+      Description: Circus artist with lion
+      OppPlatt: "Z\xFCrkus-Fruu mid en Leu "
+    - Year: 1950er Jahre
+      YearEnglish: 1950s
+      Technik: Film color
+      Technique: Film color
+      TechnikPlatt: Fim bunt
+      Dimensions: 4,5 x 6 cm
+      InvNr: 741_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: fb24327981f0c1644a620b8cdd0b81b7, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: "Schaustellerin im L\xF6wenk\xE4fig"
+      Description: Circus artist with lion
+      OppPlatt: "Z\xFCrkus-Fruu mid en Leu "
+    - Year: unbekannt
+      YearEnglish: unknown
+      Technik: Film sw
+      Technique: Film monochrome
+      TechnikPlatt: Film swart-witt
+      Dimensions: 5,5 x 5,5 cm
+      InvNr: 782_2009 BMBU_Giesecke
+      Image: {fileID: 21300000, guid: 1e69b1b4a0dc15e4eb9d2a5ce313f577, type: 3}
+      Author: Fritz Giesecke
+      Copyright: "F. Giesecke, B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: "Winteridylle am Domerslebener See mit Rebh\xFChnern"
+      Description: Partridges by a lake of Domersleben in the winter
+      OppPlatt: "Wintertiet mid Rebh\xE4uner, Daumersl\xE4sche See"

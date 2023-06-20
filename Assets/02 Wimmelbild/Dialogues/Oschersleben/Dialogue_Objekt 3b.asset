@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7cdca8fa1c6f26f40ac66f11763ddcdf, type: 3}
+  m_Name: Dialogue_Objekt 3b
+  m_EditorClassIdentifier: 
+  ComplementingImage: {fileID: 0}
+  Messages:
+  - CharacterName: {fileID: 0}
+    CharacterImage: {fileID: 21300000, guid: cf562a4235a507f46a6a07547437b136, type: 3}
+    Sound: {fileID: 8300000, guid: e87fb68b33477714ab07f4cd4d84f5d2, type: 3}
+    SoundEnglish: {fileID: 8300000, guid: 81ede2be82540114c8856693cc2e5c7f, type: 3}
+    SoundPlatt: {fileID: 8300000, guid: eb8ae5d6b7e59de4980760a985865d3e, type: 3}
+    SoundVolume: 1
+    SoundOffset: 0
+    Text: "Die Arbeiter und Arbeiterinnen wohnten in Kasernen. In ihrem Gep\xE4ck
+      brachten sie nur das N\xF6tigste mit. Am Ende der Saison fuhren sie wieder
+      nach Hause."
+    TextEnglish: Workers lived in barracks. They only brought their bare necessities.
+      At the end of the season the travelled back home.
+    TextPlatt: "De L\xFCe brochte man in Kasernen under. In \xF6hren Jep\xE4ck harren
+      sei blot dat N\xF6dichste. An`n Enne fonn de Kampanje s\xFCnd sei wedder na
+      Huuse ef\xE4uert."

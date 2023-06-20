@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7cdca8fa1c6f26f40ac66f11763ddcdf, type: 3}
+  m_Name: Dialogue_Zoomable 6
+  m_EditorClassIdentifier: 
+  ComplementingImage: {fileID: 0}
+  Messages:
+  - CharacterName: {fileID: 0}
+    CharacterImage: {fileID: 21300000, guid: 6e6279a4288516d4aabb4e7add526a22, type: 3}
+    Sound: {fileID: 8300000, guid: 6c3409df356f1264cafdc5e1b13024c8, type: 3}
+    SoundEnglish: {fileID: 8300000, guid: a959a6abf62838d45b96bc4ba4edf48b, type: 3}
+    SoundPlatt: {fileID: 8300000, guid: 0aa6484bf38196f42891dbaa5023f0db, type: 3}
+    SoundVolume: 1
+    SoundOffset: 0
+    Text: 'Totenkrone: In diesem Holzkasten befindet sich eine feinteilige Krone.
+      Sie erinnert an ein Baby, dass leider nur kurz gelebt hat. '
+    TextEnglish: 'Death-crown: In this wooden case there is a finely craftet crown.
+      It resembles an infant who sadly died early.'
+    TextPlatt: "Doenkrone: In d\xFCssen Holtkasten is ne fiene Krone. Se w\xF6rre
+      forr en l\xFCttchet Kind, dat blot wennije Dage elewet hat."

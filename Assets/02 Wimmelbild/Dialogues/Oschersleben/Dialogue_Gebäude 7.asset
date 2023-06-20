@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7cdca8fa1c6f26f40ac66f11763ddcdf, type: 3}
+  m_Name: "Dialogue_Geb\xE4ude 7"
+  m_EditorClassIdentifier: 
+  ComplementingImage: {fileID: 0}
+  Messages:
+  - CharacterName: {fileID: 0}
+    CharacterImage: {fileID: 21300000, guid: 797997f32682a6e44a8e22f2352f8c07, type: 3}
+    Sound: {fileID: 8300000, guid: b7b2fdbc2b6fbce43add958b023dc9a3, type: 3}
+    SoundEnglish: {fileID: 8300000, guid: 1e52c1fa4705edb4a99c2b909472c1fc, type: 3}
+    SoundPlatt: {fileID: 8300000, guid: e6841b5c317cea0488efe70e961a55c0, type: 3}
+    SoundVolume: 1
+    SoundOffset: 0
+    Text: "Nikolai-Kirche: Die Nikolai-Kirche wurde mehrfach umgebaut. Die T\xFCrme
+      der Kirche stammen aus dem 14. Jh., die weiteren Bestandteile von 1881."
+    TextEnglish: 'St. Nicholai church: The church of St. Nicholai was rebuilt several
+      times. Its towers date back to the 14th century, the other parts are from 1881.'
+    TextPlatt: "Nikolai-Kerche: De Nikolai-Kerche worre aff un tau ummeebuut. De
+      T\xF6rme koomt ut dat 14. Jahrhunnert. De anderen Buudeile s\xFCnd fonn 1881."

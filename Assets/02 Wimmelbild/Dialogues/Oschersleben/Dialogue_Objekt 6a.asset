@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7cdca8fa1c6f26f40ac66f11763ddcdf, type: 3}
+  m_Name: Dialogue_Objekt 6a
+  m_EditorClassIdentifier: 
+  ComplementingImage: {fileID: 0}
+  Messages:
+  - CharacterName: {fileID: 0}
+    CharacterImage: {fileID: 21300000, guid: 7cbbf9934678bce4ebabf06606d4cb5e, type: 3}
+    Sound: {fileID: 8300000, guid: 2433c3cd8a237bb4b85583e38def6a4f, type: 3}
+    SoundEnglish: {fileID: 8300000, guid: e3e71be67e3b81f4b8807ec271ffbc3a, type: 3}
+    SoundPlatt: {fileID: 8300000, guid: cd35f4a1e3c51954c990a1ba7a707491, type: 3}
+    SoundVolume: 1
+    SoundOffset: 0
+    Text: Damals gab es in Oschersleben viele Zuckerfabriken. Der hier hergestellte
+      Zucker wurde in anderen Fabriken weiterverarbeitet.
+    TextEnglish: In those days there were many sugar refineries in Oschersleben.
+      The sugar produced here was then further processed in other factories.
+    TextPlatt: "Dunnemals jaaf et in Oschersl\xE4 feele Zuckerfabriken. De heier
+      herjestellte Zucker worre in annere Fabriken forrarbeit. "

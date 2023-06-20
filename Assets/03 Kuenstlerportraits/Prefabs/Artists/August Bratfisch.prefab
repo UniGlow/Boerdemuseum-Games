@@ -1,0 +1,934 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6210008486189657260
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2815215851487909045}
+  - component: {fileID: 2087843644164408836}
+  m_Layer: 0
+  m_Name: August Bratfisch
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2815215851487909045
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6210008486189657260}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2087843644164408836
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6210008486189657260}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62e6b64417a487d468a23e2c6a841775, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Name: August Bratfisch
+  Lifetime: "* 24. Februar 1883 in Metz; \u2020 1. November 1960 in Wanzleben"
+  Image: {fileID: 21300000, guid: 533e14289b8134848926fd082133c9d5, type: 3}
+  Description: "August Bratfisch war von 1898 und bis zu seiner Pensionierung beruflich
+    bei der Deutschen Reichsbahn t\xE4tig. Nebenberuflich absolvierte er in Metz
+    eine Ausbildung im Bereich von Malerei und Graphik. Als Metz nach dem Ersten
+    Weltkrieg Teil von Frankreich wurde, siedelte Bratfisch nach Magdeburg \xFCber,
+    wo er zu Beginn der 1920er-Jahre Kontakte zu progressiven K\xFCnstlerkreisen
+    unterhielt und Mitglied der expressionistischen K\xFCnstlervereinigung \u201EDie
+    Kugel\u201C war. \r\n\n1945 ausgebombt, fand Bratfisch mit seiner Frau in Wanzleben
+    eine neue Heimat. \xDCber die ganze Zeit stets k\xFCnstlerisch aktiv, pr\xE4gte
+    nun der Umzug in die Magdeburger B\xF6rde sein Werk. Waren es bis dahin vor allem
+    \xD6lbilder und Federzeichnungen, bevorzugte er nun Bleistiftzeichnungen und
+    Aquarelle.\r\n\nAugust Bratfisch schuf ein k\xFCnstlerisch bemerkenswertes, die
+    Zeit- und Landschaftsverh\xE4ltnisse dokumentierendes Werk, das als eine Gesamtaufnahme
+    seiner neuen Heimat angelegt war und ihn als den \u201CB\xF6rde-Maler\u201D ausweist."
+  DescriptionEnglish: "August Bratfisch worked for the Deutsche Reichsbahn (German
+    National Railway) from 1898 until his retirement. He received an education in
+    painting and graphics while he still lived in Metz. After the First World War,
+    when Metz became part of France, he relocated to Magdeburg. There he was in contact
+    with other progressive artist circles and was a member of the expressionistic
+    group Die Kugel (The Sphere). \r\n\nAfter the bombing of Magdeburg in 1945, he
+    found a new home with his wife in Wanzleben. Artistically productive the whole
+    time, this relocation to the countryside of the Magdeburger B\xF6rde impacted
+    on his art. Until then he had mainly produced oil-paintings and pen-drawings,
+    now he started to favour pencil and water colours. \r\n\nAugust Bratfisch created
+    a remarkable body of work, documenting the times and changes of the countryside.
+    He is therefore rightly considered the B\xF6rde-painter."
+  DescriptionPlatt: "August Bratfisch is aff 1898 bet tau siene Rente bie de Iesenbahne
+    ewest. Nebenbie harre hei in Metz (Lotringen) ne Schaule for Malerie un Teiken
+    besocht. Na`en Ersten Weltkriech moste hei na Madeborch umtrecken. Taun Anfang
+    fonn de 1920er-Jaare worre hei ok bie de Kunstl\xFCe Die Kugel. \r\n\n1945 utebombt,
+    is hei mid siene Fru na Wanzl\xE4 etreckt. De B\xF6re w\xF6rre forr Bratfisch
+    sien niet Tauhuuse. Ower de jesamte Tiet harre hei feel emalt. \xD6lmalerie un
+    Biller, de mid Fedder emaakt s\xFCnd, jaaf et bet dahen. Nu male hei ofte mid
+    Blisticken un Waterfarwe.\r\n\nFeele Biller ut de Madeborjer B\xF6re s\xFCnd
+    tausamme ekomen. D\xF6rper, Planten, Diere, Minschen bie de Arbeit un de Natur
+    hare hei emalt. Hei kreije sienen Bienamen: De B\xF6re-Maler."
+  Categories:
+  - Name: Landschaft
+    NameEnglish: Landscape
+    NamePlatt: Landschaft
+    Artworks:
+    - Year: 26.6.1952
+      YearEnglish: 26.6.1952
+      Technik: Bleistiftzeichnung
+      Technique: Pencil drawing
+      TechnikPlatt: Bild mid Blisticken emaakt
+      Dimensions: 32 x 46 cm
+      InvNr: V_22_00_16_152
+      Image: {fileID: 21300000, guid: c88f27386bf652a40bddabc7b7a46970, type: 3}
+      Author: August Bratfisch
+      Copyright: "B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: "Bew\xF6lkter Himmel"
+      Description: Cloudy sky
+      OppPlatt: Wulkenhewen
+    - Year: 1934
+      YearEnglish: 1934
+      Technik: "\xD6lmalerei"
+      Technique: Oil painting
+      TechnikPlatt: "\xD6lmalerie"
+      Dimensions: 67 x 78 cm
+      InvNr: V_22_00_16_189
+      Image: {fileID: 21300000, guid: 09b954ac6dda3ca41a650eee31ed35b0, type: 3}
+      Author: August Bratfisch
+      Copyright: "B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Salchau
+      Description: Salchau
+      OppPlatt: Salchau
+    - Year: 10.8.1950
+      YearEnglish: 10.8.1950
+      Technik: Aquarell
+      Technique: Aquarell
+      TechnikPlatt: Bild mid Waterfarwe
+      Dimensions: 30,6 x 42,2 cm
+      InvNr: V_22_00_16_6
+      Image: {fileID: 21300000, guid: 7d5e8caace506fe4e98238cce371b268, type: 3}
+      Author: August Bratfisch
+      Copyright: "B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Feld mit zahlreichen Strohdiemen und Baumgruppe
+      Description: Field with harvested grain and trees
+      OppPlatt: "Acker mid feele Strohdiemen un B\xF6\xF6me"
+    - Year: 1932
+      YearEnglish: 1932
+      Technik: "\xD6lmalerei"
+      Technique: Oil painting
+      TechnikPlatt: "Bild mid \xD6listickil emaakt"
+      Dimensions: 66 x 78 cm
+      InvNr: V_22_00_16_349
+      Image: {fileID: 21300000, guid: a71a619ad7e5b094caf8939b6772e972, type: 3}
+      Author: August Bratfisch
+      Copyright: "B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Letzlingen-Salchau
+      Description: Letzlingen-Salchau
+      OppPlatt: Letzlingen-Salchau
+    - Year: undatiert, 1950er Jahre
+      YearEnglish: undated, 1950er Jahre
+      Technik: Aquarell
+      Technique: Aquarell
+      TechnikPlatt: Bild mid Waterfarwe
+      Dimensions: 17 x 23,8 cm
+      InvNr: V_22_00_16_362
+      Image: {fileID: 21300000, guid: dd3d4de655ca8b844ad42ce151b301b6, type: 3}
+      Author: August Bratfisch
+      Copyright: "B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Wetterimpression
+      Description: Weather impressions
+      OppPlatt: Wedder
+    - Year: undatiert
+      YearEnglish: undated
+      Technik: Bleistiftzeichnung
+      Technique: Pencil drawing
+      TechnikPlatt: Bild mid Blisticken emaakt
+      Dimensions: 29,6 x 42 cm
+      InvNr: V_22_00_16_406
+      Image: {fileID: 21300000, guid: 1e9608fec24db3a4d8e9b1511f012b3e, type: 3}
+      Author: August Bratfisch
+      Copyright: "B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Baum am Wegrand
+      Description: Tree by the road
+      OppPlatt: Boom an en Wechranne
+    - Year: undatiert
+      YearEnglish: undated
+      Technik: Bleistiftzeichnung
+      Technique: Pencil drawing
+      TechnikPlatt: Bild mid Blisticken emaakt
+      Dimensions: 32 x 46,2 cm
+      InvNr: V_22_00_16_407
+      Image: {fileID: 21300000, guid: fd4133f8218c9d141a07cb982fa6d8af, type: 3}
+      Author: August Bratfisch
+      Copyright: "B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: "Baumgruppe an einem H\xFCgel"
+      Description: Group of trees on a hill
+      OppPlatt: "B\xF6me an en H\xFCjel"
+    - Year: undatiert
+      YearEnglish: undated
+      Technik: Bleistiftzeichnung
+      Technique: Pencil drawing
+      TechnikPlatt: Bild mid Blisticken emaakt
+      Dimensions: 29,8 x 43 cm
+      InvNr: V_22_00_16_408
+      Image: {fileID: 21300000, guid: eb2f61227cf3d6a49a4ad2839b3a17a0, type: 3}
+      Author: August Bratfisch
+      Copyright: "B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Winterliche Landschaft, mit Spuren im Schnee
+      Description: Winterly landscape, with traces in the snow
+      OppPlatt: Landschaft in de Wintertiet mid Spuren in`n Snei
+    - Year: undatiert
+      YearEnglish: undated
+      Technik: Bleistiftzeichnung
+      Technique: Pencil drawing
+      TechnikPlatt: Bild mid Blisticken emaakt
+      Dimensions: 29,5 x 42,8 cm
+      InvNr: V_22_00_16_409
+      Image: {fileID: 21300000, guid: 0a2b841442102f54fa578ba9dfba56a6, type: 3}
+      Author: August Bratfisch
+      Copyright: "B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: "Winterliche, h\xFCgelige Landschaft"
+      Description: Winterly landscape with hills
+      OppPlatt: "H\xF6ggeliche Landschaft in de Wintertiet"
+  - Name: Landwirtschaft
+    NameEnglish: Agriculture
+    NamePlatt: Landwirtschaft
+    Artworks:
+    - Year: undatiert
+      YearEnglish: undated
+      Technik: Aquarell
+      Technique: Aquarell
+      TechnikPlatt: Bild mid Waterfarwe
+      Dimensions: 27,8 x 42 cm
+      InvNr: V_22_00_16_302
+      Image: {fileID: 21300000, guid: 58f526e1f4696134cbece3e611c839c5, type: 3}
+      Author: August Bratfisch
+      Copyright: "B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Beim Strohumladen auf dem Feld
+      Description: Moving straw on the field
+      OppPlatt: Bien Strohumlaan opp en Acker
+    - Year: undatiert
+      YearEnglish: undated
+      Technik: "\xD6lmalerei"
+      Technique: Oil painting
+      TechnikPlatt: "Bild mid \xD6listickil emaakt"
+      Dimensions: 46 x 58 cm
+      InvNr: V_22_00_16_350
+      Image: {fileID: 21300000, guid: 74a9a0bc25da36b4181c5a3ec86cccac, type: 3}
+      Author: August Bratfisch
+      Copyright: "B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Rinder auf der Weide, am Horizont Wanzleben
+      Description: Cattle on pasture, Wanzleben at the horizon
+      OppPlatt: "K\xE4ue opp de Wiesche, hinnen is Wanzl\xE4"
+    - Year: undatiert
+      YearEnglish: undated
+      Technik: Aquarell
+      Technique: Aquarell
+      TechnikPlatt: Bild mid Waterfarwe
+      Dimensions: 21 x 29,4 cm
+      InvNr: V_22_00_16_361
+      Image: {fileID: 21300000, guid: 43143e7e7d59b8c41839e5d96b57251a, type: 3}
+      Author: August Bratfisch
+      Copyright: "B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Feldarbeit
+      Description: Field work
+      OppPlatt: Arbeit opp en Felle
+    - Year: 26.10.1953
+      YearEnglish: 26.10.1953
+      Technik: Bleistiftzeichnung
+      Technique: Pencil drawing
+      TechnikPlatt: Bild mid Blisticken emaakt
+      Dimensions: 23 x 32 cm
+      InvNr: V_22_00_16_410
+      Image: {fileID: 21300000, guid: ed735583306f38e42b19573c025f5f8b, type: 3}
+      Author: August Bratfisch
+      Copyright: "B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Feldarbeit
+      Description: Field work
+      OppPlatt: Arbeit opp en Felle
+    - Year: 12.9.1951
+      YearEnglish: 12.9.1951
+      Technik: Bleistiftzeichnung
+      Technique: Pencil drawing
+      TechnikPlatt: Bild mid Blisticken emaakt
+      Dimensions: 23 x 32 cm
+      InvNr: V_22_00_16_411
+      Image: {fileID: 21300000, guid: 363eb47cd2663354f9b1dd5190736a7b, type: 3}
+      Author: August Bratfisch
+      Copyright: "B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: "Auf Klappsitz arbeitende B\xE4uerin"
+      Description: Working woman on a folding chair
+      OppPlatt: "Buersfruu sitt bie de Arbeit opp en Sch\xE4mel"
+    - Year: undatiert
+      YearEnglish: undated
+      Technik: Bleistiftzeichnung
+      Technique: Pencil drawing
+      TechnikPlatt: Bild mid Blisticken emaakt
+      Dimensions: 19,7 x 28 cm
+      InvNr: V_22_00_16_706
+      Image: {fileID: 21300000, guid: b88106b9ec690b34c8d9eecded346218, type: 3}
+      Author: August Bratfisch
+      Copyright: "B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Beladenes Pferdefuhrwerk mit 3 Kindern
+      Description: Cart and horse with 3 children
+      OppPlatt: Ackerwaan, full belaan un 3 Kinner
+    - Year: 1955
+      YearEnglish: 1955
+      Technik: Bleistiftzeichnung
+      Technique: Pencil drawing
+      TechnikPlatt: Bild mid Blisticken emaakt
+      Dimensions: 20,5 x 28,6 cm
+      InvNr: V_22_00_16_707
+      Image: {fileID: 21300000, guid: 63889c16e5c3a2940a5a5f6432f9e5e9, type: 3}
+      Author: August Bratfisch
+      Copyright: "B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Beim Kartoffelgraben
+      Description: Harvesting potatoes
+      OppPlatt: Kartuffelnroon
+    - Year: 18.4.1951
+      YearEnglish: 18.4.1951
+      Technik: Bleistiftzeichnung
+      Technique: Pencil drawing
+      TechnikPlatt: Bild mid Blisticken emaakt
+      Dimensions: 20,5 x 28,8 cm
+      InvNr: V_22_00_16_708
+      Image: {fileID: 21300000, guid: a36ba056655338c4b81e4126b5043dfc, type: 3}
+      Author: August Bratfisch
+      Copyright: "B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Hackende Frau auf einem Feld
+      Description: Woman hacking on a field
+      OppPlatt: Fruu hackt opp`n Felle
+    - Year: 27.7.1951
+      YearEnglish: 27.7.1951
+      Technik: Bleistiftzeichnung
+      Technique: Pencil drawing
+      TechnikPlatt: Bild mid Blisticken emaakt
+      Dimensions: 20,8 x 29,8 cm
+      InvNr: V_22_00_16_709
+      Image: {fileID: 21300000, guid: 47c17ef7fea32bd4ca79bd9de9b08fb0, type: 3}
+      Author: August Bratfisch
+      Copyright: "B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Der Bucher Weg nach Wanzleben
+      Description: Bucher Weg towards Wanzleben
+      OppPlatt: "De Bucher Wech na Wanzl\xE4"
+  - Name: Ortsmotive
+    NameEnglish: Locations
+    NamePlatt: Orte
+    Artworks:
+    - Year: 28.7.1953
+      YearEnglish: 28.7.1953
+      Technik: Bleistiftzeichnung
+      Technique: Pencil drawing
+      TechnikPlatt: Bild mid Blisticken emaakt
+      Dimensions: 32 x 46 cm
+      InvNr: V_22_00_16_126
+      Image: {fileID: 21300000, guid: d671dfcb3ea23db40a5821547147e7e4, type: 3}
+      Author: August Bratfisch
+      Copyright: "B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Eingang der Burg Ummendorf
+      Description: Entrance to Ummendorf castle
+      OppPlatt: Injang fonn de Borch in Ummendorp
+    - Year: 1952
+      YearEnglish: 1952
+      Technik: Bleistiftzeichnung
+      Technique: Pencil drawing
+      TechnikPlatt: Bild mid Blisticken emaakt
+      Dimensions: 32 x 46 cm
+      InvNr: V_22_00_16_139
+      Image: {fileID: 21300000, guid: 0d7fe252b52ac2240a7cbac83f6ba6ff, type: 3}
+      Author: August Bratfisch
+      Copyright: "B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: "Dorfstra\xDFe und Kirche Schwaneberg"
+      Description: Village road and church of Schwaneberg
+      OppPlatt: Dorpstrate un Kerche in Schwanebarch
+    - Year: 24.4.1954
+      YearEnglish: 24.4.1954
+      Technik: Bleistiftzeichnung
+      Technique: Pencil drawing
+      TechnikPlatt: Bild mid Blisticken emaakt
+      Dimensions: 32 x 46 cm
+      InvNr: V_22_00_16_140
+      Image: {fileID: 21300000, guid: 54c146da15ae3ed4f8f3b7bfd3ac426d, type: 3}
+      Author: August Bratfisch
+      Copyright: "B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: "Kleinstadtstra\xDFe mit Kirche [Poststra\xDFe Wanzleben]"
+      Description: "Small town road with church, Poststra\xDFe Wanzleben"
+      OppPlatt: "Strate in a l\xFCttje Stadt [Poststrate Wanzl\xE4]"
+    - Year: undatiert
+      YearEnglish: undated
+      Technik: "\xD6lmalerei"
+      Technique: Oil painting
+      TechnikPlatt: "\xD6lmalerie"
+      Dimensions: 70 x 82 cm
+      InvNr: V_22_00_16_187
+      Image: {fileID: 21300000, guid: b5efb3ddb2370d246a21b7e19ba238df, type: 3}
+      Author: August Bratfisch
+      Copyright: "B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: "Ansicht von Wanzleben mit den T\xFCrmen der Stadtkirche St.
+        Jacobi"
+      Description: View of Wanzleben with the towers of the St. Jacobi church
+      OppPlatt: "Ansicht fonn Wanzl\xE4 mid de T\xF6rme fonn de Jacobikerche"
+    - Year: 12.8.1953
+      YearEnglish: 12.8.1953
+      Technik: Bleistiftzeichnung
+      Technique: Pencil drawing
+      TechnikPlatt: Bild mid Blisticken emaakt
+      Dimensions: 32 x 46,2 cm
+      InvNr: V_22_00_16_401
+      Image: {fileID: 21300000, guid: 0d73fe9f7ba5c5e47ad61d42d5d1559b, type: 3}
+      Author: August Bratfisch
+      Copyright: "B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Birkenweg zum Dorf (Siegersleben)
+      Description: Birch-path towards village (Siegersleben)
+      OppPlatt: "Berkenwech taun Dorpe (Siejersl\xE4)"
+    - Year: 22.9.1953
+      YearEnglish: 22.9.1953
+      Technik: Bleistiftzeichnung
+      Technique: Pencil drawing
+      TechnikPlatt: Bild mid Blisticken emaakt
+      Dimensions: 32 x 46,2 cm
+      InvNr: V_22_00_16_402
+      Image: {fileID: 21300000, guid: 8cdd2a48ff81b8a4b99d445636855613, type: 3}
+      Author: August Bratfisch
+      Copyright: "B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: "Gro\xDFer Stall mit offenem Tor an Durchfahrt"
+      Description: Big stable with open door
+      OppPlatt: Grooter Stall mid openen Door
+    - Year: 16.9.1953
+      YearEnglish: 16.9.1953
+      Technik: Bleistiftzeichnung
+      Technique: Pencil drawing
+      TechnikPlatt: Bild mid Blisticken emaakt
+      Dimensions: 32 x 46 cm
+      InvNr: V_22_00_16_403
+      Image: {fileID: 21300000, guid: 516cc8fb0169448439921b70c5829eac, type: 3}
+      Author: August Bratfisch
+      Copyright: "B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Enten am Dorfteich [Glockenteich Langenweddingen]
+      Description: Ducks on a pond, Glocken pond, Langenweddingen
+      OppPlatt: Aanten an`n Dorpdiek [Glockendiek Langenweddich]
+    - Year: 30.3.1953
+      YearEnglish: 30.3.1953
+      Technik: Bleistiftzeichnung
+      Technique: Pencil drawing
+      TechnikPlatt: Bild mid Blisticken emaakt
+      Dimensions: 32 x 46 cm
+      InvNr: V_22_00_16_404
+      Image: {fileID: 21300000, guid: 93e86ae43a1b7354c9d65cb113604072, type: 3}
+      Author: August Bratfisch
+      Copyright: "B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Burg Wanzleben
+      Description: Castle Wanzleben
+      OppPlatt: "Borch Wanzl\xE4"
+    - Year: 1956
+      YearEnglish: 1956
+      Technik: Bleistiftzeichnung
+      Technique: Pencil drawing
+      TechnikPlatt: Bild mid Blisticken emaakt
+      Dimensions: 29,5 x 42 cm
+      InvNr: V_22_00_16_405
+      Image: {fileID: 21300000, guid: 9a18555a58125e544b34b177b0792c64, type: 3}
+      Author: August Bratfisch
+      Copyright: "B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: "Frau mit beladenem Schlitten auf verschneiter Dorfstra\xDFe
+        [Karnipstra\xDFe Wanzleben]"
+      Description: "Woman with sleigh on snowy road (Karnipstra\xDFe, Wanzleben)"
+      OppPlatt: "Fruu mid fulljepackten Slicker opp de Strate mid feel Snei [Karnipstrate
+        Wanzl\xE4]"
+  - Name: Personen
+    NameEnglish: People
+    NamePlatt: "L\xFCe"
+    Artworks:
+    - Year: 1913
+      YearEnglish: 1913
+      Technik: Federzeichnung
+      Technique: Pen drawing
+      TechnikPlatt: Bild mit Fedder emaakt
+      Dimensions: 46,3 x 34,3 cm
+      InvNr: V_22_00_16_202
+      Image: {fileID: 21300000, guid: 3bf3178f153867d4ca34e52169d91050, type: 3}
+      Author: August Bratfisch
+      Copyright: "B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Trauernde
+      Description: The mourning
+      OppPlatt: "De Bedr\xE4ubeten"
+    - Year: 11.2.1954
+      YearEnglish: 11.2.1954
+      Technik: Bleistiftzeichnung
+      Technique: Pencil drawing
+      TechnikPlatt: Bild mid Blisticken emaakt
+      Dimensions: 42,5 x 29,5 cm
+      InvNr: V_22_00_16_231
+      Image: {fileID: 21300000, guid: 617a0e963217cc8498f3e91c9f600ea9, type: 3}
+      Author: August Bratfisch
+      Copyright: "B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Frau bei der Handarbeit
+      Description: Woman doing crafts
+      OppPlatt: Fruu bie de Handarbeit
+    - Year: 1956
+      YearEnglish: 1956
+      Technik: "R\xF6tel \xFCber Bleistift"
+      Technique: Red chalk over pencil
+      TechnikPlatt: "R\xF6tel ower Blisticken"
+      Dimensions: 42 x 30 cm
+      InvNr: V_22_00_16_232
+      Image: {fileID: 21300000, guid: 62b0f3c8db98aee4ea8462b44224148f, type: 3}
+      Author: August Bratfisch
+      Copyright: "B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: "Portr\xE4t einer Frau"
+      Description: Portrait of a woman
+      OppPlatt: Bild fonn a Fruuensminsche
+    - Year: undatiert
+      YearEnglish: undated
+      Technik: Federzeichnung
+      Technique: Pen drawing
+      TechnikPlatt: Bild mid Fedder emaakt
+      Dimensions: 49,5 x 39 cm
+      InvNr: V_22_00_16_240
+      Image: {fileID: 21300000, guid: 4e16615c3f45c4843897b22284318fd9, type: 3}
+      Author: August Bratfisch
+      Copyright: "B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: "Portr\xE4t eines Mannes (Selbstportr\xE4t)"
+      Description: Portrait of a man (self-portrait)
+      OppPlatt: Bild fonn a Mannsminsche
+    - Year: 1927
+      YearEnglish: 1927
+      Technik: Federzeichnung
+      Technique: Pen drawing
+      TechnikPlatt: Bild mid Fedder emaakt
+      Dimensions: 63 x 47,5 cm
+      InvNr: V_22_00_16_247
+      Image: {fileID: 21300000, guid: 10d5012b708ce3644afbcfb2f7c25166, type: 3}
+      Author: August Bratfisch
+      Copyright: "B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: "Mann mit Pfeife (Selbstportr\xE4t?)"
+      Description: Man with pipe, self-portrait?
+      OppPlatt: "Mannsminsche mid Piepe (Bild fonn \xF6hne s\xFClmst?)"
+    - Year: undatiert
+      YearEnglish: undated
+      Technik: Federzeichnung
+      Technique: Pen drawing
+      TechnikPlatt: Bild mid Fedder emaakt
+      Dimensions: 63 x 48 cm
+      InvNr: V_22_00_16_250
+      Image: {fileID: 21300000, guid: 1f0526aa8e92d9f4f98862473ac7240a, type: 3}
+      Author: August Bratfisch
+      Copyright: "B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Mutter
+      Description: Mother
+      OppPlatt: Mudder
+    - Year: 1917
+      YearEnglish: 1917
+      Technik: Federzeichnung
+      Technique: Pen drawing
+      TechnikPlatt: Bild mid Fedder emaakt
+      Dimensions: 49 x 62 cm
+      InvNr: V_22_00_16_253
+      Image: {fileID: 21300000, guid: 2074035f3b7bb1b4d8b6ae09f0109e15, type: 3}
+      Author: August Bratfisch
+      Copyright: "B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Menschen in einer Dachstube
+      Description: People in an attic
+      OppPlatt: "L\xFCe in a Stube undern Daak"
+    - Year: undatiert
+      YearEnglish: undated
+      Technik: Aquarell
+      Technique: Aquarell
+      TechnikPlatt: Bild mid Waterfarwe
+      Dimensions: 47,4 x 47, 3 cm
+      InvNr: V_22_00_16_255
+      Image: {fileID: 21300000, guid: 9d85194de191eaa49903b61341b042b6, type: 3}
+      Author: August Bratfisch
+      Copyright: "B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Frau Bratfisch in eigener Wohnung in Wanzleben
+      Description: Mrs. Bratfisch in her home in Wanzleben
+      OppPlatt: "Fruu Bratfisch in \xF6hr Tauhuuse in Wanzl\xE4"
+    - Year: 1929
+      YearEnglish: 1929
+      Technik: "\xD6lmalerei"
+      Technique: Oil painting
+      TechnikPlatt: "\xD6lmalerie"
+      Dimensions: 70 x 60 cm
+      InvNr: V_22_00_16_358
+      Image: {fileID: 21300000, guid: c141a09a576ee854f96f2e05be4cb4fb, type: 3}
+      Author: August Bratfisch
+      Copyright: "B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Schweinehirt mit Pfeife im Mund
+      Description: Pig herder with pipe in his mouth
+      OppPlatt: Swieneschaper mid Piepe in`n Mund
+  - Name: Pflanzen
+    NameEnglish: Plants
+    NamePlatt: Planten
+    Artworks:
+    - Year: undatiert
+      YearEnglish: undated
+      Technik: Aquarell
+      Technique: Aquarell
+      TechnikPlatt: Aquarell
+      Dimensions: 27,5 x 36,2 cm
+      InvNr: V_22_00_16_102
+      Image: {fileID: 21300000, guid: f9526df45ccd404479494d64bb8cb6ca, type: 3}
+      Author: August Bratfisch
+      Copyright: "B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Pflanzenatlas (Blatt 58)
+      Description: Plant-atlas, table 58
+      OppPlatt: Plantenatlas, Blatt 58
+    - Year: undatiert
+      YearEnglish: undated
+      Technik: Aquarell
+      Technique: Aquarell
+      TechnikPlatt: 'Bild mid Waterfarwe '
+      Dimensions: 42,2 x 29,8 cm
+      InvNr: V_22_00_16_194
+      Image: {fileID: 21300000, guid: 93ff0d585024651438c6f64b1082076a, type: 3}
+      Author: August Bratfisch
+      Copyright: "B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: "Gro\xDFe, bl\xFChende Distel"
+      Description: Big, blossoming thistle
+      OppPlatt: Groote blaumende Diessel
+    - Year: 23.5.1950
+      YearEnglish: 23.5.1950
+      Technik: Aquarell
+      Technique: Aquarell
+      TechnikPlatt: Bild mid Waterfarwe
+      Dimensions: 42 x 28 cm
+      InvNr: V_22_00_16_195
+      Image: {fileID: 21300000, guid: 06879b43589a8354f8ad516231c12450, type: 3}
+      Author: August Bratfisch
+      Copyright: "B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: "Distelsch\xE4del"
+      Description: Thistle-scull
+      OppPlatt: Diesselkopp
+    - Year: undatiert
+      YearEnglish: undated
+      Technik: Aquarell
+      Technique: Aquarell
+      TechnikPlatt: Bild mid Waterfarwe
+      Dimensions: 24 x 14,6 cm
+      InvNr: V_22_00_16_196
+      Image: {fileID: 21300000, guid: f28dc57d5020710438710f44f8c599db, type: 3}
+      Author: August Bratfisch
+      Copyright: "B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: "Gr\xFCne Pflanze mit Schmetterling, Raupen und Schnecke"
+      Description: Green plant with butterfly, caterpillars and snail
+      OppPlatt: "Gr\xE4une Plante mid Botterfoggel, Ruupen un Snecke"
+    - Year: undatiert
+      YearEnglish: undated
+      Technik: Aquarell
+      Technique: Aquarell
+      TechnikPlatt: Bild mid Waterfarwe
+      Dimensions: 24 x 14,6 cm
+      InvNr: V_22_00_16_197
+      Image: {fileID: 21300000, guid: baee580e63ad8aa4c9f9bea0d2f14353, type: 3}
+      Author: August Bratfisch
+      Copyright: "B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Pflanze
+      Description: 'Plant '
+      OppPlatt: 'Plante '
+    - Year: undatiert
+      YearEnglish: undated
+      Technik: Aquarell
+      Technique: Aquarell
+      TechnikPlatt: Bild mid Waterfarwe
+      Dimensions: 29,4 x 43 cm
+      InvNr: V_22_00_16_601
+      Image: {fileID: 21300000, guid: 565d6a64ed4c02a43bad4c325502a341, type: 3}
+      Author: August Bratfisch
+      Copyright: "B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Pflanzenatlas (Blatt 84)
+      Description: Plant-atlas, table 84
+      OppPlatt: Plantenatlas (Blatt 58)
+    - Year: undatiert
+      YearEnglish: undated
+      Technik: Aquarell
+      Technique: Aquarell
+      TechnikPlatt: Bild mid Waterfarwe
+      Dimensions: 28 x 38,5 cm
+      InvNr: V_22_00_16_602
+      Image: {fileID: 21300000, guid: b16105d018f52b747a9b0348eac6926a, type: 3}
+      Author: August Bratfisch
+      Copyright: "B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Pflanzenatlas, Ornamentale Studien aus Pflanzenelementen
+      Description: Plant-atlas, ornamental studies of plants
+      OppPlatt: Plantenatlas, Muster ut Deile fonn Planten
+    - Year: undatiert
+      YearEnglish: undated
+      Technik: Bleistiftzeichnung
+      Technique: Pencil drawing
+      TechnikPlatt: Bild mid Blisticken emaakt
+      Dimensions: 21 x 29,6 cm
+      InvNr: V_22_00_16_701
+      Image: {fileID: 21300000, guid: de2365457815f724b8c05a852f8a92a3, type: 3}
+      Author: August Bratfisch
+      Copyright: "B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Distel mit Hummel und Schmetterling
+      Description: Thistle with bumblebee and butterfly
+      OppPlatt: Diessel mid Hummel un Botterfoggel
+    - Year: undatiert
+      YearEnglish: undated
+      Technik: Bleistiftzeichnung
+      Technique: Pencil drawing
+      TechnikPlatt: Bild mid Blisticken emaakt
+      Dimensions: 19,8 x 13,6 cm
+      InvNr: V_22_00_16_801
+      Image: {fileID: 21300000, guid: e939b2a5b25e6c54ca9dc5f49181dad0, type: 3}
+      Author: August Bratfisch
+      Copyright: "B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Pflanzenstudie
+      Description: Plant study
+      OppPlatt: Plantenstudie
+  - Name: Stillleben
+    NameEnglish: Still life
+    NamePlatt: Stillleben
+    Artworks:
+    - Year: 1930
+      YearEnglish: 1930
+      Technik: "\xD6lmalerei"
+      Technique: Oil painting
+      TechnikPlatt: "\xD6lmalerie"
+      Dimensions: 74 x 88 cm
+      InvNr: V_22_00_16_176
+      Image: {fileID: 21300000, guid: 2e673c195884bcb4ebf4ae9541715bad, type: 3}
+      Author: August Bratfisch
+      Copyright: "B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Interieur mit vier Holzskulpturen auf einem Tisch
+      Description: Interior with four wooden sculptures on a table
+      OppPlatt: Innewennich mid 4 Kunstwarken ut Holt opp en Disch
+    - Year: 1937
+      YearEnglish: 1937
+      Technik: "\xD6lmalerei"
+      Technique: Oil painting
+      TechnikPlatt: "\xD6lmalerie"
+      Dimensions: 66 x 77 cm
+      InvNr: V_22_00_16_183
+      Image: {fileID: 21300000, guid: 5377a95e4715823408102ac702fcc0e4, type: 3}
+      Author: August Bratfisch
+      Copyright: "B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: "Wiesenblumenstrau\xDF in einer Vase"
+      Description: Bouquet of flowers in a vase
+      OppPlatt: Wieschenblaumenstrutz in en Krauch
+    - Year: 1942
+      YearEnglish: 1942
+      Technik: "\xD6lmalerei"
+      Technique: Oil painting
+      TechnikPlatt: "\xD6lmalerie"
+      Dimensions: 80 x 70 cm
+      InvNr: V_22_00_16_185
+      Image: {fileID: 21300000, guid: defc405243f0b9c45b1e274ce723114d, type: 3}
+      Author: August Bratfisch
+      Copyright: "B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: "Blumenstrau\xDF in einem Henkelkrug"
+      Description: Bouquet of flowers in a tankard
+      OppPlatt: Blaumenstrutz in en Henkelkrauch
+    - Year: ca. 1953
+      YearEnglish: ca. 1953
+      Technik: Aquarell
+      Technique: Aquarell
+      TechnikPlatt: 'Bild mid Waterfarwe '
+      Dimensions: 51 x 44 cm
+      InvNr: V_22_00_16_193
+      Image: {fileID: 21300000, guid: c1a487d13a0cc404c925a35d5914af12, type: 3}
+      Author: August Bratfisch
+      Copyright: "B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Nelken in einer Vase
+      Description: Carnations in a vase
+      OppPlatt: Nelken in ne Vase
+    - Year: Weihnachten 1955
+      YearEnglish: Christmas 1955
+      Technik: Aquarell
+      Technique: Aquarell
+      TechnikPlatt: Bild mid Waterfarwe
+      Dimensions: 30 x 43 cm
+      InvNr: V_22_00_16_200
+      Image: {fileID: 21300000, guid: a4fd606a07ef3cd4795ef1ad95b37b88, type: 3}
+      Author: August Bratfisch
+      Copyright: "B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: "Karpfen in Glassch\xFCssel"
+      Description: Carp in a glass
+      OppPlatt: "Karpen in Glassch\xF6ttel"
+    - Year: undatiert
+      YearEnglish: undated
+      Technik: Aquarell
+      Technique: Aquarell
+      TechnikPlatt: Bild mid Waterfarwe
+      Dimensions: 24 x 31,8 cm
+      InvNr: V_22_00_16_303
+      Image: {fileID: 21300000, guid: 5d4dee285b3730046a78259aec593c60, type: 3}
+      Author: August Bratfisch
+      Copyright: "B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Beeren auf blau gemustertem Teller
+      Description: Berries on a plate with blue decor
+      OppPlatt: Beeren opp en blau jemusterten Telder
+    - Year: undatiert
+      YearEnglish: undated
+      Technik: Aquarell
+      Technique: Aquarell
+      TechnikPlatt: Bild mid Waterfarwe
+      Dimensions: 28,3 x 38,3 cm
+      InvNr: V_22_00_16_304
+      Image: {fileID: 21300000, guid: ae7f414f538b84e4380d0af659c2cbaa, type: 3}
+      Author: August Bratfisch
+      Copyright: "B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Aufgeschnittene Tomate, Zwiebel, Brot und kleine Schale
+      Description: Tomato, onion, bread and ramekin
+      OppPlatt: "Oppesneddene Tomate, Bolle, Brot un l\xFCttche Schale"
+    - Year: 1935
+      YearEnglish: 1935
+      Technik: "\xD6lmalerei"
+      Technique: Oil painting
+      TechnikPlatt: "\xD6lmalerie"
+      Dimensions: 59 x 71 cm
+      InvNr: V_22_00_16_352
+      Image: {fileID: 21300000, guid: 3a69e0590c234ee46bbca233cad3681a, type: 3}
+      Author: August Bratfisch
+      Copyright: "B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Brotzeit
+      Description: Bread-time
+      OppPlatt: Brottiet
+    - Year: undatiert
+      YearEnglish: undated
+      Technik: Bleistiftzeichnung
+      Technique: Pencil drawing
+      TechnikPlatt: Bild mid Blisticken emaakt
+      Dimensions: 28,5 x 21 cm
+      InvNr: V_22_00_16_705
+      Image: {fileID: 21300000, guid: 2e973a25c2650ae44abbc0f9c8712ebd, type: 3}
+      Author: August Bratfisch
+      Copyright: "B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: "Rose in niedrigem Glasgef\xE4\xDF"
+      Description: Rose in a shallow glass
+      OppPlatt: "Rose in en l\xFCttjet Glas"
+  - Name: Tiere
+    NameEnglish: Animals
+    NamePlatt: Diere
+    Artworks:
+    - Year: undatiert, 1950er Jahre
+      YearEnglish: undated, 1950er Jahre
+      Technik: Aquarell
+      Technique: Aquarell
+      TechnikPlatt: Bild mid Waterfarwe
+      Dimensions: 23,4 x 29,6 cm
+      InvNr: V_22_00_16_198
+      Image: {fileID: 21300000, guid: 6e54e6d0e48d4924e981c9d3d9e38896, type: 3}
+      Author: August Bratfisch
+      Copyright: "B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Feldhamster in Vorder- und Profilansicht
+      Description: Common hamster, front and in profile
+      OppPlatt: 'Feldhamster fonn voorn un fonn de Siete '
+    - Year: undatiert
+      YearEnglish: undated
+      Technik: Aquarell
+      Technique: Aquarell
+      TechnikPlatt: Bild mid Waterfarwe
+      Dimensions: 32 x 24 cm
+      InvNr: V_22_00_16_199
+      Image: {fileID: 21300000, guid: 31e6276f0a728ad42acc1e16c152eef6, type: 3}
+      Author: August Bratfisch
+      Copyright: "B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: "Drei V\xF6gel - drei verschiedene Ansichten"
+      Description: Three birds, three different views
+      OppPlatt: "3 F\xF6jjel un 3 Sieten"
+    - Year: 3.5.1945
+      YearEnglish: 3.5.1945
+      Technik: Federzeichnung
+      Technique: Pen drawing
+      TechnikPlatt: Bild mid Fedder emaakt
+      Dimensions: 29,8 x 21 cm
+      InvNr: V_22_00_16_702
+      Image: {fileID: 21300000, guid: 05c1eb545b07f7644a71718285e7de46, type: 3}
+      Author: August Bratfisch
+      Copyright: "B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Hornissenstudien, Vespa crabro in 13 verschiedenen Ansichten
+      Description: Studies of hornets, vespa crabro in 13 different views
+      OppPlatt: Peerwespe, 13 Dieransichten
+    - Year: 1943
+      YearEnglish: 1943
+      Technik: Federzeichnung
+      Technique: Pen drawing
+      TechnikPlatt: Bild mid Feisticken emaakt
+      Dimensions: 21,3 x 29,7 cm
+      InvNr: V_22_00_16_703
+      Image: {fileID: 21300000, guid: 39af544afae434a459eb5797560f6b19, type: 3}
+      Author: August Bratfisch
+      Copyright: "B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Schnecke und Heuschrecke
+      Description: Snail and locust
+      OppPlatt: "Snecke un Grash\xFCpper"
+    - Year: 1943
+      YearEnglish: 1943
+      Technik: Federzeichnung
+      Technique: Pen drawing
+      TechnikPlatt: Bild mid Fedder emaakt
+      Dimensions: 21 x 29,8 cm
+      InvNr: V_22_00_16_704
+      Image: {fileID: 21300000, guid: 8256d15e9dd83ce4e94accaba26507ed, type: 3}
+      Author: August Bratfisch
+      Copyright: "B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: "Vogel mit langem Schwanz auf teilweise abges\xE4gtem Ast"
+      Description: Bird with long tail on a branch
+      OppPlatt: Foggel mid en langen Steert opp en Twieg
+    - Year: 7.3.1948
+      YearEnglish: 7.3.1948
+      Technik: Bleistiftzeichnung
+      Technique: Pencil drawing
+      TechnikPlatt: Bild mid Blisticken emaakt
+      Dimensions: 13,6 x 21 cm
+      InvNr: V_22_00_16_802
+      Image: {fileID: 21300000, guid: 0286f4fc27c968f4ba7acc07fee31f41, type: 3}
+      Author: August Bratfisch
+      Copyright: "B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Kriechtier mit langem Schwanz
+      Description: Two reptiles with long tails
+      OppPlatt: Kruupdier mid langen Steert
+    - Year: undatiert
+      YearEnglish: undated
+      Technik: Bleistiftzeichnung
+      Technique: Pencil drawing
+      TechnikPlatt: Bild mid Blisticken emaakt
+      Dimensions: 11,8 x 18 cm
+      InvNr: V_22_00_16_803
+      Image: {fileID: 21300000, guid: 0e35edd9183cd2446869f8d8f1b5c1c9, type: 3}
+      Author: August Bratfisch
+      Copyright: "B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Schlafender Hund
+      Description: Sleeping dog
+      OppPlatt: "Tewe sl\xF6ppt"
+    - Year: undatiert
+      YearEnglish: undated
+      Technik: Bleistiftzeichnung
+      Technique: Pencil drawing
+      TechnikPlatt: Bild mid Blisticken emaakt
+      Dimensions: 20,8 x 14,9 cm
+      InvNr: V_22_00_16_804
+      Image: {fileID: 21300000, guid: d4a9f574a4a6a6b42878164c078682bf, type: 3}
+      Author: August Bratfisch
+      Copyright: "B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Pferdegespann
+      Description: Horse and cart
+      OppPlatt: Perewaan
+    - Year: undatiert
+      YearEnglish: undated
+      Technik: Bleistiftzeichnung
+      Technique: Pencil drawing
+      TechnikPlatt: Bild mid Blisticken emaakt
+      Dimensions: 20,8 x 15,1 cm
+      InvNr: V_22_00_16_805
+      Image: {fileID: 21300000, guid: d7c389b379937fa46b4a7560be1b4ac6, type: 3}
+      Author: August Bratfisch
+      Copyright: "B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Hund und Kuh
+      Description: Dog and cow
+      OppPlatt: Tewe un Kau

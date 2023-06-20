@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7cdca8fa1c6f26f40ac66f11763ddcdf, type: 3}
+  m_Name: Dialogue_Zoomable 3
+  m_EditorClassIdentifier: 
+  ComplementingImage: {fileID: 0}
+  Messages:
+  - CharacterName: {fileID: 0}
+    CharacterImage: {fileID: 21300000, guid: bb5fb4f6bc02ec74fb66af3c5cc93419, type: 3}
+    Sound: {fileID: 8300000, guid: 315b61cbbae743140bcc4975970716a9, type: 3}
+    SoundEnglish: {fileID: 8300000, guid: efaa5e547da0a3943806612d33afe5a8, type: 3}
+    SoundPlatt: {fileID: 8300000, guid: 42c8e3dd684df5c4ba25aa289df59703, type: 3}
+    SoundVolume: 1
+    SoundOffset: 0
+    Text: "Krug: Auf dem Krug ist ein Wanderer zu sehen. Durch den Deckel kann nichts
+      hineinfallen. Beschriftet mit den Anfangsbuchstaben des Namens wusste man,
+      wem er geh\xF6rte."
+    TextEnglish: 'Jug: The jug shows a hiker. The lid keeps things from falling in.
+      The first letters of a name are written on it. They show who the jug belongs
+      to.'
+    TextPlatt: "Krauch: Opp`n Krauch is en Wandersmann tau seien. De Deckel sorjet
+      daforr, dat n\xFCst in`n Krauch rinf\xE4llt. De Baukstawen sejjet, tau wen
+      de Krauch jeh\xF6re."

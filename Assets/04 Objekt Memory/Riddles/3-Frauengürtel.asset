@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7643d40a59075f94e8a334639f99db85, type: 3}
+  m_Name: "3-Fraueng\xFCrtel"
+  m_EditorClassIdentifier: 
+  Name: "Fraueng\xFCrtel"
+  NameEnglish: Women's Belt
+  NamePlatt: 
+  Image: {fileID: 21300000, guid: 3ae13a788d43de940a84552334438051, type: 3}
+  ZoomScale: 13.00409
+  ZoomLocalPosition: {x: -1498, y: -1578}
+  Text: "Die bronzenen St\xFCcke geh\xF6rten zu einem G\xFCrtel. Sie waren auf Leder
+    oder Stoff befestigt und wurden in einem Frauengrab gefunden. Sie sind \xFCber
+    2000 Jahre alt."
+  TextEnglish: "These bronze pieces belonged to a belt. They were attached to a piece
+    of leather or cloth and were found in a women\u2019s grave. They are over 2000
+    years old."
+  TextPlatt: 
+  Voiceover: {fileID: 0}
+  Room: Schmuck
+  RoomEnglish: Jewellery
+  QRCode: "Fraueng\xFCrtel"

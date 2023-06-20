@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7cdca8fa1c6f26f40ac66f11763ddcdf, type: 3}
+  m_Name: Dialogue_Hint 3
+  m_EditorClassIdentifier: 
+  ComplementingImage: {fileID: 0}
+  Messages:
+  - CharacterName: {fileID: 0}
+    CharacterImage: {fileID: 21300000, guid: c848cc6ff284cfd44a7c2cd373cb521d, type: 3}
+    Sound: {fileID: 8300000, guid: 54415590d4153474d968ee8ed560f200, type: 3}
+    SoundEnglish: {fileID: 8300000, guid: e97c44cd35ca53246835878de2f7cebf, type: 3}
+    SoundPlatt: {fileID: 8300000, guid: 2b3bf02223c09e44ba59e9da30275ef5, type: 3}
+    SoundVolume: 1
+    SoundOffset: 0
+    Text: "Welches Hilfsmittel benutzte man wohl fr\xFCher bei der Ernte? Ein Rasenm\xE4her
+      ist eher nicht hilfreich."
+    TextEnglish: Which tool was used for the harvest back then? A lawn mower will
+      not be useful.
+    TextPlatt: Wat harre man woll freuer tau dat Eern enoomen? En Graasmeier hilpt
+      da woll nich?

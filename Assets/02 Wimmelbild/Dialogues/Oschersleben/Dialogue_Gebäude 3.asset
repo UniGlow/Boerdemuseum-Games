@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7cdca8fa1c6f26f40ac66f11763ddcdf, type: 3}
+  m_Name: "Dialogue_Geb\xE4ude 3"
+  m_EditorClassIdentifier: 
+  ComplementingImage: {fileID: 0}
+  Messages:
+  - CharacterName: {fileID: 0}
+    CharacterImage: {fileID: 21300000, guid: f2aab6a811252004791f5324c8253b68, type: 3}
+    Sound: {fileID: 8300000, guid: ead2266229455c64c917db7d4abf0bf7, type: 3}
+    SoundEnglish: {fileID: 8300000, guid: 735d3bdac902c69419e3c0e09cde5dff, type: 3}
+    SoundPlatt: {fileID: 8300000, guid: c05e07eeea36b334cadbb99008e9cd59, type: 3}
+    SoundVolume: 1
+    SoundOffset: 0
+    Text: "Baugesch\xE4ft und Wagenbau C. Schmidt: Die Firma Baugesch\xE4ft und Wagenbau
+      C. Schmidt stellte Wagen und Karossen her. Der Ursprung des Unternehmens geht
+      zur\xFCck auf das Jahr 1845."
+    TextEnglish: 'Building and vehicle company C. Schmidt: This building company
+      produced vehicles and carriages. The origin of this company dates back to the
+      year 1845.'
+    TextPlatt: "Buujesch\xE4ft un Waanbuu C. Schmidt: De Firma Buujesch\xE4ft un
+      Waanbuu C. Schmidt stelle Waan un Karossen her. Dat Unternehmen jaaf`t siet
+      1845."

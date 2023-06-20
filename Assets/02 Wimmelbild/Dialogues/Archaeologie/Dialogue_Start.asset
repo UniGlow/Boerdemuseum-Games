@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7cdca8fa1c6f26f40ac66f11763ddcdf, type: 3}
+  m_Name: Dialogue_Start
+  m_EditorClassIdentifier: 
+  ComplementingImage: {fileID: 0}
+  Messages:
+  - CharacterName: {fileID: 0}
+    CharacterImage: {fileID: 21300000, guid: f8ee1a54a5b4dc948a632c3aa4700945, type: 3}
+    Sound: {fileID: 8300000, guid: 35efa441002a6dd41b53097a5a60ade8, type: 3}
+    SoundEnglish: {fileID: 8300000, guid: 08edf9a62306ab8458204324d1131510, type: 3}
+    SoundPlatt: {fileID: 8300000, guid: 348b92f869e91f248bae3ee7b3eca85a, type: 3}
+    SoundVolume: 1
+    SoundOffset: 0
+    Text: "Am Lagerfeuer kann man gut Geschichten erz\xE4hlen. Schon vor 7000 Jahren
+      lebten hier Menschen. Einige Dinge stimmen hier aber gar nicht. Kannst du sie
+      finden?"
+    TextEnglish: "It\u2019s nice to tell stories sitting around a campfire. People
+      were already living here 7000 years ago. But some things here are all wrong.
+      Can you find them?"
+    TextPlatt: "An`n Lagerf\xFCer l\xF6tt sick gut Jeschichten forrtellen. Schon
+      forr 7.000 (semmen Dusend) Jaare jaaf et heier Minschen. En paar Dinge passet
+      heier nich. Kannste sei finnen?"

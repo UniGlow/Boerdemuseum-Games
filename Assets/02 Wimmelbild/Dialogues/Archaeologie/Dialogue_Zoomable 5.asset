@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7cdca8fa1c6f26f40ac66f11763ddcdf, type: 3}
+  m_Name: Dialogue_Zoomable 5
+  m_EditorClassIdentifier: 
+  ComplementingImage: {fileID: 0}
+  Messages:
+  - CharacterName: {fileID: 0}
+    CharacterImage: {fileID: 21300000, guid: d7e717636e5376a4096d5a70b79b8c0d, type: 3}
+    Sound: {fileID: 8300000, guid: c2ab10ec34b29cc4a9876a26154bc699, type: 3}
+    SoundEnglish: {fileID: 8300000, guid: f7984d9c124a69e4b98343c93f0be2a9, type: 3}
+    SoundPlatt: {fileID: 8300000, guid: 655c8546fe2ba6a43b525a535695d836, type: 3}
+    SoundVolume: 1
+    SoundOffset: 0
+    Text: "Armschutz: Beim Bogenschie\xDFen sch\xFCtzte die Armplatte aus Leder und
+      Stein. Nicht alle steinernen Armschutzplatten funktionierten. Diese hier gab
+      man als Statussymbol mit ins Grab."
+    TextEnglish: "Armguard: It\u2019s good to use an armguard to protect you from
+      injuries while shooting a bow. But not every stone-armguard was used. They
+      were put in graves as status symbols."
+    TextPlatt: "Armschutz: Bien Scheiten mid Piel un Bogen bruukte man nen Sehnenschutz
+      ut Ledder un Stein. Nich alle Schutzplatten ut Stein w\xF6rren passich. D\xFCsse
+      jaaf man as Statussymbol mid in`t Graaf."

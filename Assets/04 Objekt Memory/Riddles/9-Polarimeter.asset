@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7643d40a59075f94e8a334639f99db85, type: 3}
+  m_Name: 9-Polarimeter
+  m_EditorClassIdentifier: 
+  Name: Polarimeter
+  NameEnglish: Polarimeter
+  NamePlatt: 
+  Image: {fileID: 21300000, guid: 5c607a47dc56f4648894be4db85eca0c, type: 3}
+  ZoomScale: 9.334848
+  ZoomLocalPosition: {x: 2789, y: -1457}
+  Text: "Aus Zuckerr\xFCben wird Zucker gewonnen. Mit diesem Ger\xE4t bestimmte man
+    den Zuckergehalt der R\xFCbe."
+  TextEnglish: From sugar beets you can produce sugar. With a polarimeter you can
+    measure how sweet a beet is.
+  TextPlatt: 
+  Voiceover: {fileID: 0}
+  Room: Zucker
+  RoomEnglish: Sugar
+  QRCode: Polarimeter

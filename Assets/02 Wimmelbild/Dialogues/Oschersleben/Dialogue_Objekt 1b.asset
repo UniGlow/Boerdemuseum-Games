@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7cdca8fa1c6f26f40ac66f11763ddcdf, type: 3}
+  m_Name: Dialogue_Objekt 1b
+  m_EditorClassIdentifier: 
+  ComplementingImage: {fileID: 0}
+  Messages:
+  - CharacterName: {fileID: 0}
+    CharacterImage: {fileID: 21300000, guid: 1acc5277de141eb44b71b884d71d88b9, type: 3}
+    Sound: {fileID: 8300000, guid: 870b72c6bf28f3c4a8160c989db9676d, type: 3}
+    SoundEnglish: {fileID: 8300000, guid: 7f02e07586815bf41a7c5c565f85a6cf, type: 3}
+    SoundPlatt: {fileID: 8300000, guid: 2fcf95280415cba4bb898be051c25131, type: 3}
+    SoundVolume: 1
+    SoundOffset: 0
+    Text: "Zum Pfl\xFCgen auf dem Acker wurde die Kohle mit Wagen hergebracht. So
+      konnten die Lokomobilen mit Kohle und Wasser betrieben werden."
+    TextEnglish: Carts delivered coal and water to the locomobiles on the fields,
+      where they did the ploughing.
+    TextPlatt: "Waans brochten Kolle taun Pl\xE4uen opp`n Acker. Sau konne man de
+      Lokomobilen mid Kolle un Water bedriem."

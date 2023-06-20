@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7cdca8fa1c6f26f40ac66f11763ddcdf, type: 3}
+  m_Name: Dialogue_Hint 2
+  m_EditorClassIdentifier: 
+  ComplementingImage: {fileID: 0}
+  Messages:
+  - CharacterName: {fileID: 0}
+    CharacterImage: {fileID: 21300000, guid: 0c6dee80292348445b2793179e23db83, type: 3}
+    Sound: {fileID: 8300000, guid: d3a08279187bf45438e7e61eca14220b, type: 3}
+    SoundEnglish: {fileID: 8300000, guid: ddf4660e16bc6d54c908c4825eed10d9, type: 3}
+    SoundPlatt: {fileID: 8300000, guid: f5ef4d2fb5a1ebb40bc8d0016c99fd81, type: 3}
+    SoundVolume: 1
+    SoundOffset: 0
+    Text: "M\xE4use verstecken sich gerne unter Betten."
+    TextEnglish: Mice like to hide under beds.
+    TextPlatt: "M\xFCse forrsteckt sick jeern under Bedden."

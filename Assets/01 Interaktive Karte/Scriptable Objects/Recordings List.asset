@@ -1,0 +1,954 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8117f9bcdaaeb8741850b584c09f6955, type: 3}
+  m_Name: Recordings List
+  m_EditorClassIdentifier: 
+  Sets:
+  - Author: BMBU, Skirlo
+    Description: "Windrad Feldweg Eilsleben-Ovelg\xFCnne"
+    DescriptionEnglish: "Wind turnbine by a farm track near Eilsleben-Ovelg\xFCnne"
+    DescriptionPlatt: "Windrad, Feldwech Eilsl\xE4-J\xFCnne"
+    Date: 10.12.21
+    DateEnglish: 10.12.21
+    Technique: Tonaufnahme
+    TechniqueEnglish: Soundrecording
+    TechniquePlatt: Tonoppname
+    Dimensions: 
+    LatiAndLongitude: "52\xB009'28.8\"N 11\xB014'12.7\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 9
+        seconds: 28.8
+      longitude:
+        degrees: 11
+        minutes: 14
+        seconds: 12.7
+    FileName: 210125_BMBU_Windrad
+    Image: {fileID: 0}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: 
+    Audio: {fileID: 8300000, guid: a646a9bbbd8b70742afc4adc506f02d5, type: 3}
+    isAudio: 1
+  - Author: BMBU, Skirlo
+    Description: "Eisenbahnstrecke alte Stra\xDFe Ovelg\xFCnne-Eilsleben, G\xFCterzug"
+    DescriptionEnglish: "Train line in Ovelg\xFCnne-Eilsleben, freight train"
+    DescriptionPlatt: "Iesenbanstrecke oole Strate J\xFCnne-Eisl\xE4, J\xFCterzuch"
+    Date: 10.12.21
+    DateEnglish: 10.12.21
+    Technique: Tonaufnahme
+    TechniqueEnglish: Soundrecording
+    TechniquePlatt: Tonoppname
+    Dimensions: 
+    LatiAndLongitude: "52\xB008'45.7\"N 11\xB015'00.7\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 8
+        seconds: 45.7
+      longitude:
+        degrees: 11
+        minutes: 15
+        seconds: 0.7
+    FileName: "210125_BMBU_G\xFCterzug"
+    Image: {fileID: 0}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: 
+    Audio: {fileID: 8300000, guid: 72e3641eccd0a9b48a3a54709f93083e, type: 3}
+    isAudio: 1
+  - Author: BMBU, Skirlo
+    Description: "Warte Seehausen, Stra\xDFenverkehr, Vogelstimmen"
+    DescriptionEnglish: Old watchtower near Seehausen, traffic, birds
+    DescriptionPlatt: "Warte Seehusen, Stratenforrker, F\xF6jjel"
+    Date: 10.12.21
+    DateEnglish: 10.12.21
+    Technique: Tonaufnahme
+    TechniqueEnglish: Soundrecording
+    TechniquePlatt: Tonoppname
+    Dimensions: 
+    LatiAndLongitude: "52\xB006'49.7\"N 11\xB016'45.7\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 6
+        seconds: 49.7
+      longitude:
+        degrees: 11
+        minutes: 16
+        seconds: 45.7
+    FileName: "210125_BMBU_Seeh\xE4userWarte"
+    Image: {fileID: 0}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: 
+    Audio: {fileID: 8300000, guid: d91d45a9e98f8b6458e7adef19a73e42, type: 3}
+    isAudio: 1
+  - Author: BMBU, Skirlo
+    Description: Langenweddingen, Garten, Amsel
+    DescriptionEnglish: Blackbird in a garden, Langenweddingen
+    DescriptionPlatt: Langenweddich, Garen, Amsele
+    Date: 13.12.21
+    DateEnglish: 13.12.21
+    Technique: Tonaufnahme
+    TechniqueEnglish: Soundrecording
+    TechniquePlatt: Tonoppname
+    Dimensions: 
+    LatiAndLongitude: "52\xB002\u201906.2\"N 11\xB031'49.2\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 2
+        seconds: 6.2
+      longitude:
+        degrees: 11
+        minutes: 31
+        seconds: 49.2
+    FileName: 210125_BMBU_Amsel
+    Image: {fileID: 0}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: 
+    Audio: {fileID: 8300000, guid: f1f4e87a367d7a64490948d0451cdc52, type: 3}
+    isAudio: 1
+  - Author: BMBU, Skirlo
+    Description: Marienborn, Quelle
+    DescriptionEnglish: Well in Marienborn
+    DescriptionPlatt: Marjenborn, Spring
+    Date: 14.12.21
+    DateEnglish: 14.12.21
+    Technique: Tonaufnahme
+    TechniqueEnglish: Soundrecording
+    TechniquePlatt: Tonoppname
+    Dimensions: 
+    LatiAndLongitude: "52\xB011'43.6\"N 11\xB006'31.8\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 11
+        seconds: 43.6
+      longitude:
+        degrees: 11
+        minutes: 6
+        seconds: 31.8
+    FileName: 210125_BMBU_MarienbornQuelle
+    Image: {fileID: 0}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: 
+    Audio: {fileID: 8300000, guid: c30d32b9e124b804b880bd355ad8cf01, type: 3}
+    isAudio: 1
+  - Author: BMBU, Skirlo
+    Description: Marienborn, GDT, Turm, Autobahn
+    DescriptionEnglish: Marienborn, Memorial of the German division, motorway
+    DescriptionPlatt: "Marjenborn, Jedenkstidde D\xFCtsche Deilung, Torm, Autobane"
+    Date: 14.12.21
+    DateEnglish: 14.12.21
+    Technique: Tonaufnahme
+    TechniqueEnglish: Soundrecording
+    TechniquePlatt: Tonoppname
+    Dimensions: 
+    LatiAndLongitude: "52\xB012'57.5\"N 11\xB004'59.5\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 12
+        seconds: 57.5
+      longitude:
+        degrees: 11
+        minutes: 4
+        seconds: 59.5
+    FileName: 210125_BMBU_Marienborn_GDT_Turm
+    Image: {fileID: 0}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: 
+    Audio: {fileID: 8300000, guid: 81553e71372c5a14596ab129946ef791, type: 3}
+    isAudio: 1
+  - Author: BMBU, Skirlo
+    Description: "Harbke, Schlo\xDFpark, Bauarbeiten, Vogelstimmen"
+    DescriptionEnglish: Harbke, Manor gardens, building works, birds
+    DescriptionPlatt: "Harbke, Slottpark, Buuarbeien, F\xF6jjel"
+    Date: 14.12.21
+    DateEnglish: 14.12.21
+    Technique: Tonaufnahme
+    TechniqueEnglish: Soundrecording
+    TechniquePlatt: Tonoppname
+    Dimensions: 
+    LatiAndLongitude: "52\xB011'34.2\"N 11\xB003'04.1\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 11
+        seconds: 34.2
+      longitude:
+        degrees: 11
+        minutes: 3
+        seconds: 4.1
+    FileName: 210125_BMBU_Harbke
+    Image: {fileID: 0}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: 
+    Audio: {fileID: 8300000, guid: 52706ee269ddb8c45ba3d67b5771fc73, type: 3}
+    isAudio: 1
+  - Author: BMBU, Skirlo
+    Description: "H\xF6tensleben, Grenzdenkmal, Stra\xDFenverkehr"
+    DescriptionEnglish: "H\xF6tensleben, German Border-memorial, traffic"
+    DescriptionPlatt: "Hoitensl\xE4, Grenzdenkmal, Stratenforrker"
+    Date: 14.12.21
+    DateEnglish: 14.12.21
+    Technique: Tonaufnahme
+    TechniqueEnglish: Soundrecording
+    TechniquePlatt: Tonoppname
+    Dimensions: 
+    LatiAndLongitude: "52\xB007'19.7\"N 11\xB000'47.1\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 7
+        seconds: 19.7
+      longitude:
+        degrees: 11
+        minutes: 0
+        seconds: 47.1
+    FileName: "210125_BMBU_H\xF6tensleben"
+    Image: {fileID: 0}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: 
+    Audio: {fileID: 8300000, guid: e8e7aed4152aade4fb31a5b641c62a1b, type: 3}
+    isAudio: 1
+  - Author: BMBU, Skirlo
+    Description: "Gro\xDFes Bruch, Wind"
+    DescriptionEnglish: "Gro\xDFes Bruch, wind"
+    DescriptionPlatt: Grootet Brauk, Wind
+    Date: 14.12.21
+    DateEnglish: 14.12.21
+    Technique: Tonaufnahme
+    TechniqueEnglish: Soundrecording
+    TechniquePlatt: Tonoppname
+    Dimensions: 
+    LatiAndLongitude: "52\xB002'04.6\"N 11\xB009'15.5\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 2
+        seconds: 4.6
+      longitude:
+        degrees: 11
+        minutes: 9
+        seconds: 15.5
+    FileName: "210125_BMBU_Gro\xDFesBruch"
+    Image: {fileID: 0}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: 
+    Audio: {fileID: 8300000, guid: a6380b7b50d18f140bd846dd8898a2be, type: 3}
+    isAudio: 1
+  - Author: BMBU, Skirlo
+    Description: Schaftal, Vogelstimmen
+    DescriptionEnglish: Schaftal, birds
+    DescriptionPlatt: "Schaapdaal, F\xF6jjel"
+    Date: 14.12.21
+    DateEnglish: 14.12.21
+    Technique: Tonaufnahme
+    TechniqueEnglish: Soundrecording
+    TechniquePlatt: Tonoppname
+    Dimensions: 
+    LatiAndLongitude: "52\xB002'18.0\"N 11\xB023'02.3\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 2
+        seconds: 18
+      longitude:
+        degrees: 11
+        minutes: 23
+        seconds: 2.3
+    FileName: 210125_BMBU_Schaftal
+    Image: {fileID: 0}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: 
+    Audio: {fileID: 8300000, guid: b5cfe84d8bd7f9e46b28bca11267f1a9, type: 3}
+    isAudio: 1
+  - Author: BMBU, Skirlo
+    Description: Flechtingen, Arbeiten im Steinbruch
+    DescriptionEnglish: Flechtingen, works in a stone-quarry
+    DescriptionPlatt: Flechtig, Arbeien in`n Steinbruch
+    Date: 15.12.21
+    DateEnglish: 15.12.21
+    Technique: Tonaufnahme
+    TechniqueEnglish: Soundrecording
+    TechniquePlatt: Tonoppname
+    Dimensions: 
+    LatiAndLongitude: "52\xB018'47.9\"N 11\xB012'32.1\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 18
+        seconds: 47.9
+      longitude:
+        degrees: 11
+        minutes: 12
+        seconds: 32.1
+    FileName: 210125_BMBU_FlechtingenSteinbruch
+    Image: {fileID: 0}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: 
+    Audio: {fileID: 8300000, guid: 785097e137fa5b54ab175c7ed0b94f33, type: 3}
+    isAudio: 1
+  - Author: BMBU, Skirlo
+    Description: "Flechtingen, Wasserm\xFChle"
+    DescriptionEnglish: Flechtingen, water mill
+    DescriptionPlatt: "Flechtig, Waterm\xF6lle"
+    Date: 15.12.21
+    DateEnglish: 15.12.21
+    Technique: Tonaufnahme
+    TechniqueEnglish: Soundrecording
+    TechniquePlatt: Tonoppname
+    Dimensions: 
+    LatiAndLongitude: "52\xB019'56.4\"N 11\xB014'15.3\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 19
+        seconds: 56.4
+      longitude:
+        degrees: 11
+        minutes: 14
+        seconds: 15.3
+    FileName: "210125_BMBU_FlechtingenWasserm\xFChle"
+    Image: {fileID: 0}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: 
+    Audio: {fileID: 8300000, guid: f0f94115caf3cdb48bd78caac84b1189, type: 3}
+    isAudio: 1
+  - Author: BMBU, Skirlo
+    Description: "B\xFClstringen, Silo"
+    DescriptionEnglish: "B\xFClstringen, silo"
+    DescriptionPlatt: "B\xFClstrig, Silo"
+    Date: 15.12.21
+    DateEnglish: 15.12.21
+    Technique: Tonaufnahme
+    TechniqueEnglish: Soundrecording
+    TechniquePlatt: Tonoppname
+    Dimensions: 
+    LatiAndLongitude: "52\xB018'41.5\"N 11\xB021'15.6\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 18
+        seconds: 41.5
+      longitude:
+        degrees: 11
+        minutes: 21
+        seconds: 15.6
+    FileName: "210125_BMBU_B\xFClstringenSilo"
+    Image: {fileID: 0}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: 
+    Audio: {fileID: 8300000, guid: 14a4d9268475ca84a926aa9a778ef203, type: 3}
+    isAudio: 1
+  - Author: BMBU, Skirlo
+    Description: "Hillersleben, Kloster, Stra\xDFenverkehr"
+    DescriptionEnglish: Hillersleben, monastery, traffic
+    DescriptionPlatt: "Hillersl\xE4, Kloster, Stratenforrker"
+    Date: 15.12.21
+    DateEnglish: 15.12.21
+    Technique: Tonaufnahme
+    TechniqueEnglish: Soundrecording
+    TechniquePlatt: Tonoppname
+    Dimensions: 
+    LatiAndLongitude: "52\xB016'22.7\"N 11\xB029'17.2\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 16
+        seconds: 22.7
+      longitude:
+        degrees: 11
+        minutes: 29
+        seconds: 17.2
+    FileName: 210125_BMBU_HillerslebenKloster
+    Image: {fileID: 0}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: 
+    Audio: {fileID: 8300000, guid: b11d815ebe8803f4187656442461adb0, type: 3}
+    isAudio: 1
+  - Author: BMBU, Skirlo
+    Description: Gehringsdorf, Allerquelle, Hundegebell
+    DescriptionEnglish: Gehringsdorf, well of the Aller, dog
+    DescriptionPlatt: Jeringsdorp, Allerspring, Hunnejebell
+    Date: 16.12.21
+    DateEnglish: 16.12.21
+    Technique: Tonaufnahme
+    TechniqueEnglish: Soundrecording
+    TechniquePlatt: Tonoppname
+    Dimensions: 
+    LatiAndLongitude: "52\xB006'44.6\"N 11\xB011'50.1\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 6
+        seconds: 44.6
+      longitude:
+        degrees: 11
+        minutes: 11
+        seconds: 50.1
+    FileName: 210125_BMBU_Gehringsdorf_Allerquelle
+    Image: {fileID: 0}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: 
+    Audio: {fileID: 8300000, guid: 8a270b85fcf06fb42966515ecb25d3c2, type: 3}
+    isAudio: 1
+  - Author: BMBU, Skirlo
+    Description: "Bode in Hordorf, Bodebr\xFCcke"
+    DescriptionEnglish: The river Bode in Hordorf
+    DescriptionPlatt: "Bode in Hordorp, Bodebr\xFCjje"
+    Date: 22.2.22
+    DateEnglish: 22.2.22
+    Technique: Tonaufnahme
+    TechniqueEnglish: Soundrecording
+    TechniquePlatt: Tonoppname
+    Dimensions: 
+    LatiAndLongitude: "51\xB059'47.4\"N 11\xB012'09.8\"E"
+    GpsCoords:
+      latitude:
+        degrees: 51
+        minutes: 59
+        seconds: 47.4
+      longitude:
+        degrees: 11
+        minutes: 12
+        seconds: 9.8
+    FileName: 220317_BMBU_Hordorf_Bode
+    Image: {fileID: 0}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: 
+    Audio: {fileID: 8300000, guid: fbce5b52c1e44f94f89e66556d7dce62, type: 3}
+    isAudio: 1
+  - Author: BMBU, Skirlo
+    Description: "Bode in Gro\xDF Germersleben"
+    DescriptionEnglish: "The river Bode in Gro\xDF Germersleben"
+    DescriptionPlatt: "Bode in Groot Garmsl\xE4"
+    Date: 22.2.22
+    DateEnglish: 22.2.22
+    Technique: Tonaufnahme
+    TechniqueEnglish: Soundrecording
+    TechniquePlatt: Tonoppname
+    Dimensions: 
+    LatiAndLongitude: "51\xB059'57.5\"N 11\xB022'01.0\"E"
+    GpsCoords:
+      latitude:
+        degrees: 51
+        minutes: 59
+        seconds: 57.5
+      longitude:
+        degrees: 11
+        minutes: 22
+        seconds: 1
+    FileName: "220317_BMBU_Bode_in_Gro\xDF_Germersleben"
+    Image: {fileID: 0}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: 
+    Audio: {fileID: 8300000, guid: d092ecbc6c8e2bf4c9c7b5d57e6acb52, type: 3}
+    isAudio: 1
+  - Author: BMBU, Skirlo
+    Description: "Gro\xDF Germersleben, V\xF6gel, Dorfger\xE4usche"
+    DescriptionEnglish: "Gro\xDF Germersleben, village sounds, birds"
+    DescriptionPlatt: "Groot Garmsl\xE4, F\xF6jjel, Dorpjer\xE4usche"
+    Date: 22.2.22
+    DateEnglish: 22.2.22
+    Technique: Tonaufnahme
+    TechniqueEnglish: Soundrecording
+    TechniquePlatt: Tonoppname
+    Dimensions: 
+    LatiAndLongitude: "51\xB059'57.5\"N 11\xB022'01.0\"E"
+    GpsCoords:
+      latitude:
+        degrees: 51
+        minutes: 59
+        seconds: 57.5
+      longitude:
+        degrees: 11
+        minutes: 22
+        seconds: 1
+    FileName: "220317_BMBU_Gro\xDF_Germersleben"
+    Image: {fileID: 0}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: 
+    Audio: {fileID: 8300000, guid: d2bba5b264057fe4692e376aed3a83e5, type: 3}
+    isAudio: 1
+  - Author: BMBU, Skirlo
+    Description: Hadmersleben, Schacht, Vogelstimmen
+    DescriptionEnglish: Hadmersleben, abandoned mine, birds
+    DescriptionPlatt: "Hadmersl\xE4, Barchwark, Foggelstimmen"
+    Date: 9.3.22
+    DateEnglish: 9.3.22
+    Technique: Tonaufnahme
+    TechniqueEnglish: Soundrecording
+    TechniquePlatt: Tonoppname
+    Dimensions: 
+    LatiAndLongitude: "51\xB059'06.9\"N 11\xB019'58.3\"E"
+    GpsCoords:
+      latitude:
+        degrees: 51
+        minutes: 59
+        seconds: 6.9
+      longitude:
+        degrees: 11
+        minutes: 19
+        seconds: 58.3
+    FileName: 220317_BMBU_Hadmersleben_Schacht
+    Image: {fileID: 0}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: 
+    Audio: {fileID: 8300000, guid: 6e531c9fb861dc84c94bee44c13caf1b, type: 3}
+    isAudio: 1
+  - Author: BMBU, Skirlo
+    Description: "Zielitz, Kali-Halde, Kalimandscharo, F\xF6rderband"
+    DescriptionEnglish: Zielitz, potash waste pile, conveyor belt
+    DescriptionPlatt: "Zielitz, Kali-Barch, Kalimandscharo, F\xF6rderband"
+    Date: 10.3.22
+    DateEnglish: 10.3.22
+    Technique: Tonaufnahme
+    TechniqueEnglish: Soundrecording
+    TechniquePlatt: Tonoppname
+    Dimensions: 
+    LatiAndLongitude: "52\xB018'47.1\"N 11\xB041'11.8\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 18
+        seconds: 47.1
+      longitude:
+        degrees: 11
+        minutes: 41
+        seconds: 11.8
+    FileName: 220317_BMBU_Zielitz_Halde
+    Image: {fileID: 0}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: 
+    Audio: {fileID: 8300000, guid: a61f6dbb8d2efda428381248cfe23f66, type: 3}
+    isAudio: 1
+  - Author: BMBU, Skirlo
+    Description: "Rog\xE4tz, F\xE4hre"
+    DescriptionEnglish: "The ferry in Rog\xE4tz"
+    DescriptionPlatt: "Rog\xE4tz, F\xE4hre"
+    Date: 10.3.22
+    DateEnglish: 10.3.22
+    Technique: Tonaufnahme
+    TechniqueEnglish: Soundrecording
+    TechniquePlatt: Tonoppname
+    Dimensions: 
+    LatiAndLongitude: "52\xB018'51.0\"N 11\xB046'10.9\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 18
+        seconds: 51
+      longitude:
+        degrees: 11
+        minutes: 46
+        seconds: 10.9
+    FileName: 220317_BMBU_Rogaetz_Faehre
+    Image: {fileID: 0}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: 
+    Audio: {fileID: 8300000, guid: 91c5aa387c0132747844780b84e78659, type: 3}
+    isAudio: 1
+  - Author: BMBU, Skirlo
+    Description: "S\xFClldorf, Salzquelle, Vogelstimmen"
+    DescriptionEnglish: "Salt-well in S\xFClldorf, birds"
+    DescriptionPlatt: "S\xFClldorp, Soltspring, Foggelstimmen"
+    Date: 14.3.22
+    DateEnglish: 14.3.22
+    Technique: Tonaufnahme
+    TechniqueEnglish: Soundrecording
+    TechniquePlatt: Tonoppname
+    Dimensions: 
+    LatiAndLongitude: "52\xB001'23.2\"N 11\xB033'09.2\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 1
+        seconds: 23.2
+      longitude:
+        degrees: 11
+        minutes: 33
+        seconds: 9.2
+    FileName: "220317_BMBU_S\xFClldorf_Salzquelle"
+    Image: {fileID: 0}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: 
+    Audio: {fileID: 8300000, guid: acc3bb6fbd519dd4b9017eaf897187b7, type: 3}
+    isAudio: 1
+  - Author: BMBU, Skirlo
+    Description: Feldweg zwischen Ackendorf und Rottmersleben, Vogelstimmen
+    DescriptionEnglish: On a path from Ackendorf to Rottmersleben, birds
+    DescriptionPlatt: "Wech an`n Felle twischen Ackendorp und Rottensl\xE4, Foggelstimmen"
+    Date: 16.3.22
+    DateEnglish: 16.3.22
+    Technique: Tonaufnahme
+    TechniqueEnglish: Soundrecording
+    TechniquePlatt: Tonoppname
+    Dimensions: 
+    LatiAndLongitude: "52\xB013'06.5\"N 11\xB024'54.6\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 13
+        seconds: 6.5
+      longitude:
+        degrees: 11
+        minutes: 24
+        seconds: 54.6
+    FileName: 220317_BMBU_Ackendorf_Rottmersleben
+    Image: {fileID: 0}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: 
+    Audio: {fileID: 8300000, guid: f29f2920cf9973441a25366f7fa34863, type: 3}
+    isAudio: 1
+  - Author: BMBU, Skirlo
+    Description: Nordgermersleben, Naturbad
+    DescriptionEnglish: By the fresh-water pool in Nordgermersleben
+    DescriptionPlatt: "Nordgarmsl\xE4, Baastidde butten"
+    Date: 16.3.22
+    DateEnglish: 16.3.22
+    Technique: Tonaufnahme
+    TechniqueEnglish: Soundrecording
+    TechniquePlatt: Tonoppname
+    Dimensions: 
+    LatiAndLongitude: "52\xB012'51.5\"N 11\xB019'45.0\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 12
+        seconds: 51.5
+      longitude:
+        degrees: 11
+        minutes: 19
+        seconds: 45
+    FileName: 220317_BMBU_Nordgermersleben
+    Image: {fileID: 0}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: 
+    Audio: {fileID: 8300000, guid: 35359c69e9846e04aa7c48f6de225673, type: 3}
+    isAudio: 1
+  - Author: BMBU, Skirlo
+    Description: Mammendorf, Steinbruch
+    DescriptionEnglish: By the stone-quarry in Mammendorf
+    DescriptionPlatt: Mammndorp, Steinbruch
+    Date: 16.3.22
+    DateEnglish: 16.3.22
+    Technique: Tonaufnahme
+    TechniqueEnglish: Soundrecording
+    TechniquePlatt: Tonoppname
+    Dimensions: 
+    LatiAndLongitude: "52\xB010'37.3\"N 11\xB025'45.6\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 10
+        seconds: 37.3
+      longitude:
+        degrees: 11
+        minutes: 25
+        seconds: 45.6
+    FileName: 220317_BMBU_Mammendorf
+    Image: {fileID: 0}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: 
+    Audio: {fileID: 8300000, guid: d496e47dcf7e253459c86ac8a98e8381, type: 3}
+    isAudio: 1
+  - Author: BMBU, Skirlo
+    Description: Wartberg, Auto, Gassi-gehen
+    DescriptionEnglish: People walking their dog on the Wartberg
+    DescriptionPlatt: Wartbarch, Auto, de Tewe maakt ne Runne
+    Date: 16.3.22
+    DateEnglish: 16.3.22
+    Technique: Tonaufnahme
+    TechniqueEnglish: Soundrecording
+    TechniquePlatt: Tonoppname
+    Dimensions: 
+    LatiAndLongitude: "52\xB009'00.7\"N 11\xB029'14.6\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 9
+        seconds: 0.7
+      longitude:
+        degrees: 11
+        minutes: 29
+        seconds: 14.6
+    FileName: 220317_BMBU_Wartberg
+    Image: {fileID: 0}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: 
+    Audio: {fileID: 8300000, guid: b9e7b0561c02eb64fb81c67a49d39bf9, type: 3}
+    isAudio: 1
+  - Author: BMBU, Skirlo
+    Description: "Gr\xF6ningen, Bodebr\xFCcke"
+    DescriptionEnglish: "Gr\xF6ningen, bridge over the river Bode"
+    DescriptionPlatt: "Groinich, Br\xFCcke ower dat Water Bode"
+    Date: 18.3.22
+    DateEnglish: 18.3.22
+    Technique: Tonaufnahme
+    TechniqueEnglish: Soundrecording
+    TechniquePlatt: Tonoppname
+    Dimensions: 
+    LatiAndLongitude: "51\xB056'20.3\"N 11\xB012'38.0\"E"
+    GpsCoords:
+      latitude:
+        degrees: 51
+        minutes: 56
+        seconds: 20.3
+      longitude:
+        degrees: 11
+        minutes: 12
+        seconds: 38
+    FileName: "220318_BMBU_Gr\xF6ningen_Bodebr\xFCcke"
+    Image: {fileID: 0}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: 
+    Audio: {fileID: 8300000, guid: 78caca748a4adb94e9c4c2253c7d500b, type: 3}
+    isAudio: 1
+  - Author: BMBU, Skirlo
+    Description: Hamersleben, Klosterhof, Stille
+    DescriptionEnglish: Hamersleben, monastery courtyard, silence
+    DescriptionPlatt: "Hamersl\xE4, Klosterhoff, mucksm\xFCsekenstille"
+    Date: 18.3.22
+    DateEnglish: 18.3.22
+    Technique: Tonaufnahme
+    TechniqueEnglish: Soundrecording
+    TechniquePlatt: Tonoppname
+    Dimensions: 
+    LatiAndLongitude: "52\xB003'48.6\"N 11\xB005'12.5\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 3
+        seconds: 48.6
+      longitude:
+        degrees: 11
+        minutes: 5
+        seconds: 12.5
+    FileName: 220318_BMBU_Hamersleben_Klosterhof
+    Image: {fileID: 0}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: 
+    Audio: {fileID: 8300000, guid: 4be5dd9a57db0364e88e3c1cf33eba82, type: 3}
+    isAudio: 1
+  - Author: BMBU, Skirlo
+    Description: Harbke, Tagebau, Wind
+    DescriptionEnglish: Harbke, quarry, wind
+    DescriptionPlatt: Harbke, Dagebuu, Wind
+    Date: 18.3.22
+    DateEnglish: 18.3.22
+    Technique: Tonaufnahme
+    TechniqueEnglish: Soundrecording
+    TechniquePlatt: Tonoppname
+    Dimensions: 
+    LatiAndLongitude: "52\xB011'54.4\"N 11\xB002'07.4\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 11
+        seconds: 54.4
+      longitude:
+        degrees: 11
+        minutes: 2
+        seconds: 7.4
+    FileName: 220318_BMBU_Harbke_Tagebau
+    Image: {fileID: 0}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: 
+    Audio: {fileID: 8300000, guid: d1965f122889ee34790ae8a2468ba009, type: 3}
+    isAudio: 1
+  - Author: BMBU, Skirlo
+    Description: "Stra\xDFe zwischen Angern und Colbitz, Verkehr, Vogelstimmen"
+    DescriptionEnglish: Road between Angern and Colbitz, traffic, birds
+    DescriptionPlatt: Strate twischen Angern un Colbitz, Straatenforrker, Foggelstimmen
+    Date: 18.3.22
+    DateEnglish: 18.3.22
+    Technique: Tonaufnahme
+    TechniqueEnglish: Soundrecording
+    TechniquePlatt: Tonoppname
+    Dimensions: 
+    LatiAndLongitude: "52\xB020'53.4\"N 11\xB041'56.5\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 20
+        seconds: 53.4
+      longitude:
+        degrees: 11
+        minutes: 41
+        seconds: 56.5
+    FileName: "220318_BMBU_Stra\xDFe_zwische_Angern_und_Colbitz"
+    Image: {fileID: 0}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: 
+    Audio: {fileID: 8300000, guid: bb903f27c6ee29b4c9d14bb71baecf2c, type: 3}
+    isAudio: 1
+  - Author: BMBU, Skirlo
+    Description: Ebendorf, Kita
+    DescriptionEnglish: Ebendorf, Kindergarden
+    DescriptionPlatt: Emndorp, Kinnergaren
+    Date: 18.3.22
+    DateEnglish: 18.3.22
+    Technique: Tonaufnahme
+    TechniqueEnglish: Soundrecording
+    TechniquePlatt: Tonoppname
+    Dimensions: 
+    LatiAndLongitude: "52\xB010'56.2\"N 11\xB034'03.6\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 10
+        seconds: 56.2
+      longitude:
+        degrees: 11
+        minutes: 34
+        seconds: 3.6
+    FileName: 220318_BMBU_Ebendorf_Kita
+    Image: {fileID: 0}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: 
+    Audio: {fileID: 8300000, guid: a9fce92604521604586105f39c0d8c0b, type: 3}
+    isAudio: 1
+  - Author: BMBU, Skirlo
+    Description: Eulengrund, Feldmark, Vogelstimmen
+    DescriptionEnglish: Eulengrund, countryside, birds
+    DescriptionPlatt: 'Uulenjrund, Fellemarch '
+    Date: 18.3.22
+    DateEnglish: 18.3.22
+    Technique: Tonaufnahme
+    TechniqueEnglish: Soundrecording
+    TechniquePlatt: Tonoppname
+    Dimensions: 
+    LatiAndLongitude: "52\xB003'39.9\"N 11\xB031'46.8\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 3
+        seconds: 39.9
+      longitude:
+        degrees: 11
+        minutes: 31
+        seconds: 46.8
+    FileName: 220318_BMBU_Eulengrund_Feldmark
+    Image: {fileID: 0}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: 
+    Audio: {fileID: 8300000, guid: 7153be38d7195724bade5ad64b5ec87e, type: 3}
+    isAudio: 1
+  - Author: BMBU, Skirlo
+    Description: "Stra\xDFe zwischen Farsleben und Mose, Hochspannungsleitung, Verkehr"
+    DescriptionEnglish: Road between Farsleben and Mose, high voltage power line,
+      traffic
+    DescriptionPlatt: "Strate twischen Farsl\xE4 un Mose, Stromp\xE4le, Stratenforrker"
+    Date: 18.3.22
+    DateEnglish: 18.3.22
+    Technique: Tonaufnahme
+    TechniqueEnglish: Soundrecording
+    TechniquePlatt: Tonoppname
+    Dimensions: 
+    LatiAndLongitude: "52\xB016'34.4\"N 11\xB038'35.8\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 16
+        seconds: 34.4
+      longitude:
+        degrees: 11
+        minutes: 38
+        seconds: 35.8
+    FileName: 220318_BMBU_zwischen_Farsleben_und_Mose_Hochspannungsleitung
+    Image: {fileID: 0}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: 
+    Audio: {fileID: 8300000, guid: d342a28eb1e6b8a46b3ee0abbc95bea4, type: 3}
+    isAudio: 1
+  - Author: BMBU, Skirlo
+    Description: Irxleben, Grundschule
+    DescriptionEnglish: Irxleben, primary school
+    DescriptionPlatt: "Irksl\xE4, Jrundschaule "
+    Date: 18.3.22
+    DateEnglish: 18.3.22
+    Technique: Tonaufnahme
+    TechniqueEnglish: Soundrecording
+    TechniquePlatt: Tonoppname
+    Dimensions: 
+    LatiAndLongitude: "52\xB009'51.3\"N 11\xB028'52.7\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 9
+        seconds: 51.3
+      longitude:
+        degrees: 11
+        minutes: 28
+        seconds: 52.7
+    FileName: 220318_BMBU_Irxleben_Grundschule
+    Image: {fileID: 0}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: 
+    Audio: {fileID: 8300000, guid: 5caf19eba08e5ed4d9f57ae1008f4d77, type: 3}
+    isAudio: 1
+  - Author: BMBU, Skirlo
+    Description: "Morsleben, ERAM, Gebl\xE4se Bewetterung, Signale F\xF6rderkorb"
+    DescriptionEnglish: Morsleben, repository for nuclear waste, air conditioning
+      system, pit cage signals
+    DescriptionPlatt: "Morsl\xE4, Stidde forr nukleare Aff\xE4lle, Jebl\xE4se jejen
+      Brassen in dat Barchwark, Signale F\xF6rderkorf"
+    Date: 18.3.22
+    DateEnglish: 18.3.22
+    Technique: Tonaufnahme
+    TechniqueEnglish: Soundrecording
+    TechniquePlatt: Tonoppname
+    Dimensions: 
+    LatiAndLongitude: "52\xB013'24.6\"N 11\xB006'03.7\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 13
+        seconds: 24.6
+      longitude:
+        degrees: 11
+        minutes: 6
+        seconds: 3.7
+    FileName: "220318_BMBU_Morsleben_ERAM_Gebl\xE4se_und_Signale_F\xF6rderkorb"
+    Image: {fileID: 0}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: 
+    Audio: {fileID: 8300000, guid: 3c7935332fe8d9847bc6920eacc49c66, type: 3}
+    isAudio: 1
+  - Author: BMBU, Skirlo
+    Description: "Morsleben, Antrieb F\xF6rderkorb"
+    DescriptionEnglish: Morsleben, repository for nuclear waste, pit cage engine
+    DescriptionPlatt: "Morsl\xE4, Stidde forr nukleare Aff\xE4lle, F\xF6rderkorf"
+    Date: 18.3.22
+    DateEnglish: 18.3.22
+    Technique: Tonaufnahme
+    TechniqueEnglish: Soundrecording
+    TechniquePlatt: Tonoppname
+    Dimensions: 
+    LatiAndLongitude: "52\xB013'24.6\"N 11\xB006'03.7\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 13
+        seconds: 24.6
+      longitude:
+        degrees: 11
+        minutes: 6
+        seconds: 3.7
+    FileName: "220318_BMBU_Morsleben_ERAM_Antrieb_F\xF6rderkorb"
+    Image: {fileID: 0}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: 
+    Audio: {fileID: 8300000, guid: 87c4aa5638bf1f9499dd8207bfbca932, type: 3}
+    isAudio: 1

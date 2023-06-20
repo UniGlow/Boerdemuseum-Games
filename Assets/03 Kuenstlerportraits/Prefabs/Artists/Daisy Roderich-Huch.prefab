@@ -1,0 +1,419 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7614492684877705478
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3091295678958366176}
+  - component: {fileID: 2431994635535601923}
+  m_Layer: 0
+  m_Name: Daisy Roderich-Huch
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3091295678958366176
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7614492684877705478}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2431994635535601923
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7614492684877705478}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62e6b64417a487d468a23e2c6a841775, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Name: Daisy Roderich-Huch
+  Lifetime: "* 15. Mai 1894 in Swinem\xFCnde; \u2020 4. September 1983 in Berlin"
+  Image: {fileID: 21300000, guid: 325267800fb672c42a30d2a084fbc9c7, type: 3}
+  Description: "Aufgewachsen in Swinem\xFCnde, begann sie mit 18 Jahren in Berlin
+    eine Ausbildung an der Photographischen Lehranstalt des Lette-Vereins und wechselte
+    nach zwei Semestern an die Kunstschule des Vereins der Berliner K\xFCnstlerinnen.
+    \r\n\nBeeinflusst durch die Ereignisse des Ersten Weltkriegs absolvierte Daisy
+    eine Ausbildung zur Krankenpflegerin und arbeitete anschlie\xDFend in verschiedenen
+    Kliniken und Sanatorien. In Dresden lernte sie Dr. Roderich Huch, den Neffen
+    der Schriftstellerin Ricarda Huch, kennen und heiratete ihn 1940. Da er Syndikus
+    der Zuckerfabrik Klein Wanzleben war, wurde das B\xF6rdedorf ihr neuer Wohnort.
+    Nach dem Tod ihres Ehemannes 1944 lebte Daisy einige Jahre im Schermcker Schloss.
+    Hier entstanden zahlreiche Kaltnadelradierungen sowie Aquarelle und Federzeichnungen
+    von Orten der Umgebung.\r\n\nAb 1951 wohnte sie in Magdeburg und arbeitete im
+    Krankenhaus Sudenburg als Krankenschwester und wissenschaftliche Zeichnerin.
+    1961 siedelte Daisy Roderich-Huch nach Westberlin \xFCber, wo sie sich bis zu
+    ihrem Tod vor allem Plastiken aus Ton und Bronze sowie Holz- und Linolschnitten
+    widmete."
+  DescriptionEnglish: "After growing up in Swinem\xFCnde, she received photographic
+    training in Berlin\u2019s Lette-Verein when she was 18 years old and later changed
+    to the Kunstschule des Vereins der Berliner K\xFCnstlerinnen (School of Arts
+    of the Society of Berlin Female Artists). \r\n\nAffected by the events of the
+    First World War, she trained as a nurse and subsequently worked in various clinics
+    and sanatoria. In Dresden she met Dr. Roderich Huch, nephew of the author Ricarda
+    Huch. They married in 1940. As the corporate counsel of the sugar factory in
+    Klein Wanzleben, he and Daisy relocated there. After her husband\u2019s death
+    in 1944, she lived at the manor house of Schermcke for some years. During this
+    period, she produced many aquarelles, drypoint etchings and pen-drawings of her
+    surroundings.\r\n\nIn 1951 she moved to Magdeburg, where she worked as nurse
+    and scientific artist at the Sudenburg hospital. In 1961 she relocated to West-Berlin
+    and focussed on sculptures made of clay and bronze, as well as wood- and linoleum
+    cuts."
+  DescriptionPlatt: "Oppewussen is sei in Swinem\xFCnde. Mid 18 harre sei ne Lehre
+    in Berlin (Photographische Lehranstalt des Lette-Vereins). Na en Jahr jung Daisy
+    an de Kunstschaule (Verein der Berliner K\xFCnstlerinnen).\r\n\nDe Tiet in`n
+    Ersten Weltkriech brochte sei datau, Krankenplejerin tau weern in Krankenh\xFCser
+    un Sanatorien. In Dresden harre sei Dr. Roderich Huch edroopen, Neffe fonn de
+    Schriewerin Ricarda Huch. Hochtiet harren Daisy Ludwig un Roderich Huch 1940.
+    Hei w\xF6rre Advokat fonn de Zuckerfabrik in L\xFCttchen Wanzl\xE4. Bet tau sienen
+    Dood 1944 w\xF6rre dat B\xF6re-Dorp dat nie Tauhuuse. Danaa treckte Daisy in
+    dat Sloss na Schermcke. Sei maakte Radierungen, Malerie mid Waterfarwe un Biller
+    mid Fedder fonn de D\xF6rper drummerumme.\r\n\n1951 treckte Daisy Roderich-Huch
+    na Madeborch. In dat Krankenhuus in Sudenborch w\xF6rre sei Krankenswester un
+    male Schaubiller forr de Studenten. 1961 jung sei wech na Westberlin. Skulpturen
+    ut Ton und Bronze s\xFCnd heier taustanne ekomen, datau ok Holt- un Linolschnitte."
+  Categories:
+  - Name: Landschaft
+    NameEnglish: Landscapes
+    NamePlatt: Landschaft
+    Artworks:
+    - Year: undatiert, um 1950
+      YearEnglish: undated, around 1950
+      Technik: Federzeichnung in Tusche
+      Technique: Pen drawing, ink
+      TechnikPlatt: Fedder in Dusche
+      Dimensions: 13,2 x 20,9 cm
+      InvNr: V_22_00_17_10
+      Image: {fileID: 21300000, guid: 98e6f5afcda7e31458e6567bf92ebed3, type: 3}
+      Author: Daisy Roderich-Huch
+      Copyright: "B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Gartenlandschaft
+      Description: Garden landscape
+      OppPlatt: Gaarnlandschaft
+    - Year: um 1951
+      YearEnglish: around 1951
+      Technik: "Federzeichnung \xFCber Bleistift"
+      Technique: Pen drawing, ink, pencil
+      TechnikPlatt: Fedder ower Blisticken
+      Dimensions: 24 x 32,5 cm
+      InvNr: V_22_00_17_33
+      Image: {fileID: 21300000, guid: 50bb14e7b18779c49a0f2f1061f7ad32, type: 3}
+      Author: Daisy Roderich-Huch
+      Copyright: "B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Schlossgarten Schloss Schermcke
+      Description: Garden of Schermcke castle
+      OppPlatt: Gaarn fonn dat Sloss in Schermcke
+    - Year: undatiert, vor 1961
+      YearEnglish: undated, before 1961
+      Technik: Federzeichnung
+      Technique: Pen drawing, ink
+      TechnikPlatt: Fedder
+      Dimensions: 21 x 28,6 cm
+      InvNr: V_22_00_17_53
+      Image: {fileID: 21300000, guid: aac5c1c554c810f4db7c5ef4a2150453, type: 3}
+      Author: Daisy Roderich-Huch
+      Copyright: "B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Landschaft am Sauren Holz
+      Description: Countryside by the Sauren Holz
+      OppPlatt: 'Landschaft an`n Suren Holte '
+    - Year: undatiert, um 1950
+      YearEnglish: undated, around 1950
+      Technik: Federzeichnung
+      Technique: Pen drawing, ink
+      TechnikPlatt: Fedder
+      Dimensions: 18,5 x 24,5 cm
+      InvNr: V_22_00_17_65
+      Image: {fileID: 21300000, guid: f23bf7657d4a6394c976ddd989987ece, type: 3}
+      Author: Daisy Roderich-Huch
+      Copyright: "B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Blick vom Sauren Holz auf Schermcke
+      Description: View from Sauren Holz towards Schermcke
+      OppPlatt: Fonn`n Suren Holte ut na Schermcke ekiekt
+    - Year: undatiert, um 1950
+      YearEnglish: undated, around 1950
+      Technik: Federzeichnung
+      Technique: Pen drawing, ink
+      TechnikPlatt: Fedder
+      Dimensions: 25,7 x 36,8 cm
+      InvNr: V_22_00_17_98
+      Image: {fileID: 21300000, guid: b732c1ce024c6b5459d9381b2a05f2a5, type: 3}
+      Author: Daisy Roderich-Huch
+      Copyright: "B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Klein Wanzleben
+      Description: Klein Wanzleben
+      OppPlatt: "L\xFCttjen Wanzl\xE4"
+    - Year: 1958
+      YearEnglish: 1958
+      Technik: "Aquarell \xFCber Bleistift"
+      Technique: Aquarell over pencil
+      TechnikPlatt: Waterfarve ower Blisticken
+      Dimensions: 34,7 x 45 cm
+      InvNr: V_22_00_17_102
+      Image: {fileID: 21300000, guid: 005fcf737dab55f4e97a38b85e406316, type: 3}
+      Author: Daisy Roderich-Huch
+      Copyright: "B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Garnbach
+      Description: Garnbach
+      OppPlatt: "Garnbach, bien Kyffh\xFCser"
+    - Year: um 1951
+      YearEnglish: around 1951
+      Technik: "Federzeichnung \xFCber Bleistift, laviert"
+      Technique: Pen drawing, ink, washed, pencil
+      TechnikPlatt: Fedder un Pinsel ower Blisticken
+      Dimensions: 44 x 54 cm
+      InvNr: V_22_00_17_127
+      Image: {fileID: 21300000, guid: 2d0da309c81c80948ae3d79660beffd2, type: 3}
+      Author: Daisy Roderich-Huch
+      Copyright: "B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Park in Schermcke
+      Description: Park in Schermcke
+      OppPlatt: Slosspark in Schermcke
+    - Year: undatiert
+      YearEnglish: undated
+      Technik: Tusche
+      Technique: Ink
+      TechnikPlatt: Dusche
+      Dimensions: 32,5 x 49,5 cm
+      InvNr: V_22_00_17_140
+      Image: {fileID: 21300000, guid: fd077199ef5914d408aab2e41540f9aa, type: 3}
+      Author: Daisy Roderich-Huch
+      Copyright: "B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Ortssilhouette mit Birken im Vordergrund
+      Description: Silhouette of a village with birches in the foreground
+      OppPlatt: En Dorp wiet wech un 3 Berken forrste
+    - Year: undatiert, nach 1961
+      YearEnglish: undated, after 1961
+      Technik: "Tusche, Kreide, Kohle \xFCber Bleistift"
+      Technique: Ink, Chalk, Charcoal over pencil
+      TechnikPlatt: Dusche, Kriede, Kolle ower Blisticken
+      Dimensions: 20 x 29,5 cm
+      InvNr: V_22_00_17_148
+      Image: {fileID: 21300000, guid: ceb6ede90d610fc4787ce8ef09a35ac8, type: 3}
+      Author: Daisy Roderich-Huch
+      Copyright: "B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Gebirgsstudie
+      Description: Study of mountains
+      OppPlatt: Barje
+  - Name: Landwirtschaft
+    NameEnglish: Agriculture
+    NamePlatt: Landwirtschaft
+    Artworks:
+    - Year: 1944
+      YearEnglish: 1944
+      Technik: Tusche
+      Technique: Ink
+      TechnikPlatt: Dusche
+      Dimensions: 18,5 x 24,5 cm
+      InvNr: V_22_00_17_1
+      Image: {fileID: 21300000, guid: 4ddd8bb9bf2f04f4dac407ffcf426ef2, type: 3}
+      Author: Daisy Roderich-Huch
+      Copyright: "B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Heureiter
+      Description: Hay-rider
+      OppPlatt: Heurieer
+    - Year: undatiert, vor 1961
+      YearEnglish: undated, before 1961
+      Technik: Tusche
+      Technique: Ink
+      TechnikPlatt: Dusche
+      Dimensions: 13,8 x 21 cm
+      InvNr: V_22_00_17_7
+      Image: {fileID: 21300000, guid: b0522fee94c93ac48be34c67386f5743, type: 3}
+      Author: Daisy Roderich-Huch
+      Copyright: "B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Stilleben Ackerwagen
+      Description: Still life, field carriage
+      OppPlatt: Ackerwaan
+    - Year: undatiert, vor 1961
+      YearEnglish: undated, before 1961
+      Technik: Federzeichnung
+      Technique: Pen drawing
+      TechnikPlatt: Fedder
+      Dimensions: 32 x 23,8 cm
+      InvNr: V_22_00_17_49
+      Image: {fileID: 21300000, guid: 233463c82ec0d134ba2ed8a5d1d25d32, type: 3}
+      Author: Daisy Roderich-Huch
+      Copyright: "B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: "Bockwindm\xFChle"
+      Description: Windmill
+      OppPlatt: "Bockwindm\xF6lle"
+    - Year: undatiert, vor 1961
+      YearEnglish: undated, before 1961
+      Technik: Federzeichnung
+      Technique: Pen drawing
+      TechnikPlatt: Fedder
+      Dimensions: 15,2 x 20,9 cm
+      InvNr: V_22_00_17_50
+      Image: {fileID: 21300000, guid: 87ecfe203e1204b4c9a683b0d7c0d4b0, type: 3}
+      Author: Daisy Roderich-Huch
+      Copyright: "B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Saure Wochen (Druschplatz)
+      Description: Bitter weeks
+      OppPlatt: "Sure Wochen (D\xF6schstidde)"
+  - Name: Ortsmotive
+    NameEnglish: Locations
+    NamePlatt: Orte
+    Artworks:
+    - Year: undatiert, um 1950
+      YearEnglish: undated, around 1950
+      Technik: Federzeichung
+      Technique: Pen drawing
+      TechnikPlatt: Fedder
+      Dimensions: 18,5 x 20 cm
+      InvNr: V_22_00_17_3
+      Image: {fileID: 21300000, guid: 098bb3e6accd32940af89434b66cec26, type: 3}
+      Author: Daisy Roderich-Huch
+      Copyright: "B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Dorfplatz, Lindenplan Seehausen
+      Description: Village square, Lindenplan Seehausen
+      OppPlatt: Dorpstidde, Linnenplan Seehusen
+    - Year: undatiert, um 1950
+      YearEnglish: undated, around 1950
+      Technik: Feder in Tusche
+      Technique: Pen drawing, ink
+      TechnikPlatt: Fedder in Dusche
+      Dimensions: 25,6 x 36,6 cm
+      InvNr: V_22_00_17_25
+      Image: {fileID: 21300000, guid: 627f409a856670c4aa195c345be0c2cb, type: 3}
+      Author: Daisy Roderich-Huch
+      Copyright: "B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Dorfplatz Klein Wanzleben
+      Description: Village square, Klein Wanzleben
+      OppPlatt: "Dorpstidde L\xFCttjen Wanzl\xE4"
+    - Year: undatiert, vor 1961
+      YearEnglish: undated, before 1961
+      Technik: Federzeichnung, braun aquarelliert
+      Technique: Pen drawing, ink, water colour
+      TechnikPlatt: Fedder, bruune Waterfarwe
+      Dimensions: 32 x 24 cm
+      InvNr: V_22_00_17_30
+      Image: {fileID: 21300000, guid: 68cf7ab98d9dfe14bbec0349bca093e2, type: 3}
+      Author: Daisy Roderich-Huch
+      Copyright: "B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Portal im Schloss Ampfurth
+      Description: Gate of castle Ampfurth
+      OppPlatt: Injang tau dat  Sloss in Ampfurth
+    - Year: undatiert, vor 1961
+      YearEnglish: undated, before 1961
+      Technik: "Federzeichnung \xFCber Bleistift"
+      Technique: Pen drawing, ink, pencil
+      TechnikPlatt: Fedder ower Blisticken
+      Dimensions: 32,5 x 24 cm
+      InvNr: V_22_00_17_44
+      Image: {fileID: 21300000, guid: e7fffd57d6103a54696575627492078f, type: 3}
+      Author: Daisy Roderich-Huch
+      Copyright: "B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Inneres der Ampfurther Christuskirche
+      Description: Inside of the church of Ampfurth
+      OppPlatt: In de Christuskerche in Ampfurth
+    - Year: undatiert, um 1950
+      YearEnglish: undated, around 1950
+      Technik: "Federzeichnung \xFCber Bleistift"
+      Technique: Pen drawing, ink, pencil
+      TechnikPlatt: Fedder ower Blisticken
+      Dimensions: 26,7 x 24 cm
+      InvNr: V_22_00_17_45
+      Image: {fileID: 21300000, guid: 01e1c9d268b6f2a449407b5b015a6f19, type: 3}
+      Author: Daisy Roderich-Huch
+      Copyright: "B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: "Dorfstra\xDFe Ampfurth"
+      Description: Village road in Ampfurth
+      OppPlatt: Dorpstrate in Ampfurth
+    - Year: 1947
+      YearEnglish: 1947
+      Technik: "Federzeichnung \xFCber Bleistift"
+      Technique: Pen drawing, ink, pencil
+      TechnikPlatt: Fedder ower Blisticken
+      Dimensions: 19,5 x 20 cm
+      InvNr: V_22_00_17_78
+      Image: {fileID: 21300000, guid: 23c9ec5d94c4a1442b1fc4d1e7bfb880, type: 3}
+      Author: Daisy Roderich-Huch
+      Copyright: "B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Am Brunnen
+      Description: By the well
+      OppPlatt: An`n Born
+    - Year: undatiert, vor 1961
+      YearEnglish: undated, before 1961
+      Technik: "Aquarell \xFCber Bleistift"
+      Technique: Aquarell over pencil
+      TechnikPlatt: Waterfarve ower Blisticken
+      Dimensions: 40 x 30 cm
+      InvNr: V_22_00_17_105
+      Image: {fileID: 21300000, guid: 4db95c04ca2272f449aa1c9c19b748a6, type: 3}
+      Author: Daisy Roderich-Huch
+      Copyright: "B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Kirche in Ampfurth
+      Description: Church in Ampfurth
+      OppPlatt: Kerche in Ampfurth
+    - Year: undatiert, vor 1961
+      YearEnglish: undated, before 1961
+      Technik: Aquarell
+      Technique: Aquarell
+      TechnikPlatt: Waterfarwe
+      Dimensions: 39,5 x 49,5 cm
+      InvNr: V_22_00_17_137
+      Image: {fileID: 21300000, guid: 41e5684435d89bc489f2434f40e3d45b, type: 3}
+      Author: Daisy Roderich-Huch
+      Copyright: "B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: "Stra\xDFe in Klein Wanzleben"
+      Description: Road in Klein Wanzleben
+      OppPlatt: "Strate in L\xFCttjen Wanzl\xE4"
+    - Year: undatiert, nach 1961
+      YearEnglish: undated, after 1961
+      Technik: Holzschnitt
+      Technique: Woodcut
+      TechnikPlatt: Holtsnitt
+      Dimensions: 55 x 71 cm
+      InvNr: V_22_00_17_146
+      Image: {fileID: 21300000, guid: f751546f2e913d147a1e30b47dd90817, type: 3}
+      Author: Daisy Roderich-Huch
+      Copyright: "B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: "Stra\xDFenzug"
+      Description: Road
+      OppPlatt: Strate
+  - Name: Stillleben
+    NameEnglish: Still life
+    NamePlatt: Stillleben
+    Artworks:
+    - Year: undatiert
+      YearEnglish: undated
+      Technik: Linoldruck
+      Technique: Linoleum print
+      TechnikPlatt: Linoldruck
+      Dimensions: 31 x 42,5 cm
+      InvNr: V_22_00_17_142
+      Image: {fileID: 21300000, guid: 4ed53317c10c4e34894b294046654759, type: 3}
+      Author: Daisy Roderich-Huch
+      Copyright: "B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: "Stilleben mit Gie\xDFkanne, Krug und Vase"
+      Description: Still life with watering pot, mug and vase
+      OppPlatt: 'Bild mid Jaitekanne, Krauch un Vase '
+    - Year: 1910 - 1920
+      YearEnglish: 1910 - 1920
+      Technik: Aquarell
+      Technique: Aquarell
+      TechnikPlatt: Waterfarwe
+      Dimensions: 45,5 x 42,5 cm
+      InvNr: V_22_00_17_147
+      Image: {fileID: 21300000, guid: 48bf354bea2c3374480b5d5825e9fb4d, type: 3}
+      Author: Daisy Roderich-Huch
+      Copyright: "B\xF6rde-Museum Burg Ummendorf"
+      Beschreibung: Blumen in einer Vase
+      Description: Flowers in a vase
+      OppPlatt: Blaumen in en Krauch

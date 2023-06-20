@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7cdca8fa1c6f26f40ac66f11763ddcdf, type: 3}
+  m_Name: "Dialogue_Geb\xE4ude 5"
+  m_EditorClassIdentifier: 
+  ComplementingImage: {fileID: 0}
+  Messages:
+  - CharacterName: {fileID: 0}
+    CharacterImage: {fileID: 21300000, guid: 006ea44c28a944c4ebeaf1ef897e8df1, type: 3}
+    Sound: {fileID: 8300000, guid: acd89f6df07e9514aaf855eb00563861, type: 3}
+    SoundEnglish: {fileID: 8300000, guid: 20c679ab23f6d804bb9164e5e3e87459, type: 3}
+    SoundPlatt: {fileID: 8300000, guid: 11d54fb58e19f624cb604b4bdbde2f4d, type: 3}
+    SoundVolume: 1
+    SoundOffset: 0
+    Text: "Maschinenfabrik Oddesse: Ab 1854 stellte man an dieser Stelle Kessel und
+      Dampfmaschinen her. Um 1900 hie\xDF die Fabrik Maschinenfabrik Oddesse GmbH
+      und spezialisierte sich auf Dampfpumpen."
+    TextEnglish: 'Machine Factory Oddesse: From 1854 onwards steam engines and boilers
+      were made here. Around 1900 it was called Machine Factory Oddesse Ltd. and
+      it specialised in steam pumps. '
+    TextPlatt: 'Maschinenfabrik Oddesse: Aff 1854 maake man heier Kettel un Dampmaschinen.
+      Umme 1900 heite de Fabrik Maschinenfabrik Oddesse GmbH und stelle mehrst Damppumpen
+      her.'

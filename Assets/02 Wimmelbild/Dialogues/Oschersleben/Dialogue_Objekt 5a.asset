@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7cdca8fa1c6f26f40ac66f11763ddcdf, type: 3}
+  m_Name: Dialogue_Objekt 5a
+  m_EditorClassIdentifier: 
+  ComplementingImage: {fileID: 0}
+  Messages:
+  - CharacterName: {fileID: 0}
+    CharacterImage: {fileID: 21300000, guid: 56ae76cee8990c249bfa6d7222723cc2, type: 3}
+    Sound: {fileID: 8300000, guid: 96d23b5b10733a146a8663a49c7bc515, type: 3}
+    SoundEnglish: {fileID: 8300000, guid: 385bf18f8c480b2429a93d0de3509acb, type: 3}
+    SoundPlatt: {fileID: 8300000, guid: 393e81f99e284f441b0271b5f9129cd0, type: 3}
+    SoundVolume: 1
+    SoundOffset: 0
+    Text: In dieser Villa wohnten Menschen, die als Industriefabrikanten oder Landwirte
+      reich wurden.
+    TextEnglish: This villa was inhabited by people who became rich through farming
+      or industry.
+    TextPlatt: "In d\xFCsse Villa hett L\xFCe elewet, de rieke Fabrikanten or Buern
+      ewest s\xFCnd."

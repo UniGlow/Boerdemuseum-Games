@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7cdca8fa1c6f26f40ac66f11763ddcdf, type: 3}
+  m_Name: "Dialogue_Geb\xE4ude 6"
+  m_EditorClassIdentifier: 
+  ComplementingImage: {fileID: 0}
+  Messages:
+  - CharacterName: {fileID: 0}
+    CharacterImage: {fileID: 21300000, guid: ed49ec48a63c1804995bc8f59ad88852, type: 3}
+    Sound: {fileID: 8300000, guid: 436847cb1fab22a4a80bb0dd03c06edb, type: 3}
+    SoundEnglish: {fileID: 8300000, guid: 1295b84db66024a4492f1c2658d5d4b3, type: 3}
+    SoundPlatt: {fileID: 8300000, guid: 5a1ea9f7dd190a64887e6613fdf5ea47, type: 3}
+    SoundVolume: 1
+    SoundOffset: 0
+    Text: 'Rathaus: Dies ist das Rathaus. Es wurde 1691 nach einem Brand neu aufgebaut
+      und 1836 erweitert.'
+    TextEnglish: 'Townhall: This is the townhall. It was rebuilt in 1691 after a
+      fire and it was extended in 1836.'
+    TextPlatt: "Rathuus: D\xFCt is dat Rathuus. Et worre 1691 na en Brand nie oppebuut
+      un 1836 wat datau ebuut."

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/02 Wimmelbild/Scenes/Levelauswahl.unity
+    guid: f5eb665a88776084cbaaf32d92430fbf
+  - enabled: 1
+    path: Assets/02 Wimmelbild/Scenes/Spaennerhaus.unity
+    guid: a123fc4fd925f2d4e8ce29c866c99821
+  - enabled: 1
+    path: Assets/02 Wimmelbild/Scenes/Archaeologie.unity
+    guid: 819981d9054d1b54b985fa3fa473ba0e
+  - enabled: 1
+    path: Assets/02 Wimmelbild/Scenes/Oschersleben.unity
+    guid: c4760e06be4bd7946a6c298aacb41d7b
+  - enabled: 0
+    path: Assets/04 Objekt Memory/ObjectMemory.unity
+    guid: 0cb09dc6dd7f63149a474f2ebdef0508
+  - enabled: 0
+    path: Assets/03 Kuenstlerportraits/Kuenstlerportraits.unity
+    guid: caefe1300dcbd104885ca797a77185d1
+  - enabled: 0
+    path: Assets/01 Interaktive Karte/InteraktiveKarte.unity
+    guid: f6ca63ec2252e644281d4b42c08a22f2
+  m_configObjects: {}

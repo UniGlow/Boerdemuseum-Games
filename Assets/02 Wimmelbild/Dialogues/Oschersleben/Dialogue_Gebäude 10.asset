@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7cdca8fa1c6f26f40ac66f11763ddcdf, type: 3}
+  m_Name: "Dialogue_Geb\xE4ude 10"
+  m_EditorClassIdentifier: 
+  ComplementingImage: {fileID: 0}
+  Messages:
+  - CharacterName: {fileID: 0}
+    CharacterImage: {fileID: 21300000, guid: 04317cbe001741843847e2b2c6930fcf, type: 3}
+    Sound: {fileID: 8300000, guid: f3ac61883c751264bbce4c55d2bd97f3, type: 3}
+    SoundEnglish: {fileID: 8300000, guid: 90d602acd05153949af88eafbe462ef1, type: 3}
+    SoundPlatt: {fileID: 8300000, guid: 6019031ce3e8b3e4d91bc5dfc84e0dc3, type: 3}
+    SoundVolume: 1
+    SoundOffset: 0
+    Text: "Bahnhof: Der Bahnhof in Oschersleben ist einer der \xE4ltesten Bahnh\xF6fe
+      Deutschlands. Er wurde 1843 errichtet und war ein Grenzbahnhof zwischen der
+      preu\xDFischen und der braunschweigischen Eisenbahngesellschaft."
+    TextEnglish: 'Train station: The train station in Oschersleben is one of the
+      oldest train stations in Germany. It was built in 1843 and served as a border-station
+      between the Prussian (Preussen) and Brunswick (Braunschweig) train companies.'
+    TextPlatt: "Bahnhoff: De Bahnhoff in Oschersl\xE4 tellt tau de \xF6ldesten Bahnh\xF6wwe
+      in D\xFC\xFCtschland. Hei worre 1843 ebuut un is en Jrenzbahnhoff ewest twischen
+      de preu\xDFische un de bruunschwiegische Iesenbahnjesellschaft. "

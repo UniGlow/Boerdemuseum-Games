@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7cdca8fa1c6f26f40ac66f11763ddcdf, type: 3}
+  m_Name: Dialogue_Objekt 2a
+  m_EditorClassIdentifier: 
+  ComplementingImage: {fileID: 0}
+  Messages:
+  - CharacterName: {fileID: 0}
+    CharacterImage: {fileID: 21300000, guid: a1cce672cea037c408d3d5f3290672b2, type: 3}
+    Sound: {fileID: 8300000, guid: 34231db19954e2a498b9e86353b63ea5, type: 3}
+    SoundEnglish: {fileID: 8300000, guid: bac5443fdc315f44c835519ba3650264, type: 3}
+    SoundPlatt: {fileID: 8300000, guid: 3fccd7cc5472cee4ba8c5f296ea4bfe8, type: 3}
+    SoundVolume: 1
+    SoundOffset: 0
+    Text: "In der Textilfabrik wurden S\xE4cke hergestellt. Diese brauchte man f\xFCr
+      die R\xFCbensaat und den D\xFCnger. Die S\xE4cke wurden beschriftet, damit
+      man wusste, was sie enthielten."
+    TextEnglish: The textile mill produced sacks. They were needed for beet seeds
+      and fertiliser. The sacks were labelled, so you knew what they contained.
+    TextPlatt: "In de T\xFC\xFCchfabrik s\xFCnd S\xE4cke emaakt worrn. D\xFCsse bruukte
+      man forr de Reubensaat un forr D\xFCnger. Opp de S\xE4cke worre droppeschremm,
+      wat drin is."

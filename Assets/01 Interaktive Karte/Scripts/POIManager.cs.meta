@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7b830d6c317d920468e3d0a57e920d3d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - mapSettings: {instanceID: 0}
+  - poiPrefab: {instanceID: 0}
+  - poiGroupPrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

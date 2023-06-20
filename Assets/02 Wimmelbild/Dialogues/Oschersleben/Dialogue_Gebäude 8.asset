@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7cdca8fa1c6f26f40ac66f11763ddcdf, type: 3}
+  m_Name: "Dialogue_Geb\xE4ude 8"
+  m_EditorClassIdentifier: 
+  ComplementingImage: {fileID: 0}
+  Messages:
+  - CharacterName: {fileID: 0}
+    CharacterImage: {fileID: 21300000, guid: a3b966383bf492641a760cac84ebb0e9, type: 3}
+    Sound: {fileID: 8300000, guid: e361a7fc3bf93464bb73c62dc96d7ab7, type: 3}
+    SoundEnglish: {fileID: 8300000, guid: cc6401a6e04654140b53bc2ff245b1be, type: 3}
+    SoundPlatt: {fileID: 8300000, guid: 0fcb2ccd08104964ca020437f0f6f063, type: 3}
+    SoundVolume: 1
+    SoundOffset: 0
+    Text: "Malzfabrik: In der M\xE4lzerei Louis Bormann wurde aus Braugetreide Malz
+      produziert. Dies brauchte man f\xFCr die Herstellung von Bier. Die Fabrik gab
+      es seit 1869."
+    TextEnglish: 'Malt house: Malt house Louis Bormann produced malt from grain,
+      which was needed for brewing beer. It was established in 1869.'
+    TextPlatt: "Maltfabrik: In de M\xE4lterie fonn Julius Bormann worre ut Bruujerste
+      Malt emaakt. D\xFCt bruukte man forr de Beierbruerie. De Fabrik jaaf et aff
+      1869."

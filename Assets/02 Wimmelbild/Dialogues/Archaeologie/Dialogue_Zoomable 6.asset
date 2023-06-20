@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7cdca8fa1c6f26f40ac66f11763ddcdf, type: 3}
+  m_Name: Dialogue_Zoomable 6
+  m_EditorClassIdentifier: 
+  ComplementingImage: {fileID: 0}
+  Messages:
+  - CharacterName: {fileID: 0}
+    CharacterImage: {fileID: 21300000, guid: 5ffe8f6ab342b4f43b6ee1c238d6fc0d, type: 3}
+    Sound: {fileID: 8300000, guid: 925dc75557e850041bba7882d6353285, type: 3}
+    SoundEnglish: {fileID: 8300000, guid: 71943290a5955904da92537ff6e08903, type: 3}
+    SoundPlatt: {fileID: 8300000, guid: beb7266910dc5624b8610b21b87eb482, type: 3}
+    SoundVolume: 1
+    SoundOffset: 0
+    Text: "M\xFCnze: Die R\xF6mer bezahlten mit M\xFCnzen. Oft waren auf ihnen die
+      K\xF6pfe wichtiger Menschen abgebildet. Durch Handel oder als Geschenke sind
+      die M\xFCnzen in diese Gegend gekommen."
+    TextEnglish: 'Coin: In ancient Rome coins were used to pay for things. Often
+      they showed the heads of important people. Through trade or as gifts the coins
+      came also to this region.'
+    TextPlatt: "M\xFCnze: De R\xF6mer harren M\xFCnzen taun Betalen. K\xF6ppe fonn
+      bed\xFC\xFCtsame Minschen w\xF6rren da dropp. Dorch Handel un ok dorch Jeschenke
+      s\xFCnd de M\xFCnzen in d\xFCsse Jejend ekoomen."

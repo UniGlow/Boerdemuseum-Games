@@ -1,0 +1,3072 @@
+fileFormatVersion: 2
+guid: c489a1bce3b58f148bf10b0f9d55404f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8366516497543533071
+    second: Blauer Rahmen_0
+  - first:
+      213: 90625145982471785
+    second: Blauer Rahmen_1
+  - first:
+      213: -8871570687533400157
+    second: Blauer Rahmen_2
+  - first:
+      213: 3381202845847540819
+    second: Blauer Rahmen_3
+  - first:
+      213: -7589053085841544857
+    second: Blauer Rahmen_4
+  - first:
+      213: 6450679514513273151
+    second: Blauer Rahmen_5
+  - first:
+      213: 2189728107891036996
+    second: Blauer Rahmen_6
+  - first:
+      213: -7520342732112286038
+    second: Blauer Rahmen_7
+  - first:
+      213: 778020105967863596
+    second: Blauer Rahmen_8
+  - first:
+      213: 5094778334209167600
+    second: Blauer Rahmen_9
+  - first:
+      213: -4393356559097971364
+    second: Blauer Rahmen_10
+  - first:
+      213: 3145311733473405229
+    second: Blauer Rahmen_11
+  - first:
+      213: 4158899682476597700
+    second: Blauer Rahmen_12
+  - first:
+      213: 4508764910931362011
+    second: Blauer Rahmen_13
+  - first:
+      213: 1544678464542391129
+    second: Blauer Rahmen_14
+  - first:
+      213: 896328837794193375
+    second: Blauer Rahmen_15
+  - first:
+      213: -3690619980917843793
+    second: Blauer Rahmen_16
+  - first:
+      213: 8389589877171486466
+    second: Blauer Rahmen_17
+  - first:
+      213: 1750626448919423103
+    second: Blauer Rahmen_18
+  - first:
+      213: -8070463059293654640
+    second: Blauer Rahmen_19
+  - first:
+      213: -5367215856902167752
+    second: Blauer Rahmen_20
+  - first:
+      213: 8780830437717554082
+    second: Blauer Rahmen_21
+  - first:
+      213: 6672612637737036352
+    second: Blauer Rahmen_22
+  - first:
+      213: -7769905008486035716
+    second: Blauer Rahmen_23
+  - first:
+      213: -6440731951504033946
+    second: Blauer Rahmen_24
+  - first:
+      213: 4400358447447181848
+    second: Blauer Rahmen_25
+  - first:
+      213: -3980929238902321786
+    second: Blauer Rahmen_26
+  - first:
+      213: 3020158710842495563
+    second: Blauer Rahmen_27
+  - first:
+      213: 1037090705014764710
+    second: Blauer Rahmen_28
+  - first:
+      213: -6305388921574741133
+    second: Blauer Rahmen_29
+  - first:
+      213: -7814911116830616712
+    second: Blauer Rahmen_30
+  - first:
+      213: 1863176985329166148
+    second: Blauer Rahmen_31
+  - first:
+      213: -1909851345596811919
+    second: Blauer Rahmen_32
+  - first:
+      213: 8552044866645540125
+    second: Blauer Rahmen_33
+  - first:
+      213: 3282355613909246430
+    second: Blauer Rahmen_34
+  - first:
+      213: 8771375187984917304
+    second: Blauer Rahmen_35
+  - first:
+      213: -7184244506109301045
+    second: Blauer Rahmen_36
+  - first:
+      213: 1761667038241142657
+    second: Blauer Rahmen_37
+  - first:
+      213: 8257033091535092758
+    second: Blauer Rahmen_38
+  - first:
+      213: 5438097770959996415
+    second: Blauer Rahmen_39
+  - first:
+      213: -4236891263621702000
+    second: Blauer Rahmen_40
+  - first:
+      213: -3393732199946440676
+    second: Blauer Rahmen_41
+  - first:
+      213: -7676832725139225162
+    second: Blauer Rahmen_42
+  - first:
+      213: 8026529438819459305
+    second: Blauer Rahmen_43
+  - first:
+      213: 670768386051939980
+    second: Blauer Rahmen_44
+  - first:
+      213: 2868595540443706333
+    second: Blauer Rahmen_45
+  - first:
+      213: -6550061942771011292
+    second: Blauer Rahmen_46
+  - first:
+      213: -597271115035114935
+    second: Blauer Rahmen_47
+  - first:
+      213: 3931206846541192192
+    second: Blauer Rahmen_48
+  - first:
+      213: -8626352509993613033
+    second: Blauer Rahmen_49
+  - first:
+      213: 2673931142508712662
+    second: Blauer Rahmen_50
+  - first:
+      213: -5833961125881375651
+    second: Blauer Rahmen_51
+  - first:
+      213: 8605650081361405070
+    second: Blauer Rahmen_52
+  - first:
+      213: -1117349480962353064
+    second: Blauer Rahmen_53
+  - first:
+      213: 4106722829238297912
+    second: Blauer Rahmen_54
+  - first:
+      213: -2214034558446182057
+    second: Blauer Rahmen_55
+  - first:
+      213: -5287776385990721735
+    second: Blauer Rahmen_56
+  - first:
+      213: -1737149335479668714
+    second: Blauer Rahmen_57
+  - first:
+      213: -1966122249942204659
+    second: Blauer Rahmen_58
+  - first:
+      213: 4353707932669668955
+    second: Blauer Rahmen_59
+  - first:
+      213: -3887129042079943932
+    second: Blauer Rahmen_60
+  - first:
+      213: 2887188057170953123
+    second: Blauer Rahmen_61
+  - first:
+      213: 400907906072771303
+    second: Blauer Rahmen_62
+  - first:
+      213: -6874115625491641931
+    second: Blauer Rahmen_63
+  - first:
+      213: -7308092506806881064
+    second: Blauer Rahmen_64
+  - first:
+      213: -6468809418162552776
+    second: Blauer Rahmen_65
+  - first:
+      213: 669579152418314838
+    second: Blauer Rahmen_66
+  - first:
+      213: -3925145905022138998
+    second: Blauer Rahmen_67
+  - first:
+      213: 4632916133087096650
+    second: Blauer Rahmen_68
+  - first:
+      213: 1047327970030826523
+    second: Blauer Rahmen_69
+  - first:
+      213: 2876122466068359610
+    second: Blauer Rahmen_70
+  - first:
+      213: 8246237110417546360
+    second: Blauer Rahmen_71
+  - first:
+      213: 4592106663297387897
+    second: Blauer Rahmen_72
+  - first:
+      213: -4956252162860574349
+    second: Blauer Rahmen_73
+  - first:
+      213: 4095607873483568496
+    second: Blauer Rahmen_74
+  - first:
+      213: 2457944665783913410
+    second: Blauer Rahmen_75
+  - first:
+      213: -7715212160738325062
+    second: Blauer Rahmen_76
+  - first:
+      213: 2194303840523045110
+    second: Blauer Rahmen_77
+  - first:
+      213: -4083127541241733344
+    second: Blauer Rahmen_78
+  - first:
+      213: -2213576570011188592
+    second: Blauer Rahmen_79
+  - first:
+      213: -7010419390612241725
+    second: Blauer Rahmen_80
+  - first:
+      213: -6381865279897104906
+    second: Blauer Rahmen_81
+  - first:
+      213: 8448460040532889951
+    second: Blauer Rahmen_82
+  - first:
+      213: -4263302750296494535
+    second: Blauer Rahmen_83
+  - first:
+      213: -4570935072935373416
+    second: Blauer Rahmen_84
+  - first:
+      213: -625373112112349418
+    second: Blauer Rahmen_85
+  - first:
+      213: 7021509464282986413
+    second: Blauer Rahmen_86
+  - first:
+      213: 3748648646629305897
+    second: Blauer Rahmen_87
+  - first:
+      213: -1945819374070354551
+    second: Blauer Rahmen_88
+  - first:
+      213: -719935339684587344
+    second: Blauer Rahmen_89
+  - first:
+      213: -6087383268451461104
+    second: Blauer Rahmen_90
+  - first:
+      213: -6680126095920166296
+    second: Blauer Rahmen_91
+  - first:
+      213: 5293768787615918391
+    second: Blauer Rahmen_92
+  - first:
+      213: 2033744724045291584
+    second: Blauer Rahmen_93
+  - first:
+      213: 1560346789802553982
+    second: Blauer Rahmen_94
+  - first:
+      213: -3440546790644964352
+    second: Blauer Rahmen_95
+  - first:
+      213: -8626935476666827300
+    second: Blauer Rahmen_96
+  - first:
+      213: 4156531337498140775
+    second: Blauer Rahmen_97
+  - first:
+      213: -1184196844939169867
+    second: Blauer Rahmen_98
+  - first:
+      213: 1476220376533058574
+    second: Blauer Rahmen_99
+  - first:
+      213: 4087238499889438883
+    second: Blauer Rahmen_100
+  - first:
+      213: -2223583524562111771
+    second: Blauer Rahmen_101
+  - first:
+      213: 7584057679239222276
+    second: Blauer Rahmen_102
+  - first:
+      213: 8037658507827590442
+    second: Blauer Rahmen_103
+  - first:
+      213: 2892017798758078412
+    second: Blauer Rahmen_104
+  - first:
+      213: -1028481899056363797
+    second: Blauer Rahmen_105
+  - first:
+      213: 7894372888569603268
+    second: Blauer Rahmen_106
+  - first:
+      213: -5090911158129011569
+    second: Blauer Rahmen_107
+  - first:
+      213: -8647935846471464749
+    second: Blauer Rahmen_108
+  - first:
+      213: -5156404237927064589
+    second: Blauer Rahmen_109
+  - first:
+      213: -4823369799912893711
+    second: Blauer Rahmen_110
+  - first:
+      213: -8862861052200485195
+    second: Blauer Rahmen_111
+  - first:
+      213: 2573659837475065146
+    second: Blauer Rahmen_112
+  - first:
+      213: 7982940835440209232
+    second: Blauer Rahmen_113
+  - first:
+      213: -6993698102222216154
+    second: Blauer Rahmen_114
+  - first:
+      213: -1971688314741494716
+    second: Blauer Rahmen_115
+  - first:
+      213: -7367581517365375763
+    second: Blauer Rahmen_116
+  - first:
+      213: -6428917194480797960
+    second: Blauer Rahmen_117
+  - first:
+      213: -676334366568718489
+    second: Blauer Rahmen_118
+  - first:
+      213: -4221792396260905142
+    second: Blauer Rahmen_119
+  - first:
+      213: 7428805413631133070
+    second: Blauer Rahmen_120
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 2
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 80, y: 80, z: 80, w: 80}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 75
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 75
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 75
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 75
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Nintendo Switch
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 75
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 75
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Blauer Rahmen_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 802
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0217834d66db1470800000000000000
+      internalID: 8366516497543533071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blauer Rahmen_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 802
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96ec0021717f14100800000000000000
+      internalID: 90625145982471785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blauer Rahmen_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 802
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3afbdc99679d1e480800000000000000
+      internalID: -8871570687533400157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blauer Rahmen_3
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 802
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 354584ce2127cee20800000000000000
+      internalID: 3381202845847540819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blauer Rahmen_4
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 802
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76925dc4d644ea690800000000000000
+      internalID: -7589053085841544857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blauer Rahmen_5
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 802
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f31f37e57da658950800000000000000
+      internalID: 6450679514513273151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blauer Rahmen_6
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 802
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4439889cc1a736e10800000000000000
+      internalID: 2189728107891036996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blauer Rahmen_7
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 802
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaea14f212062a790800000000000000
+      internalID: -7520342732112286038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blauer Rahmen_8
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 802
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c27835c0a251cca00800000000000000
+      internalID: 778020105967863596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blauer Rahmen_9
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 802
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f0d4e3d6e944b640800000000000000
+      internalID: 5094778334209167600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blauer Rahmen_10
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 802
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5d355b8c79a703c0800000000000000
+      internalID: -4393356559097971364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blauer Rahmen_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 722
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d29ec856b5466ab20800000000000000
+      internalID: 3145311733473405229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blauer Rahmen_12
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 722
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c1a086f93167b930800000000000000
+      internalID: 4158899682476597700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blauer Rahmen_13
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 722
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd04fcb4cc9529e30800000000000000
+      internalID: 4508764910931362011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blauer Rahmen_14
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 722
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95bbe3321eccf6510800000000000000
+      internalID: 1544678464542391129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blauer Rahmen_15
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 722
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf59aa3456607c00800000000000000
+      internalID: 896328837794193375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blauer Rahmen_16
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 722
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa8de6c5ea848ccc0800000000000000
+      internalID: -3690619980917843793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blauer Rahmen_17
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 722
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ff4081b8fcd6470800000000000000
+      internalID: 8389589877171486466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blauer Rahmen_18
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 722
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f78ee36ea797b4810800000000000000
+      internalID: 1750626448919423103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blauer Rahmen_19
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 722
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 091b3e15b94ffff80800000000000000
+      internalID: -8070463059293654640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blauer Rahmen_20
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 722
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 833a0886d91d385b0800000000000000
+      internalID: -5367215856902167752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blauer Rahmen_21
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 722
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a3b711a2c6cbd970800000000000000
+      internalID: 8780830437717554082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blauer Rahmen_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 642
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04a291c47d1e99c50800000000000000
+      internalID: 6672612637737036352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blauer Rahmen_23
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 642
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe49aebf80cb2490800000000000000
+      internalID: -7769905008486035716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blauer Rahmen_24
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 642
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 667f7112a6ced96a0800000000000000
+      internalID: -6440731951504033946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blauer Rahmen_25
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 642
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a8a70a1b6311d30800000000000000
+      internalID: 4400358447447181848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blauer Rahmen_26
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 642
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68dc247f2f5e0c8c0800000000000000
+      internalID: -3980929238902321786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blauer Rahmen_27
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 642
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4291159852c9e920800000000000000
+      internalID: 3020158710842495563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blauer Rahmen_28
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 642
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a4b340608c746e00800000000000000
+      internalID: 1037090705014764710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blauer Rahmen_29
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 642
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37baad6ee22ce78a0800000000000000
+      internalID: -6305388921574741133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blauer Rahmen_30
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 642
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8735f029ebbdb8390800000000000000
+      internalID: -7814911116830616712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blauer Rahmen_31
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 642
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4476a3cb8955bd910800000000000000
+      internalID: 1863176985329166148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blauer Rahmen_32
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 642
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17576ebe158de75e0800000000000000
+      internalID: -1909851345596811919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blauer Rahmen_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 562
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d3c9bde77fea670800000000000000
+      internalID: 8552044866645540125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blauer Rahmen_34
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 562
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed1e1994a054d8d20800000000000000
+      internalID: 3282355613909246430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blauer Rahmen_35
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 562
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 833248fb24f2ab970800000000000000
+      internalID: 8771375187984917304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blauer Rahmen_36
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 562
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bceadc97faf6c4c90800000000000000
+      internalID: -7184244506109301045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blauer Rahmen_37
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 562
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 187b0ea66d2b27810800000000000000
+      internalID: 1761667038241142657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blauer Rahmen_38
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 562
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61c389f59dfd69270800000000000000
+      internalID: 8257033091535092758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blauer Rahmen_39
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 562
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff50ae34c11087b40800000000000000
+      internalID: 5438097770959996415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blauer Rahmen_40
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 562
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e5fdff7d98335c0800000000000000
+      internalID: -4236891263621702000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blauer Rahmen_41
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 562
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c10336f7b8a07e0d0800000000000000
+      internalID: -3393732199946440676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blauer Rahmen_42
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 562
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b58bf16f49667590800000000000000
+      internalID: -7676832725139225162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blauer Rahmen_43
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 562
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e0ac0c8ff5f36f60800000000000000
+      internalID: 8026529438819459305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blauer Rahmen_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 482
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8e10311b4c0f4900800000000000000
+      internalID: 670768386051939980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blauer Rahmen_45
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 482
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd3ba60127c4fc720800000000000000
+      internalID: 2868595540443706333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blauer Rahmen_46
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 482
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4213454ed518915a0800000000000000
+      internalID: -6550061942771011292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blauer Rahmen_47
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 482
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9420bb9d51116b7f0800000000000000
+      internalID: -597271115035114935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blauer Rahmen_48
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 482
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00cdbaa6cc37e8630800000000000000
+      internalID: 3931206846541192192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blauer Rahmen_49
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 482
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7190886b81a094880800000000000000
+      internalID: -8626352509993613033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blauer Rahmen_50
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 482
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d2161ff436bb1520800000000000000
+      internalID: 2673931142508712662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blauer Rahmen_51
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 482
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d541762044b990fa0800000000000000
+      internalID: -5833961125881375651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blauer Rahmen_52
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 482
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e84abd087296d6770800000000000000
+      internalID: 8605650081361405070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blauer Rahmen_53
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 482
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 858954921906e70f0800000000000000
+      internalID: -1117349480962353064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blauer Rahmen_54
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 482
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8356cb3a7a20ef830800000000000000
+      internalID: 4106722829238297912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blauer Rahmen_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 402
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 751606fac4b2641e0800000000000000
+      internalID: -2214034558446182057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blauer Rahmen_56
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 402
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ff25d846b0e96b0800000000000000
+      internalID: -5287776385990721735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blauer Rahmen_57
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 402
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 610bde812e764e7e0800000000000000
+      internalID: -1737149335479668714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blauer Rahmen_58
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 402
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ff33b0b3ee6b4e0800000000000000
+      internalID: -1966122249942204659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blauer Rahmen_59
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 402
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e639e3c4a7b6c30800000000000000
+      internalID: 4353707932669668955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blauer Rahmen_60
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 402
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40378ba2bb42e0ac0800000000000000
+      internalID: -3887129042079943932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blauer Rahmen_61
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 402
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a3cc63bd3a511820800000000000000
+      internalID: 2887188057170953123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blauer Rahmen_62
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 402
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eafc11dd9f409500800000000000000
+      internalID: 400907906072771303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blauer Rahmen_63
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 402
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b9cb9d524c3a90a0800000000000000
+      internalID: -6874115625491641931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blauer Rahmen_64
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 402
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d4f412c590749a90800000000000000
+      internalID: -7308092506806881064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blauer Rahmen_65
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 402
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83048be7b1c2a36a0800000000000000
+      internalID: -6468809418162552776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blauer Rahmen_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 322
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a96e801b2da4900800000000000000
+      internalID: 669579152418314838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blauer Rahmen_67
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 322
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a85839f78941789c0800000000000000
+      internalID: -3925145905022138998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blauer Rahmen_68
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 322
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f25d24dac6b4040800000000000000
+      internalID: 4632916133087096650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blauer Rahmen_69
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 322
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b14b4016d3bd88e00800000000000000
+      internalID: 1047327970030826523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blauer Rahmen_70
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 322
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab96680052a0ae720800000000000000
+      internalID: 2876122466068359610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blauer Rahmen_71
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 322
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87cd41426f4807270800000000000000
+      internalID: 8246237110417546360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blauer Rahmen_72
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 322
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d8b842ea07abf30800000000000000
+      internalID: 4592106663297387897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blauer Rahmen_73
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 322
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3791f6fcaead73bb0800000000000000
+      internalID: -4956252162860574349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blauer Rahmen_74
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 322
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 075f74659a586d830800000000000000
+      internalID: 4095607873483568496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blauer Rahmen_75
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 322
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cbcd9996af5c1220800000000000000
+      internalID: 2457944665783913410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blauer Rahmen_76
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 322
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd0b60ba6f0ee490800000000000000
+      internalID: -7715212160738325062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blauer Rahmen_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 242
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f8c6af87bbb37e10800000000000000
+      internalID: 2194303840523045110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blauer Rahmen_78
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 242
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02f1ca37221d557c0800000000000000
+      internalID: -4083127541241733344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blauer Rahmen_79
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 242
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0920b5d66dbc741e0800000000000000
+      internalID: -2213576570011188592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blauer Rahmen_80
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 242
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c20c0005bcf5be90800000000000000
+      internalID: -7010419390612241725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blauer Rahmen_81
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 242
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd855b275f0f67a0800000000000000
+      internalID: -6381865279897104906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blauer Rahmen_82
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 242
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f519b0f15a5fe3570800000000000000
+      internalID: 8448460040532889951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blauer Rahmen_83
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 242
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ea1ae8cb4b5d4c0800000000000000
+      internalID: -4263302750296494535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blauer Rahmen_84
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 242
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 895105ed4c6c090c0800000000000000
+      internalID: -4570935072935373416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blauer Rahmen_85
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 242
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61f7678c77a3257f0800000000000000
+      internalID: -625373112112349418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blauer Rahmen_86
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 242
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da771adf7a9617160800000000000000
+      internalID: 7021509464282986413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blauer Rahmen_87
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 242
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ea61a3510e50430800000000000000
+      internalID: 3748648646629305897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blauer Rahmen_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 162
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98da673b69f0ff4e0800000000000000
+      internalID: -1945819374070354551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blauer Rahmen_89
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 162
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b899d87f964206f0800000000000000
+      internalID: -719935339684587344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blauer Rahmen_90
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 162
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0185b407b25458ba0800000000000000
+      internalID: -6087383268451461104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blauer Rahmen_91
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 162
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86a8cd565bc6b43a0800000000000000
+      internalID: -6680126095920166296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blauer Rahmen_92
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 162
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 739a5ec2aae377940800000000000000
+      internalID: 5293768787615918391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blauer Rahmen_93
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 162
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0406b802d00593c10800000000000000
+      internalID: 2033744724045291584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blauer Rahmen_94
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 162
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e723a94632777a510800000000000000
+      internalID: 1560346789802553982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blauer Rahmen_95
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 162
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0042f763ce8b040d0800000000000000
+      internalID: -3440546790644964352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blauer Rahmen_96
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 162
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cddfe0534e7f64880800000000000000
+      internalID: -8626935476666827300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blauer Rahmen_97
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 162
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7602b5daa37fea930800000000000000
+      internalID: 4156531337498140775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blauer Rahmen_98
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 162
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf23416e33e09fe0800000000000000
+      internalID: -1184196844939169867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blauer Rahmen_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 82
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0442717c969c7410800000000000000
+      internalID: 1476220376533058574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blauer Rahmen_100
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 82
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a0e532b2c9c8b830800000000000000
+      internalID: 4087238499889438883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blauer Rahmen_101
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 82
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e27012c09e3421e0800000000000000
+      internalID: -2223583524562111771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blauer Rahmen_102
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 82
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4049027f64cff3960800000000000000
+      internalID: 7584057679239222276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blauer Rahmen_103
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 82
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a25b5f8d3df7b8f60800000000000000
+      internalID: 8037658507827590442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blauer Rahmen_104
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 82
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc7151b8dd2822820800000000000000
+      internalID: 2892017798758078412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blauer Rahmen_105
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 82
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be683d479291ab1f0800000000000000
+      internalID: -1028481899056363797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blauer Rahmen_106
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 82
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c46aa3e0527e8d60800000000000000
+      internalID: 7894372888569603268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blauer Rahmen_107
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 82
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f84d5a446437959b0800000000000000
+      internalID: -5090911158129011569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blauer Rahmen_108
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 82
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d883b69a2c5cf780800000000000000
+      internalID: -8647935846471464749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blauer Rahmen_109
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 82
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fbd9085aa5c078b0800000000000000
+      internalID: -5156404237927064589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blauer Rahmen_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f258d7e8b2ff0db0800000000000000
+      internalID: -4823369799912893711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blauer Rahmen_111
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 2
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bef1f994dac00580800000000000000
+      internalID: -8862861052200485195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blauer Rahmen_112
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 2
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d04618cf977b320800000000000000
+      internalID: 2573659837475065146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blauer Rahmen_113
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 2
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05daf57f46a19ce60800000000000000
+      internalID: 7982940835440209232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blauer Rahmen_114
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 2
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 624a8b651a461fe90800000000000000
+      internalID: -6993698102222216154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blauer Rahmen_115
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 2
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c6b089ce723a4e0800000000000000
+      internalID: -1971688314741494716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blauer Rahmen_116
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 2
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec04b325a711c990800000000000000
+      internalID: -7367581517365375763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blauer Rahmen_117
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 2
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f6329c9fd5e7c6a0800000000000000
+      internalID: -6428917194480797960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blauer Rahmen_118
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 2
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f584b1a7d2d96f0800000000000000
+      internalID: -676334366568718489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blauer Rahmen_119
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 2
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f6c610f2e2965c0800000000000000
+      internalID: -4221792396260905142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blauer Rahmen_120
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 2
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e858bf80a2b681760800000000000000
+      internalID: 7428805413631133070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

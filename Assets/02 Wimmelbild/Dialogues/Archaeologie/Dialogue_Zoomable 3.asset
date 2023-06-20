@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7cdca8fa1c6f26f40ac66f11763ddcdf, type: 3}
+  m_Name: Dialogue_Zoomable 3
+  m_EditorClassIdentifier: 
+  ComplementingImage: {fileID: 0}
+  Messages:
+  - CharacterName: {fileID: 0}
+    CharacterImage: {fileID: 21300000, guid: b593e4231e4024c4e947dc85b4eb7cc6, type: 3}
+    Sound: {fileID: 8300000, guid: 61125217cb3fb3f42b73e267f9803c70, type: 3}
+    SoundEnglish: {fileID: 8300000, guid: a1f4729a55c3fc544838eb8500999722, type: 3}
+    SoundPlatt: {fileID: 8300000, guid: 7e257b53a2d37aa41a514069c752b4ad, type: 3}
+    SoundVolume: 1
+    SoundOffset: 0
+    Text: 'Sichel: Um Werkzeuge herzustellen, wurde Metall geschmolzen und in Formen
+      gegossen. So ist auch diese Sichel entstanden. Mit ihr war das Ernten von Getreide
+      viel leichter.'
+    TextEnglish: "Sickle: For the production of tools you needed to melt metal and
+      pour it into moulds. That\u2019s how this sickle was made. It made the harvest
+      much easier."
+    TextPlatt: "Sichel: Um Warkt\xFC\xFCch hertaustellen, w\xF6rre Metall esmolten
+      un in e Form ejoten. Sau entstund ok d\xFCsse Sichel. Damidde konne man Koorn
+      feel lichter eern."

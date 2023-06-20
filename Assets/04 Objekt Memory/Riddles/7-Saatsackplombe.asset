@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7643d40a59075f94e8a334639f99db85, type: 3}
+  m_Name: 7-Saatsackplombe
+  m_EditorClassIdentifier: 
+  Name: Saatsackplombe
+  NameEnglish: Seed Sack Seal
+  NamePlatt: 
+  Image: {fileID: 21300000, guid: 84ecf6c2afc54be4eb696203a9ebdada, type: 3}
+  ZoomScale: 3.382521
+  ZoomLocalPosition: {x: -575, y: 251}
+  Text: "Die Saat f\xFCllte man fr\xFCher in S\xE4cke. Diese waren mit Plomben verschlossen,
+    die oft Inhalt und Hersteller angaben."
+  TextEnglish: In the past seeds were stored in sacks. They were closed with seals,
+    which often named the content and producer.
+  TextPlatt: 
+  Voiceover: {fileID: 0}
+  Room: Landwirtschaft
+  RoomEnglish: Agriculture
+  QRCode: Saatsackplombe

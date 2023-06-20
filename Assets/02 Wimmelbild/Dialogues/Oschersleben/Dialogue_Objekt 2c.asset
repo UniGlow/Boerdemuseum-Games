@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7cdca8fa1c6f26f40ac66f11763ddcdf, type: 3}
+  m_Name: Dialogue_Objekt 2c
+  m_EditorClassIdentifier: 
+  ComplementingImage: {fileID: 0}
+  Messages:
+  - CharacterName: {fileID: 0}
+    CharacterImage: {fileID: 21300000, guid: ee63dcf8433f36b47af686fc4cd013ad, type: 3}
+    Sound: {fileID: 8300000, guid: 4b96e523a2ba2c0489f07d9d02f1adce, type: 3}
+    SoundEnglish: {fileID: 8300000, guid: 11d2beb6aef2bad44b11b0a6604da7a1, type: 3}
+    SoundPlatt: {fileID: 8300000, guid: eb2c3802b1da14a46a4af766217e9a1d, type: 3}
+    SoundVolume: 1
+    SoundOffset: 0
+    Text: "Sack: F\xFCr R\xFCbensaat und D\xFCnger brauchte man viele S\xE4cke. Sie
+      wurden oft beschrieben, damit man wusste, was sie enthielten. In der Textilfabrik
+      wurden die S\xE4cke hergestellt."
+    TextEnglish: 'Sack: You needed a lot of sacks to store all the beet seeds. They
+      were often labelled so you knew the content.'
+    TextPlatt: "Sack: Forr R\xE4ubensaat un D\xFCnger brukte man feele S\xE4cke.
+      Et w\xF6rre ofte droppeschremm, wat da drinne is. In de Fabrik stelle man de
+      S\xE4cke her."

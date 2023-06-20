@@ -1,0 +1,5897 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8117f9bcdaaeb8741850b584c09f6955, type: 3}
+  m_Name: Art List
+  m_EditorClassIdentifier: 
+  Sets:
+  - Author: Achim Walther
+    Description: "Blick \xFCbers Allertal (Wefensleben-Belsdorf)"
+    DescriptionEnglish: View of the Aller-valley (near Wefensleben-Belsdorf)
+    DescriptionPlatt: "Blick ower dat Allerdaal (Wefensl\xE4-Belsdorp)"
+    Date: 1981
+    DateEnglish: 1981
+    Technique: Lithografie
+    TechniqueEnglish: Lithograph
+    TechniquePlatt: Lithografie
+    Dimensions: 37,5 x 50 cm
+    LatiAndLongitude: "52\xB011'37.5\"N 11\xB009'18.2\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 11
+        seconds: 37.5
+      longitude:
+        degrees: 11
+        minutes: 9
+        seconds: 18.2
+    FileName: V_22_00_21_7
+    Image: {fileID: 21300000, guid: 1e3b46342608a6141a9e4caaa3b1aa58, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Sommerschenburg
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: Achim Walther
+    Description: Die Stiftskirche zu Hamersleben
+    DescriptionEnglish: The collegiate church of Hamersleben
+    DescriptionPlatt: "De Stiftskerche tau Hamersl\xE4"
+    Date: 1985
+    DateEnglish: 1985
+    Technique: Lithografie
+    TechniqueEnglish: Lithograph
+    TechniquePlatt: Lithografie
+    Dimensions: 50 x 37,5 cm
+    LatiAndLongitude: "52\xB003'45.9\"N 11\xB005'21.2\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 3
+        seconds: 45.9
+      longitude:
+        degrees: 11
+        minutes: 5
+        seconds: 21.2
+    FileName: V_22_00_21_6a
+    Image: {fileID: 21300000, guid: 97f134cf8a444e64d88c9d7ed51ff56d, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Hamersleben
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: Achim Walther
+    Description: "Jacobschacht (H\xF6tensleben)"
+    DescriptionEnglish: "\u201EJacob\u2019s mine\u201C near H\xF6tensleben"
+    DescriptionPlatt: "Barchwark Jacobschacht (Hoitensl\xE4)"
+    Date: 1986
+    DateEnglish: 1986
+    Technique: Lithografie, aquarelliert
+    TechniqueEnglish: Lithograph, water colours
+    TechniquePlatt: Lithografie, aquarelliert
+    Dimensions: 19,1 x 25,2 cm
+    LatiAndLongitude: "52\xB007'07.8\"N 11\xB001'15.1\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 7
+        seconds: 7.8
+      longitude:
+        degrees: 11
+        minutes: 1
+        seconds: 15.1
+    FileName: V_22_00_21_1
+    Image: {fileID: 21300000, guid: 4f6c8f2b8c66a9c40bb7200e15d058ea, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: "H\xF6tensleben"
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: Achim Walther
+    Description: Ackerwinkel
+    DescriptionEnglish: "Ackerwinkel road in H\xF6tensleben"
+    DescriptionPlatt: Strate Ackerwinkel
+    Date: 1977
+    DateEnglish: 1977
+    Technique: Lithografie
+    TechniqueEnglish: Lithograph
+    TechniquePlatt: Lithografie
+    Dimensions: 47,5 x 36 cm
+    LatiAndLongitude: "52\xB007'07.8\"N 11\xB001'15.1\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 7
+        seconds: 7.8
+      longitude:
+        degrees: 11
+        minutes: 1
+        seconds: 15.1
+    FileName: V_22_00_21_10
+    Image: {fileID: 21300000, guid: b97d30def374fe04b9c65c702f3e6a01, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: "H\xF6tensleben"
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: Achim Walther
+    Description: "Sankt Bartholom\xE4us Kirche zu H\xF6tensleben 1981"
+    DescriptionEnglish: "The church of St. Bartholom\xE4us in H\xF6tensleben in 1981"
+    DescriptionPlatt: "Bartholom\xE4uskerche tau Hoitensl\xE4 1981"
+    Date: 1981
+    DateEnglish: 1981
+    Technique: Lithografie
+    TechniqueEnglish: Lithograph
+    TechniquePlatt: Lithografie
+    Dimensions: 41 x 29,5 cm
+    LatiAndLongitude: "52\xB007'07.8\"N 11\xB001'15.1\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 7
+        seconds: 7.8
+      longitude:
+        degrees: 11
+        minutes: 1
+        seconds: 15.1
+    FileName: V_22_00_21_5
+    Image: {fileID: 21300000, guid: 4fe49f8d5eaa362449d6b19bf8fd1222, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: "H\xF6tensleben"
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: Achim Walther
+    Description: Die Sommerschenburg 1983
+    DescriptionEnglish: The castle of Sommerschenburg 1983
+    DescriptionPlatt: De Borch in Pottborch 1983
+    Date: 1983
+    DateEnglish: 1983
+    Technique: Druckgrafik
+    TechniqueEnglish: Graphic reproduction
+    TechniquePlatt: Druckgrafik
+    Dimensions: 42,5 x 30 cm
+    LatiAndLongitude: "52\xB010'20.3\"N 11\xB006'12.9\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 10
+        seconds: 20.3
+      longitude:
+        degrees: 11
+        minutes: 6
+        seconds: 12.9
+    FileName: V_22_00_21_3a
+    Image: {fileID: 21300000, guid: 319341b971db15042b43f166f0f899cb, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Sommerschenburg
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: Achim Walther
+    Description: "Die T\xF6pferei Lohse in Sommerschenburg 1983"
+    DescriptionEnglish: The Lohse pottery in Sommerschenburg
+    DescriptionPlatt: "De P\xF6ttjerie Lohse in Pottborch 1983"
+    Date: 1983
+    DateEnglish: 1983
+    Technique: Druckgrafik
+    TechniqueEnglish: Graphic reproduction
+    TechniquePlatt: Druckgrafik
+    Dimensions: 42,5 x 30 cm
+    LatiAndLongitude: "52\xB010'20.3\"N 11\xB006'12.9\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 10
+        seconds: 20.3
+      longitude:
+        degrees: 11
+        minutes: 6
+        seconds: 12.9
+    FileName: V_22_00_21_4
+    Image: {fileID: 21300000, guid: 567211f637fc0da40a24b09d13504d6d, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Sommerschenburg
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: Achim Walther
+    Description: Evangelische Kirche zu Sommersdorf
+    DescriptionEnglish: The evangelical church of Sommersdorf
+    DescriptionPlatt: Evangelische Kerche tau Sommersdorp
+    Date: 1982
+    DateEnglish: 1982
+    Technique: Druckgrafik
+    TechniqueEnglish: Graphic reproduction
+    TechniquePlatt: Druckgrafik
+    Dimensions: 42,5 x 30 cm
+    LatiAndLongitude: "52\xB009'30.4\"N 11\xB005'50.3\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 9
+        seconds: 30.4
+      longitude:
+        degrees: 11
+        minutes: 5
+        seconds: 50.3
+    FileName: V_22_00_21_2
+    Image: {fileID: 21300000, guid: 300a1a4ebe680de40bd866157baed5fd, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Sommersdorf
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: Achim Walther
+    Description: Haus am Ostrand von Sommersdorf
+    DescriptionEnglish: House by the eastern edges of Sommersdorf
+    DescriptionPlatt: Huus an`n Ostranne fonn Sommersdorp
+    Date: 1982
+    DateEnglish: 1982
+    Technique: Lithografie
+    TechniqueEnglish: Lithograph
+    TechniquePlatt: Lithografie
+    Dimensions: 30 x 42,5 cm
+    LatiAndLongitude: "52\xB010'00.5\"N 11\xB004'49.7\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 10
+        seconds: 0.5
+      longitude:
+        degrees: 11
+        minutes: 4
+        seconds: 49.7
+    FileName: V_22_00_21_8
+    Image: {fileID: 21300000, guid: df6a02fd9885ca14bb52cdee1763bfc8, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Sommersdorf
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: Albert Borisch (1881-1945)
+    Description: "Das Magdeburger Tor in Gr\xF6ningen"
+    DescriptionEnglish: "The Magdeburg gate in Gr\xF6ningen"
+    DescriptionPlatt: Dat Madeborjer Door in Greunich
+    Date: 1934
+    DateEnglish: 1934
+    Technique: Aquarell
+    TechniqueEnglish: Aquarell
+    TechniquePlatt: Bild emaakt mid Waterfarwe
+    Dimensions: 19 x 20,8 cm
+    LatiAndLongitude: "51\xB056'19.7\"N 11\xB013'07.6\"E"
+    GpsCoords:
+      latitude:
+        degrees: 51
+        minutes: 56
+        seconds: 19.7
+      longitude:
+        degrees: 11
+        minutes: 13
+        seconds: 7.6
+    FileName: V_22_00_04_11
+    Image: {fileID: 21300000, guid: 94e6e3b736146b94fbb59a93e06a168b, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: "Gr\xF6ningen"
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: Albert Borisch (1881-1945)
+    Description: "Das Tie-Tor in Gr\xF6ningen"
+    DescriptionEnglish: "The Tie gate in Gr\xF6ningen"
+    DescriptionPlatt: Dat Tie-Door in Greunich
+    Date: 1934
+    DateEnglish: 1934
+    Technique: Aquarell
+    TechniqueEnglish: Aquarell
+    TechniquePlatt: Bild emaakt mid Waterfarwe
+    Dimensions: 18,9 x 21 cm
+    LatiAndLongitude: "51\xB056'19.7\"N 11\xB013'07.6\"E"
+    GpsCoords:
+      latitude:
+        degrees: 51
+        minutes: 56
+        seconds: 19.7
+      longitude:
+        degrees: 11
+        minutes: 13
+        seconds: 7.6
+    FileName: V_22_00_04_12
+    Image: {fileID: 21300000, guid: be83d1c54f0f30345be1e19ae750723f, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: "Gr\xF6ningen"
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: Alexander Duncker (Verlag), Friedrich Wilhelm Ferdinand Theodor Albert
+      (1822-1888)
+    Description: Marienborn
+    DescriptionEnglish: The village of Marienborn
+    DescriptionPlatt: Marjenborn
+    Date: um 1865
+    DateEnglish: um 1865
+    Technique: Lithografie
+    TechniqueEnglish: Lithograph
+    TechniquePlatt: Lithografie
+    Dimensions: 23,8 x 29,5 cm
+    LatiAndLongitude: "52\xB011'45.0\"N 11\xB006'30.5\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 11
+        seconds: 45
+      longitude:
+        degrees: 11
+        minutes: 6
+        seconds: 30.5
+    FileName: V_22_00_11_9
+    Image: {fileID: 21300000, guid: 7839174d208f6984091c38bbc0b8f53f, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Sommerschenburg
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: Alexander Duncker (Verlag), Friedrich Wilhelm Ferdinand Theodor Albert
+      (1822-1888)
+    Description: Sommerschenburg
+    DescriptionEnglish: The village of Sommerschenburg
+    DescriptionPlatt: Pottborch
+    Date: um 1865
+    DateEnglish: around 1865
+    Technique: Lithografie
+    TechniqueEnglish: Lithograph
+    TechniquePlatt: Lithografie
+    Dimensions: 23,6 x 29,4 cm
+    LatiAndLongitude: "52\xB010'20.3\"N 11\xB006'12.9\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 10
+        seconds: 20.3
+      longitude:
+        degrees: 11
+        minutes: 6
+        seconds: 12.9
+    FileName: V_22_00_11_8
+    Image: {fileID: 21300000, guid: 9b0dda231ecded3439afa248020ba22b, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Marienborn
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: Alfred Werner (1882-1944)
+    Description: Bei Emmeringen
+    DescriptionEnglish: Near Emmeringen
+    DescriptionPlatt: Bie Emmeringen
+    Date: 1930
+    DateEnglish: 1930
+    Technique: Bleistiftzeichnung, coloriert
+    TechniqueEnglish: Pencil, coloured
+    TechniquePlatt: Bild emaakt mid Blisticken un Farwe
+    Dimensions: 15,8 x 20,9 cm
+    LatiAndLongitude: "52\xB002'59.4\"N 11\xB015'24.5\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 2
+        seconds: 59.4
+      longitude:
+        degrees: 11
+        minutes: 15
+        seconds: 24.5
+    FileName: V_22_00_20_7
+    Image: {fileID: 21300000, guid: 2f6b11166408d49459dc32ea0e3e1a7c, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Oschersleben
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: Alfred Werner (1882-1944)
+    Description: Bei Neubrandsleben
+    DescriptionEnglish: Near Neubrandsleben
+    DescriptionPlatt: "Bie Nibrandsl\xE4"
+    Date: 1929
+    DateEnglish: 1929
+    Technique: Bleistiftzeichnung
+    TechniqueEnglish: Pencil
+    TechniquePlatt: Bild emaakt mid Blisticken
+    Dimensions: 15,4 x 20,9 cm
+    LatiAndLongitude: "52\xB003'30.4\"N 11\xB013'35.6\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 3
+        seconds: 30.4
+      longitude:
+        degrees: 11
+        minutes: 13
+        seconds: 35.6
+    FileName: V_22_00_20_6
+    Image: {fileID: 21300000, guid: 09f07f35d8ff13041bf5e432931f9431, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Neubrandsleben
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: Alfred Werner (1882-1944)
+    Description: "Bahn-\xDCbergang bei der Chemischen Fabrik Oschersleben"
+    DescriptionEnglish: Train crossing near the chemical plant of Oschersleben
+    DescriptionPlatt: "Bahnowerjang bie de Chemische Fabrik Oschersl\xE4"
+    Date: 1933
+    DateEnglish: 1933
+    Technique: Bleistiftzeichnung
+    TechniqueEnglish: Pencil
+    TechniquePlatt: Bild emaakt mid Blisticken
+    Dimensions: 11,2 x 16,3 cm
+    LatiAndLongitude: "52\xB001'36.2\"N 11\xB013'37.0\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 1
+        seconds: 36.2
+      longitude:
+        degrees: 11
+        minutes: 13
+        seconds: 37
+    FileName: V_22_00_20_15
+    Image: {fileID: 21300000, guid: 64a633ef8819be546aded863d64fb45e, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Oschersleben
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: Alfred Werner (1882-1944)
+    Description: Alter Friedhof Oschersleben
+    DescriptionEnglish: The old cemetery of Oschersleben
+    DescriptionPlatt: "Ooler Kerchhoff Oschersl\xE4"
+    Date: 1933
+    DateEnglish: 1933
+    Technique: Bleistiftzeichnung
+    TechniqueEnglish: Pencil
+    TechniquePlatt: Bild emaakt mid Blisticken
+    Dimensions: 11 x 16 cm
+    LatiAndLongitude: "52\xB001'36.2\"N 11\xB013'37.0\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 1
+        seconds: 36.2
+      longitude:
+        degrees: 11
+        minutes: 13
+        seconds: 37
+    FileName: V_22_00_20_9
+    Image: {fileID: 21300000, guid: 594861b5c2995e64c98ee54d7e48e1a9, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Oschersleben
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: August Bratfisch (1883-1960)
+    Description: Quadratischer Turm mit Mauerring in Feldlandschaft
+    DescriptionEnglish: Square tower with wall in the countryside
+    DescriptionPlatt: Torm mid Muerring in de Landschaft
+    Date: 1950
+    DateEnglish: 1950
+    Technique: Aquarell
+    TechniqueEnglish: Aquarell
+    TechniquePlatt: Bild emaakt mid Waterfarwe
+    Dimensions: 27,8 x 42,0 cm
+    LatiAndLongitude: "52\xB002'42.5\"N 11\xB023'27.8\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 2
+        seconds: 42.5
+      longitude:
+        degrees: 11
+        minutes: 23
+        seconds: 27.8
+    FileName: V_22_00_16_119
+    Image: {fileID: 21300000, guid: 203fef6e1c6dc4d4abbdda14dd3e533e, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Schaftal und Warten
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: August Bratfisch (1883-1960)
+    Description: "Wasserfl\xE4che Bach am Ufer B\xE4ume"
+    DescriptionEnglish: Water, stream, trees by the bank
+    DescriptionPlatt: "Waterfl\xE4che, Beek, B\xF6\xF6me an\xB4n Ranne"
+    Date: unbekannt
+    DateEnglish: unknown
+    Technique: Aquarell
+    TechniqueEnglish: Aquarell
+    TechniquePlatt: Bild emaakt mid Waterfarwe
+    Dimensions: 31,4 x 45,2 cm
+    LatiAndLongitude: "52\xB018'52.7\"N 11\xB046'04.7\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 18
+        seconds: 52.7
+      longitude:
+        degrees: 11
+        minutes: 46
+        seconds: 4.7
+    FileName: V_22_00_16_20
+    Image: {fileID: 21300000, guid: c23ee2424b6b7ca4782ad9c0a63b2062, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: "Rog\xE4tz"
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: August Bratfisch (1883-1960)
+    Description: Blick auf Domersleben
+    DescriptionEnglish: View of Domersleben
+    DescriptionPlatt: "Blick opp Daumersl\xE4"
+    Date: 1949
+    DateEnglish: 1949
+    Technique: Aquarell
+    TechniqueEnglish: Aquarell
+    TechniquePlatt: Bild emaakt mid Waterfarwe
+    Dimensions: 27,5 x 42,0 cm
+    LatiAndLongitude: "52\xB005'26.8\"N 11\xB025'59.9\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 5
+        seconds: 26.8
+      longitude:
+        degrees: 11
+        minutes: 25
+        seconds: 59.9
+    FileName: V_22_00_16_225
+    Image: {fileID: 21300000, guid: a9c836372ac7dd5418b3638a02dbd6f0, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Domersleben
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: August Bratfisch (1883-1960)
+    Description: Feldweg nach Bottmersdorf
+    DescriptionEnglish: Path towards Bottmersdorf
+    DescriptionPlatt: "Wech an\xB4n Felle lang na Bottmersdorp"
+    Date: um 1950
+    DateEnglish: around 1950
+    Technique: Aquarell
+    TechniqueEnglish: Aquarell
+    TechniquePlatt: Bild emaakt mid Waterfarwe
+    Dimensions: 41,2 x 56,5 cm
+    LatiAndLongitude: "52\xB001'48.0\"N 11\xB025'50.7\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 1
+        seconds: 48
+      longitude:
+        degrees: 11
+        minutes: 25
+        seconds: 50.7
+    FileName: V_22_00_16_243
+    Image: {fileID: 21300000, guid: 6141d43e40921524d8c89bc751bf861f, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Bottmersdorf
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: August Bratfisch (1883-1960)
+    Description: Burg Wanzleben
+    DescriptionEnglish: Wanzleben castle
+    DescriptionPlatt: "Borch Wanzl\xE4"
+    Date: um 1950
+    DateEnglish: around 1950
+    Technique: Aquarell
+    TechniqueEnglish: Aquarell
+    TechniquePlatt: Bild emaakt mid Waterfarwe
+    Dimensions: 40,2 x 56,4 cm
+    LatiAndLongitude: "52\xB003'41.4\"N 11\xB026'26.0\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 3
+        seconds: 41.4
+      longitude:
+        degrees: 11
+        minutes: 26
+        seconds: 26
+    FileName: V_22_00_16_246
+    Image: {fileID: 21300000, guid: ac0ceb43d4f76214b8056dfb2b750530, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Wanzleben
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: August Bratfisch (1883-1960)
+    Description: In Wanzleben
+    DescriptionEnglish: In Wanzleben
+    DescriptionPlatt: "In W\xE4nzl\xE4"
+    Date: 1954
+    DateEnglish: 1954
+    Technique: Aquarell
+    TechniqueEnglish: Aquarell
+    TechniquePlatt: Bild emaakt mid Waterfarwe
+    Dimensions: 50,2 x 68,0 cm
+    LatiAndLongitude: "52\xB003'41.4\"N 11\xB026'26.0\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 3
+        seconds: 41.4
+      longitude:
+        degrees: 11
+        minutes: 26
+        seconds: 26
+    FileName: V_22_00_16_264
+    Image: {fileID: 21300000, guid: d33c398d142abde40bbaf388d0cedd68, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Wanzleben
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: August Bratfisch (1883-1960)
+    Description: "Bauernhof mit G\xE4nsen und H\xFChnern (Wanzleben)"
+    DescriptionEnglish: Farm with geese and chicken (Wanzleben)
+    DescriptionPlatt: "Buernhoff mid G\xE4use un H\xE4uner (Wanzl\xE4)"
+    Date: um 1950
+    DateEnglish: around 1950
+    Technique: Aquarell
+    TechniqueEnglish: Aquarell
+    TechniquePlatt: Bild emaakt mid Waterfarwe
+    Dimensions: 57,2 x 39,7 cm
+    LatiAndLongitude: "52\xB003'41.4\"N 11\xB026'26.0\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 3
+        seconds: 41.4
+      longitude:
+        degrees: 11
+        minutes: 26
+        seconds: 26
+    FileName: V_22_00_16_287
+    Image: {fileID: 21300000, guid: 78f7879532d73014abf6b333b953a3ec, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Wanzleben
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: August Bratfisch (1883-1960)
+    Description: Feld vor Wanzleben
+    DescriptionEnglish: Field outside Wanzleben
+    DescriptionPlatt: "Feld forr Wanzl\xE4"
+    Date: um 1950
+    DateEnglish: around 1950
+    Technique: Aquarell
+    TechniqueEnglish: Aquarell
+    TechniquePlatt: Bild emaakt mid Waterfarwe
+    Dimensions: 40,8 x 56,8 cm
+    LatiAndLongitude: "52\xB003'41.4\"N 11\xB026'26.0\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 3
+        seconds: 41.4
+      longitude:
+        degrees: 11
+        minutes: 26
+        seconds: 26
+    FileName: V_22_00_16_289
+    Image: {fileID: 21300000, guid: d363cd31ef8391947a131d5f879f0a1f, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Wanzleben
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: August Bratfisch (1883-1960)
+    Description: "G\xE4nse auf einer Wiese vor einem Teich"
+    DescriptionEnglish: Geese on a lawn by a lake
+    DescriptionPlatt: "G\xE4use opp ne Wiesche forr en Diek"
+    Date: unbekannt
+    DateEnglish: unknown
+    Technique: Aquarell
+    TechniqueEnglish: Aquarell
+    TechniquePlatt: Bild emaakt mid Waterfarwe
+    Dimensions: 42,0 x 55,8 cm
+    LatiAndLongitude: "52\xB001'31.4\"N 11\xB033'41.4\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 1
+        seconds: 31.4
+      longitude:
+        degrees: 11
+        minutes: 33
+        seconds: 41.4
+    FileName: V_22_00_16_299
+    Image: {fileID: 21300000, guid: a83c2e4671f5d714daeaaf960bcb3234, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: "S\xFClldorf"
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: August Bratfisch (1883-1960)
+    Description: Feldlandschaft vor Wanzleben
+    DescriptionEnglish: Fields outside Wanzleben
+    DescriptionPlatt: "Felder forr Wanzl\xE4"
+    Date: um 1950
+    DateEnglish: around 1950
+    Technique: Aquarell
+    TechniqueEnglish: Aquarell
+    TechniquePlatt: Bild emaakt mid Waterfarwe
+    Dimensions: 31,0 x 40,0 cm
+    LatiAndLongitude: "52\xB006'14.7\"N 11\xB023'40.3\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 6
+        seconds: 14.7
+      longitude:
+        degrees: 11
+        minutes: 23
+        seconds: 40.3
+    FileName: V_22_00_16_400
+    Image: {fileID: 21300000, guid: 200909261e439824588cb3ddf2252831, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Seeberg
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: August Bratfisch (1883-1960)
+    Description: Backstein- und Fachwerkhaus vor einer Kirche (Hemsdorf)
+    DescriptionEnglish: Brick and timbered house by a church (Hemsdorf)
+    DescriptionPlatt: Backstein- und Fachwarkhuus forr ne Kerche (Hemsdorp)
+    Date: 1954
+    DateEnglish: 1954
+    Technique: Bleistiftzeichnung
+    TechniqueEnglish: Pencil
+    TechniquePlatt: Bild emaakt mid Blisticken
+    Dimensions: 32,0 x 46,2 cm
+    LatiAndLongitude: "52\xB008'14.6\"N 11\xB023'46.3\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 8
+        seconds: 14.6
+      longitude:
+        degrees: 11
+        minutes: 23
+        seconds: 46.3
+    FileName: V_22_00_16_121
+    Image: {fileID: 21300000, guid: 64a3b1077eb201a46b17720659e00e74, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Hemsdorf
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: August Bratfisch (1883-1960)
+    Description: Eingang der Burg Ummendorf
+    DescriptionEnglish: "Entrance of the B\xF6rde-Museum of Castle Ummendorf"
+    DescriptionPlatt: Injang fonn de Borch Ummendorp
+    Date: 1953
+    DateEnglish: 1953
+    Technique: Bleistiftzeichnung
+    TechniqueEnglish: Pencil
+    TechniquePlatt: Bild emaakt mid Blisticken
+    Dimensions: 32 x 46 cm
+    LatiAndLongitude: "52\xB009'21.0\"N 11\xB010'55.0\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 9
+        seconds: 21
+      longitude:
+        degrees: 11
+        minutes: 10
+        seconds: 55
+    FileName: V_22_00_16_126
+    Image: {fileID: 21300000, guid: 93872964acd47264c96a42446f6167c9, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Ummendorf
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: August Bratfisch (1883-1960)
+    Description: "Schlo\xDF Peseckendorf"
+    DescriptionEnglish: Peseckendorf manor house
+    DescriptionPlatt: Schlott Peseckendorp
+    Date: 1953
+    DateEnglish: 1953
+    Technique: Bleistiftzeichnung
+    TechniqueEnglish: Pencil
+    TechniquePlatt: Bild emaakt mid Blisticken
+    Dimensions: 32,0 x 46,0 cm
+    LatiAndLongitude: "52\xB001'28.2\"N 11\xB019'16.1\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 1
+        seconds: 28.2
+      longitude:
+        degrees: 11
+        minutes: 19
+        seconds: 16.1
+    FileName: V_22_00_16_127
+    Image: {fileID: 21300000, guid: 13d2ace0765a2e441a89d5fdd3273473, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Peseckendorf
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: August Bratfisch (1883-1960)
+    Description: "Stra\xDFe mit spielenden Kindern"
+    DescriptionEnglish: Road with children playing
+    DescriptionPlatt: Strate mid Kinner, de speelt
+    Date: 1954
+    DateEnglish: 1954
+    Technique: Bleistiftzeichnung
+    TechniqueEnglish: Pencil
+    TechniquePlatt: Bild emaakt mid Blisticken
+    Dimensions: 32,0 x 46,0 cm
+    LatiAndLongitude: "52\xB003'41.4\"N 11\xB026'26.0\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 3
+        seconds: 41.4
+      longitude:
+        degrees: 11
+        minutes: 26
+        seconds: 26
+    FileName: V_22_00_16_128
+    Image: {fileID: 21300000, guid: 8d18216dcdf362a4e9729d5f5ed491d9, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Wanzleben
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: August Bratfisch (1883-1960)
+    Description: "Fuhrwerk auf Gehweg stehend an Dorfstra\xDFe"
+    DescriptionEnglish: Horsecart on the pavement of a village road
+    DescriptionPlatt: "Ackerwaan opp en Fautwech an\xB4ne Dorpstraate"
+    Date: 1952
+    DateEnglish: 1952
+    Technique: Bleistiftzeichnung
+    TechniqueEnglish: Pencil
+    TechniquePlatt: Bild emaakt mid Blisticken
+    Dimensions: 32,0 x 46,2 cm
+    LatiAndLongitude: "52\xB004'22.5\"N 11\xB015'05.8\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 4
+        seconds: 22.5
+      longitude:
+        degrees: 11
+        minutes: 15
+        seconds: 5.8
+    FileName: V_22_00_16_129
+    Image: {fileID: 21300000, guid: 5218411dc3a9c8d43acb8ec747049180, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Altbrandsleben
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: August Bratfisch (1883-1960)
+    Description: Landschaft um Wanzleber Warte
+    DescriptionEnglish: Countryside by the lookout near Wanzleben
+    DescriptionPlatt: "Landschaft um de Warte bi Wanzl\xE4"
+    Date: 1952
+    DateEnglish: 1952
+    Technique: Bleistiftzeichnung
+    TechniqueEnglish: Pencil
+    TechniquePlatt: Bild emaakt mid Blisticken
+    Dimensions: 32,0 x 46,0 cm
+    LatiAndLongitude: "52\xB002'42.5\"N 11\xB023'27.8\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 2
+        seconds: 42.5
+      longitude:
+        degrees: 11
+        minutes: 23
+        seconds: 27.8
+    FileName: V_22_00_16_130
+    Image: {fileID: 21300000, guid: 87b52fab9bc8d58489fcb5a3e345116b, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Schaftal und Warten
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: August Bratfisch (1883-1960)
+    Description: "Bock-Windm\xFChle (Ovelg\xFCnne)"
+    DescriptionEnglish: "Postmill (Ovelg\xFCnne)"
+    DescriptionPlatt: "Bockwindm\xF6lle (J\xFCnne)"
+    Date: 1954
+    DateEnglish: 1954
+    Technique: Bleistiftzeichnung
+    TechniqueEnglish: Pencil
+    TechniquePlatt: Bild emaakt mid Blisticken
+    Dimensions: 32,0 x 46,0 cm
+    LatiAndLongitude: "52\xB008'42.1\"N 11\xB016'19.5\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 8
+        seconds: 42.1
+      longitude:
+        degrees: 11
+        minutes: 16
+        seconds: 19.5
+    FileName: V_22_00_16_131
+    Image: {fileID: 21300000, guid: b947b3c248b96584aa3ab744b6c5a457, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: "Ovelg\xFCnne"
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: August Bratfisch (1883-1960)
+    Description: Kirche in Sohlen
+    DescriptionEnglish: Church in Sohlen
+    DescriptionPlatt: Kerche in Sohlen
+    Date: 1953
+    DateEnglish: 1953
+    Technique: Bleistiftzeichnung
+    TechniqueEnglish: Pencil
+    TechniquePlatt: Bild emaakt mid Blisticken
+    Dimensions: 32,0 x 46,2 cm
+    LatiAndLongitude: "52\xB002'53.7\"N 11\xB038'15.6\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 2
+        seconds: 53.7
+      longitude:
+        degrees: 11
+        minutes: 38
+        seconds: 15.6
+    FileName: V_22_00_16_132
+    Image: {fileID: 21300000, guid: f55700600dbd59b4ea86179715a1c237, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: MD-Sohlen
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: August Bratfisch (1883-1960)
+    Description: "Schlo\xDF in Schermcke"
+    DescriptionEnglish: Manor house of Schermcke
+    DescriptionPlatt: Sloss in Schermcke
+    Date: 1952
+    DateEnglish: 1952
+    Technique: Bleistiftzeichnung
+    TechniqueEnglish: Pencil
+    TechniquePlatt: Bild emaakt mid Blisticken
+    Dimensions: 32,0 x 46,0 cm
+    LatiAndLongitude: "52\xB003'29.9\"N 11\xB017'14.1\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 3
+        seconds: 29.9
+      longitude:
+        degrees: 11
+        minutes: 17
+        seconds: 14.1
+    FileName: V_22_00_16_133
+    Image: {fileID: 21300000, guid: e4050415be91d55459a3ca6c1889e429, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Schermcke
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: August Bratfisch (1883-1960)
+    Description: Tor der ehemaligen Commende Bergen
+    DescriptionEnglish: Gate of the late commandery Bergen
+    DescriptionPlatt: Dor fonn de oolen Commende Berjen
+    Date: 1952
+    DateEnglish: 1952
+    Technique: Bleistiftzeichnung
+    TechniqueEnglish: Pencil
+    TechniquePlatt: Bild emaakt mid Blisticken
+    Dimensions: 32,0 x 46,3 cm
+    LatiAndLongitude: "52\xB006'41.4\"N 11\xB021'48.5\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 6
+        seconds: 41.4
+      longitude:
+        degrees: 11
+        minutes: 21
+        seconds: 48.5
+    FileName: V_22_00_16_134
+    Image: {fileID: 21300000, guid: 4e376484b4eb48748b881739e91b1287, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Bergen
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: August Bratfisch (1883-1960)
+    Description: "Gutshof - Vierfl\xFCgelanlage und Schulkinder (Schlo\xDF Gro\xDF
+      Germersleben)"
+    DescriptionEnglish: "Four-sided Estate and pupils (Castle of Gro\xDF Germersleben)"
+    DescriptionPlatt: Gutshoff - Fiersiethoff mid Schaulkinner
+    Date: 1952
+    DateEnglish: 1952
+    Technique: Bleistiftzeichnung
+    TechniqueEnglish: Pencil
+    TechniquePlatt: Bild emaakt mid Blisticken
+    Dimensions: 32,0 x 46,3 cm
+    LatiAndLongitude: "52\xB000'12.9\"N 11\xB021'51.7\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 0
+        seconds: 12.9
+      longitude:
+        degrees: 11
+        minutes: 21
+        seconds: 51.7
+    FileName: V_22_00_16_135
+    Image: {fileID: 21300000, guid: 3f185d18a6c33614a84892d5bf6e1efe, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: "Gro\xDF Germersleben"
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: August Bratfisch (1883-1960)
+    Description: Dorfkirche hinter Mauer (Druxberge)
+    DescriptionEnglish: Village church behind a wall (Druxberge)
+    DescriptionPlatt: Dorpkerchen hinder ne Mure (Druxbarje)
+    Date: 1954
+    DateEnglish: 1954
+    Technique: Bleistiftzeichnung
+    TechniqueEnglish: Pencil
+    TechniquePlatt: Bild emaakt mid Blisticken
+    Dimensions: 32,0 x 46,2 cm
+    LatiAndLongitude: "52\xB009'21.6\"N 11\xB018'34.1\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 9
+        seconds: 21.6
+      longitude:
+        degrees: 11
+        minutes: 18
+        seconds: 34.1
+    FileName: V_22_00_16_136
+    Image: {fileID: 21300000, guid: 2c7ce3b70c6e4494e84feab08c3d1e43, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Druxberge
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: August Bratfisch (1883-1960)
+    Description: Wanzleben - Rathaus
+    DescriptionEnglish: Wanzleben townhall
+    DescriptionPlatt: "Wanzl\xE4 - Rathuus"
+    Date: um 1950
+    DateEnglish: around 1950
+    Technique: Bleistiftzeichnung
+    TechniqueEnglish: Pencil
+    TechniquePlatt: Bild emaakt mid Blisticken
+    Dimensions: 32,0 x 46,0 cm
+    LatiAndLongitude: "52\xB003'41.4\"N 11\xB026'26.0\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 3
+        seconds: 41.4
+      longitude:
+        degrees: 11
+        minutes: 26
+        seconds: 26
+    FileName: V_22_00_16_137
+    Image: {fileID: 21300000, guid: 2ba9eb8a24ceaf04c9025e5f51c21170, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Wanzleben
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: August Bratfisch (1883-1960)
+    Description: "Dorfkirche mit rechteckigem Turm vor bl\xFChenden B\xE4umen (Drackenstedt)"
+    DescriptionEnglish: Village chuch with rectangular tower and blooming trees (Drackenstedt)
+    DescriptionPlatt: "Dorpkerche mid Torm und blaumende B\xF6me (Drackenst\xE4)"
+    Date: 1954
+    DateEnglish: 1954
+    Technique: Bleistiftzeichnung
+    TechniqueEnglish: Pencil
+    TechniquePlatt: Bild emaakt mid Blisticken
+    Dimensions: 32,0 x 46,2 cm
+    LatiAndLongitude: "52\xB009'18.5\"N 11\xB020'50.3\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 9
+        seconds: 18.5
+      longitude:
+        degrees: 11
+        minutes: 20
+        seconds: 50.3
+    FileName: V_22_00_16_138
+    Image: {fileID: 21300000, guid: 9f2b26add0300ed40ab6b76e529de801, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Drackenstedt
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: August Bratfisch (1883-1960)
+    Description: "Dorfstra\xDFe und Kirche Schwaneberg"
+    DescriptionEnglish: Village road and church of Schwaneberg
+    DescriptionPlatt: Dorpstrate un Kerche Schwanebarch
+    Date: 1952
+    DateEnglish: 1952
+    Technique: Bleistiftzeichnung
+    TechniqueEnglish: Pencil
+    TechniquePlatt: Bild emaakt mid Blisticken
+    Dimensions: 32 x 46 cm
+    LatiAndLongitude: "51\xB059'54.2\"N 11\xB028'21.6\"E"
+    GpsCoords:
+      latitude:
+        degrees: 51
+        minutes: 59
+        seconds: 54.2
+      longitude:
+        degrees: 11
+        minutes: 28
+        seconds: 21.6
+    FileName: V_22_00_16_139
+    Image: {fileID: 21300000, guid: 36847e1d3b873294cbbdd75af74553d3, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Schwaneberg
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: August Bratfisch (1883-1960)
+    Description: "Kleinstadtstra\xDFe mit Kirche [Poststra\xDFe Wanzleben]"
+    DescriptionEnglish: "Road with church (Poststra\xDFe in Wanzleben)"
+    DescriptionPlatt: "Strate in ne l\xFCttje Stadt mid Kerche (Poststrate Wanzl\xE4)"
+    Date: 1954
+    DateEnglish: 1954
+    Technique: Bleistiftzeichnung
+    TechniqueEnglish: Pencil
+    TechniquePlatt: Bild emaakt mid Blisticken
+    Dimensions: 32 x 46 cm
+    LatiAndLongitude: "52\xB003'41.4\"N 11\xB026'26.0\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 3
+        seconds: 41.4
+      longitude:
+        degrees: 11
+        minutes: 26
+        seconds: 26
+    FileName: V_22_00_16_140
+    Image: {fileID: 21300000, guid: 84b61b4141b2f73498b3fc6d476049d7, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Wanzleben
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: August Bratfisch (1883-1960)
+    Description: Kornfeld und Wanzleber Warte
+    DescriptionEnglish: Field and lookout near Wanzleben
+    DescriptionPlatt: "Kornfeld un Warte bi Wanzl\xE4"
+    Date: 1953
+    DateEnglish: 1953
+    Technique: Bleistiftzeichnung
+    TechniqueEnglish: Pencil
+    TechniquePlatt: Bild emaakt mid Blisticken
+    Dimensions: 32,0 x 46,2 cm
+    LatiAndLongitude: "52\xB002'42.5\"N 11\xB023'27.8\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 2
+        seconds: 42.5
+      longitude:
+        degrees: 11
+        minutes: 23
+        seconds: 27.8
+    FileName: V_22_00_16_150
+    Image: {fileID: 21300000, guid: 170d1ba3665f9294eb9c0910fbccfa31, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Schaftal und Warten
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: August Bratfisch (1883-1960)
+    Description: "Wellige Stra\xDFe"
+    DescriptionEnglish: Bumpy road
+    DescriptionPlatt: Wellije Strate
+    Date: 1952
+    DateEnglish: 1952
+    Technique: Bleistiftzeichnung
+    TechniqueEnglish: Pencil
+    TechniquePlatt: Bild emaakt mid Blisticken
+    Dimensions: 32,0 x 46,3 cm
+    LatiAndLongitude: "52\xB003'29.9\"N 11\xB017'14.1\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 3
+        seconds: 29.9
+      longitude:
+        degrees: 11
+        minutes: 17
+        seconds: 14.1
+    FileName: V_22_00_16_153
+    Image: {fileID: 21300000, guid: f24bb13c6ba64e84b94807c63a113ecf, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Schermcke
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: August Bratfisch (1883-1960)
+    Description: "Strahlende Sonne \xFCber Landschaft"
+    DescriptionEnglish: Shining sun over a landscape
+    DescriptionPlatt: Sunnenschien ower de Landschaft
+    Date: 1952
+    DateEnglish: 1952
+    Technique: Bleistiftzeichnung
+    TechniqueEnglish: Pencil
+    TechniquePlatt: Bild emaakt mid Blisticken
+    Dimensions: 32,0 x 46,3 cm
+    LatiAndLongitude: "52\xB004'15.8\"N 11\xB021'54.6\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 4
+        seconds: 15.8
+      longitude:
+        degrees: 11
+        minutes: 21
+        seconds: 54.6
+    FileName: V_22_00_16_160
+    Image: {fileID: 21300000, guid: 166677ebc02d19b4dad8613f07e6837b, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Klein Wanzleben
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: August Bratfisch (1883-1960)
+    Description: Seeufer - Landschaft
+    DescriptionEnglish: Lake - landscape
+    DescriptionPlatt: Landschaft an`n Ranne fonn`n See
+    Date: um 1950
+    DateEnglish: around 1950
+    Technique: Bleistiftzeichnung
+    TechniqueEnglish: Pencil
+    TechniquePlatt: Bild emaakt mid Blisticken
+    Dimensions: 29,7 x 42,0 cm
+    LatiAndLongitude: "52\xB003'49.0\"N 11\xB028'43.7\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 3
+        seconds: 49
+      longitude:
+        degrees: 11
+        minutes: 28
+        seconds: 43.7
+    FileName: V_22_00_16_313
+    Image: {fileID: 21300000, guid: b4304e964725953459bc0779c87856ab, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Faule See
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: August Bratfisch (1883-1960)
+    Description: "Steine und Weiden am Fl\xFC\xDFchen"
+    DescriptionEnglish: Stones and willows by a steam
+    DescriptionPlatt: Steine un Weiden an`n Water
+    Date: 1949
+    DateEnglish: 1949
+    Technique: Bleistiftzeichnung
+    TechniqueEnglish: Pencil
+    TechniquePlatt: Bild emaakt mid Blisticken
+    Dimensions: 27,5 x 42,0 cm
+    LatiAndLongitude: "52\xB001'48.0\"N 11\xB025'50.7\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 1
+        seconds: 48
+      longitude:
+        degrees: 11
+        minutes: 25
+        seconds: 50.7
+    FileName: V_22_00_16_314
+    Image: {fileID: 21300000, guid: a7e0d27b128ddad46a30b1e020f216f7, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Bottmersdorf
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: August Bratfisch (1883-1960)
+    Description: Baumgruppe am Feld
+    DescriptionEnglish: Trees by a field
+    DescriptionPlatt: "B\xF6me an`n Felle"
+    Date: 1949
+    DateEnglish: 1949
+    Technique: Bleistiftzeichnung
+    TechniqueEnglish: Pencil
+    TechniquePlatt: Bild emaakt mid Blisticken
+    Dimensions: 27,5 x 42,0 cm
+    LatiAndLongitude: "52\xB001'48.0\"N 11\xB025'50.7\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 1
+        seconds: 48
+      longitude:
+        degrees: 11
+        minutes: 25
+        seconds: 50.7
+    FileName: V_22_00_16_315
+    Image: {fileID: 21300000, guid: 1e034a01eddccea46b4e52b843352c56, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Bottmersdorf
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: August Bratfisch (1883-1960)
+    Description: Ziegelei Wanzleben
+    DescriptionEnglish: Wanzleben brickworks
+    DescriptionPlatt: "Teigelie Wanzl\xE4"
+    Date: 1949
+    DateEnglish: 1949
+    Technique: Bleistiftzeichnung
+    TechniqueEnglish: Pencil
+    TechniquePlatt: Bild emaakt mid Blisticken
+    Dimensions: 27,5 x 42,0 cm
+    LatiAndLongitude: "52\xB003'41.4\"N 11\xB026'26.0\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 3
+        seconds: 41.4
+      longitude:
+        degrees: 11
+        minutes: 26
+        seconds: 26
+    FileName: V_22_00_16_316
+    Image: {fileID: 21300000, guid: ea47df1d7b925764f912ddd4e6685c9b, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Wanzleben
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: August Bratfisch (1883-1960)
+    Description: Baumgruppe an einer Wiese
+    DescriptionEnglish: Trees by a meadow
+    DescriptionPlatt: "B\xF6me an`ner Wiesche"
+    Date: 1949
+    DateEnglish: 1949
+    Technique: Bleistiftzeichnung
+    TechniqueEnglish: Pencil
+    TechniquePlatt: Bild emaakt mid Blisticken
+    Dimensions: 27,5 x 42,0 cm
+    LatiAndLongitude: "52\xB001'48.0\"N 11\xB025'50.7\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 1
+        seconds: 48
+      longitude:
+        degrees: 11
+        minutes: 25
+        seconds: 50.7
+    FileName: V_22_00_16_317
+    Image: {fileID: 21300000, guid: bb725c99a63630540baef51ba3503423, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Bottmersdorf
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: August Bratfisch (1883-1960)
+    Description: "Schafw\xE4sche bei Wanzleben"
+    DescriptionEnglish: Sheep-wash bassin near Wanzleben
+    DescriptionPlatt: "Schaapw\xE4sche bi Wanzl\xE4"
+    Date: 1950
+    DateEnglish: 1950
+    Technique: Bleistiftzeichnung
+    TechniqueEnglish: Pencil
+    TechniquePlatt: Bild emaakt mid Blisticken
+    Dimensions: 27,5 x 42,0 cm
+    LatiAndLongitude: "52\xB002'42.5\"N 11\xB023'27.8\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 2
+        seconds: 42.5
+      longitude:
+        degrees: 11
+        minutes: 23
+        seconds: 27.8
+    FileName: V_22_00_16_381
+    Image: {fileID: 21300000, guid: d8d4719af641c8f4b936b3acc7f46fd6, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Schaftal und Warten
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: August Bratfisch (1883-1960)
+    Description: Birken am Weg
+    DescriptionEnglish: Birches by a path
+    DescriptionPlatt: "Berkenb\xF6me an`n Wech"
+    Date: 1953
+    DateEnglish: 1953
+    Technique: Bleistiftzeichnung
+    TechniqueEnglish: Pencil
+    TechniquePlatt: Bild emaakt mid Blisticken
+    Dimensions: 32,0 x 46,0 cm
+    LatiAndLongitude: "52\xB003'49.0\"N 11\xB028'43.7\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 3
+        seconds: 49
+      longitude:
+        degrees: 11
+        minutes: 28
+        seconds: 43.7
+    FileName: V_22_00_16_398
+    Image: {fileID: 21300000, guid: b8b940b6fcdbaf74ba74dae346613749, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Faule See
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: August Bratfisch (1883-1960)
+    Description: See-Landschaft
+    DescriptionEnglish: Lake - landscape
+    DescriptionPlatt: See-Landschaft
+    Date: um 1950
+    DateEnglish: around 1950
+    Technique: Bleistiftzeichnung
+    TechniqueEnglish: Pencil
+    TechniquePlatt: Bild emaakt mid Blisticken
+    Dimensions: 32,0 x 46,0 cm
+    LatiAndLongitude: "52\xB003'49.0\"N 11\xB028'43.7\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 3
+        seconds: 49
+      longitude:
+        degrees: 11
+        minutes: 28
+        seconds: 43.7
+    FileName: V_22_00_16_399
+    Image: {fileID: 21300000, guid: b5625a348bfc91d45a72d544e3704b0e, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Faule See
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: August Bratfisch (1883-1960)
+    Description: Birkenweg zum Dorf (Siegersleben)
+    DescriptionEnglish: Birch-alley towards the village (Siegersleben)
+    DescriptionPlatt: "Berkenwech taun Dorp (Siejersl\xE4)"
+    Date: 1953
+    DateEnglish: 1953
+    Technique: Bleistiftzeichnung
+    TechniqueEnglish: Pencil
+    TechniquePlatt: Bild emaakt mid Blisticken
+    Dimensions: 32 x 46,2 cm
+    LatiAndLongitude: "52\xB008'00.9\"N 11\xB015'29.5\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 8
+        seconds: 0.9
+      longitude:
+        degrees: 11
+        minutes: 15
+        seconds: 29.5
+    FileName: V_22_00_16_401
+    Image: {fileID: 21300000, guid: 13eec0c3506b2b846b95d6df7e2c3def, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Siegersleben
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: August Bratfisch (1883-1960)
+    Description: "Gro\xDFer Stall mit offenem Tor an Durchfahrt"
+    DescriptionEnglish: Big stable with open gate
+    DescriptionPlatt: Grooter Stall mid oppemaakten Door
+    Date: 1953
+    DateEnglish: 1953
+    Technique: Bleistiftzeichnung
+    TechniqueEnglish: Pencil
+    TechniquePlatt: Bild emaakt mid Blisticken
+    Dimensions: 32 x 46,2 cm
+    LatiAndLongitude: "52\xB002'23.4\"N 11\xB020'55.3\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 2
+        seconds: 23.4
+      longitude:
+        degrees: 11
+        minutes: 20
+        seconds: 55.3
+    FileName: V_22_00_16_402
+    Image: {fileID: 21300000, guid: 9f19460baa02aaa4e80b60e71928b16d, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Neubau
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: August Bratfisch (1883-1960)
+    Description: Enten am Dorfteich [Glockenteich Langenweddingen]
+    DescriptionEnglish: Ducks on the village pond of Langenweddingen (Glockenteich)
+    DescriptionPlatt: Aanten an`n Dorpdieck [Glockendieck Langenweddich]
+    Date: 1953
+    DateEnglish: 1953
+    Technique: Bleistiftzeichnung
+    TechniqueEnglish: Pencil
+    TechniquePlatt: Bild emaakt mid Blisticken
+    Dimensions: 32 x 46 cm
+    LatiAndLongitude: "52\xB002'08.6\"N 11\xB031'43.7\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 2
+        seconds: 8.6
+      longitude:
+        degrees: 11
+        minutes: 31
+        seconds: 43.7
+    FileName: V_22_00_16_403
+    Image: {fileID: 21300000, guid: 51fdf7dd327b2dc41ae39c0216972e9c, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Langenweddingen
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: August Bratfisch (1883-1960)
+    Description: Burg Wanzleben
+    DescriptionEnglish: The castle of Wanzleben
+    DescriptionPlatt: "Borch Wanzl\xE4"
+    Date: 1953
+    DateEnglish: 1953
+    Technique: Bleistiftzeichnung
+    TechniqueEnglish: Pencil
+    TechniquePlatt: Bild emaakt mid Blisticken
+    Dimensions: 32 x 46 cm
+    LatiAndLongitude: "52\xB003'41.4\"N 11\xB026'26.0\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 3
+        seconds: 41.4
+      longitude:
+        degrees: 11
+        minutes: 26
+        seconds: 26
+    FileName: V_22_00_16_404
+    Image: {fileID: 21300000, guid: 6d9e77732e7394b4ba2080b545400ca4, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Wanzleben
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: August Bratfisch (1883-1960)
+    Description: Kirche in Hohendodeleben
+    DescriptionEnglish: Church in Hohendodeleben
+    DescriptionPlatt: "Kerche in Hohendol\xE4"
+    Date: 1952
+    DateEnglish: 1952
+    Technique: Bleistiftzeichnung
+    TechniqueEnglish: Pencil
+    TechniquePlatt: Bild emaakt mid Blisticken
+    Dimensions: 23,0 x 32,0 cm
+    LatiAndLongitude: "52\xB006'15.1\"N 11\xB030'05.3\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 6
+        seconds: 15.1
+      longitude:
+        degrees: 11
+        minutes: 30
+        seconds: 5.3
+    FileName: V_22_00_16_433
+    Image: {fileID: 21300000, guid: 424e163490a6b12448494263f40065d6, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Hohendodeleben
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: August Bratfisch (1883-1960)
+    Description: An der Faulen See
+    DescriptionEnglish: By the Faulen See (mouldy lake)
+    DescriptionPlatt: An de Fuulen See
+    Date: 1953
+    DateEnglish: 1953
+    Technique: Bleistiftzeichnung
+    TechniqueEnglish: Pencil
+    TechniquePlatt: Bild emaakt mid Blisticken
+    Dimensions: 20,8 x 28,6 cm
+    LatiAndLongitude: "52\xB003'49.0\"N 11\xB028'43.7\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 3
+        seconds: 49
+      longitude:
+        degrees: 11
+        minutes: 28
+        seconds: 43.7
+    FileName: V_22_00_16_494
+    Image: {fileID: 21300000, guid: 6d712a7c6e07ab54ba40ad46677711c7, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Faule See
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: August Bratfisch (1883-1960)
+    Description: Partie an der Faulen See
+    DescriptionEnglish: Landscape with meadow and trees
+    DescriptionPlatt: Partie an de Fuulen See
+    Date: 1950
+    DateEnglish: 1950
+    Technique: Bleistiftzeichnung
+    TechniqueEnglish: Pencil
+    TechniquePlatt: Bild emaakt mid Blisticken
+    Dimensions: 20,4 x 28,4 cm
+    LatiAndLongitude: "52\xB003'49.0\"N 11\xB028'43.7\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 3
+        seconds: 49
+      longitude:
+        degrees: 11
+        minutes: 28
+        seconds: 43.7
+    FileName: V_22_00_16_507
+    Image: {fileID: 21300000, guid: da73355f6e3598e42802183d4fe8aa64, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Faule See
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: August Bratfisch (1883-1960)
+    Description: Salzquelle bei Wanzleben
+    DescriptionEnglish: Salt-well near Wanzleben
+    DescriptionPlatt: "Soltspring bi Wanzl\xE4"
+    Date: 1953
+    DateEnglish: 1953
+    Technique: Bleistiftzeichnung
+    TechniqueEnglish: Pencil
+    TechniquePlatt: Bild emaakt mid Blisticken
+    Dimensions: 21,0 x 28,6 cm
+    LatiAndLongitude: "52\xB001'31.4\"N 11\xB033'41.4\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 1
+        seconds: 31.4
+      longitude:
+        degrees: 11
+        minutes: 33
+        seconds: 41.4
+    FileName: V_22_00_16_574
+    Image: {fileID: 21300000, guid: bfee1226f53d8444181ef25a267365a7, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: "S\xFClldorf"
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: August Bratfisch (1883-1960)
+    Description: "Wiese mit einzelnen Str\xE4uchern"
+    DescriptionEnglish: Meadow with shrubbs
+    DescriptionPlatt: Wiesche mid Strauchwark
+    Date: 1951
+    DateEnglish: 1951
+    Technique: Bleistiftzeichnung
+    TechniqueEnglish: Pencil
+    TechniquePlatt: Bild emaakt mid Blisticken
+    Dimensions: 21,1 x 28,8 cm
+    LatiAndLongitude: "52\xB005'26.8\"N 11\xB025'59.9\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 5
+        seconds: 26.8
+      longitude:
+        degrees: 11
+        minutes: 25
+        seconds: 59.9
+    FileName: V_22_00_16_664
+    Image: {fileID: 21300000, guid: 807cab99a89bd394fb334fc486a38094, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Domersleben
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: August Bratfisch (1883-1960)
+    Description: "Flu\xDF und kahle B\xE4ume im Winter"
+    DescriptionEnglish: River and bare trees during winter
+    DescriptionPlatt: "Fluss un kale B\xF6me In`n Winter"
+    Date: um 1950
+    DateEnglish: around 1950
+    Technique: Bleistiftzeichnung
+    TechniqueEnglish: Pencil
+    TechniquePlatt: Bild emaakt mid Blisticken
+    Dimensions: 19,7 x 28,5 cm
+    LatiAndLongitude: "52\xB003'41.4\"N 11\xB026'26.0\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 3
+        seconds: 41.4
+      longitude:
+        degrees: 11
+        minutes: 26
+        seconds: 26
+    FileName: V_22_00_16_714
+    Image: {fileID: 21300000, guid: d996d011a9b71e14aa015635edddb71a, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Wanzleben
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: August Bratfisch (1883-1960)
+    Description: "Pferdefuhrwerk und Landstra\xDFe mit Birken"
+    DescriptionEnglish: Horsecart and road with birch trees
+    DescriptionPlatt: Perewaan un Landstrate mid Berken
+    Date: um 1950
+    DateEnglish: around 1950
+    Technique: Bleistiftzeichnung
+    TechniqueEnglish: Pencil
+    TechniquePlatt: Bild emaakt mid Blisticken
+    Dimensions: 20,0 x 29,8 cm
+    LatiAndLongitude: "52\xB002'58.9\"N 11\xB029'09.7\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 2
+        seconds: 58.9
+      longitude:
+        degrees: 11
+        minutes: 29
+        seconds: 9.7
+    FileName: V_22_00_16_716
+    Image: {fileID: 21300000, guid: 19736b22cce00e74aa6d7cf377f30931, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Buch
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: August Bratfisch (1883-1960)
+    Description: Blick auf Schleibnitz
+    DescriptionEnglish: View of Schleibnitz
+    DescriptionPlatt: Blick opp Schleibnitz
+    Date: um 1950
+    DateEnglish: around 1950
+    Technique: Bleistiftzeichnung
+    TechniqueEnglish: Pencil
+    TechniquePlatt: Bild emaakt mid Blisticken
+    Dimensions: 20,5 x 28,6 cm
+    LatiAndLongitude: "52\xB004'34.5\"N 11\xB029'08.2\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 4
+        seconds: 34.5
+      longitude:
+        degrees: 11
+        minutes: 29
+        seconds: 8.2
+    FileName: V_22_00_16_721
+    Image: {fileID: 21300000, guid: edb7174df61b6b243b5dd46025d5a0e5, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Schleibnitz
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: August Bratfisch (1883-1960)
+    Description: "Blick auf Dorfwiese mit G\xE4nsen"
+    DescriptionEnglish: View of village meadow with geese
+    DescriptionPlatt: "Blick opp Dorwiesche mid G\xE4use"
+    Date: 1953
+    DateEnglish: 1953
+    Technique: Bleistiftzeichnung
+    TechniqueEnglish: Pencil
+    TechniquePlatt: Bild emaakt mid Blisticken
+    Dimensions: 32,0 x 46,3 cm
+    LatiAndLongitude: "52\xB004'34.5\"N 11\xB029'08.2\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 4
+        seconds: 34.5
+      longitude:
+        degrees: 11
+        minutes: 29
+        seconds: 8.2
+    FileName: V_22_00_16_890
+    Image: {fileID: 21300000, guid: 5cbdc214ec9795a4ba020bb24a802281, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Schleibnitz
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: August Bratfisch (1883-1960)
+    Description: "Dorfstra\xDFe und Bahnschranke"
+    DescriptionEnglish: Village road and train crossing
+    DescriptionPlatt: Dorpstrate un Iesenbahnbake
+    Date: 1952
+    DateEnglish: 1952
+    Technique: Bleistiftzeichnung
+    TechniqueEnglish: Pencil
+    TechniquePlatt: Bild emaakt mid Blisticken
+    Dimensions: 32,0 x 46,2 cm
+    LatiAndLongitude: "51\xB059'54.4\"N 11\xB032'05.7\"E"
+    GpsCoords:
+      latitude:
+        degrees: 51
+        minutes: 59
+        seconds: 54.4
+      longitude:
+        degrees: 11
+        minutes: 32
+        seconds: 5.7
+    FileName: V_22_00_16_891
+    Image: {fileID: 21300000, guid: 2896e9874db5622428549ac8b3ae3939, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Altenweddingen
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: August Bratfisch (1883-1960)
+    Description: "Dorfstra\xDFe vor Kirche"
+    DescriptionEnglish: Village road and church
+    DescriptionPlatt: Dorpstrate for de Kerche
+    Date: 1952
+    DateEnglish: 1952
+    Technique: Bleistiftzeichnung
+    TechniqueEnglish: Pencil
+    TechniquePlatt: Bild emaakt mid Blisticken
+    Dimensions: 32,0 x 46,2 cm
+    LatiAndLongitude: "52\xB001'02.3\"N 11\xB024'20.7\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 1
+        seconds: 2.3
+      longitude:
+        degrees: 11
+        minutes: 24
+        seconds: 20.7
+    FileName: V_22_00_16_892
+    Image: {fileID: 21300000, guid: 808741aab20e4f441aa13ed279656dbb, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Klein Germersleben
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: August Bratfisch (1883-1960)
+    Description: Blick auf Ampfurth
+    DescriptionEnglish: View of Ampfurth
+    DescriptionPlatt: Blick opp Ampfurth
+    Date: 1952
+    DateEnglish: 1950
+    Technique: Bleistiftzeichnung
+    TechniqueEnglish: Pencil
+    TechniquePlatt: Bild emaakt mid Blisticken
+    Dimensions: 32,0 x 46,0 cm
+    LatiAndLongitude: "52\xB003'46.3\"N 11\xB018'46.6\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 3
+        seconds: 46.3
+      longitude:
+        degrees: 11
+        minutes: 18
+        seconds: 46.6
+    FileName: V_22_00_16_893
+    Image: {fileID: 21300000, guid: 2071de4941ede9b46be9f50ab0459487, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Ampfurth
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: August Bratfisch (1883-1960)
+    Description: Dorfansicht
+    DescriptionEnglish: View of a village
+    DescriptionPlatt: Dorpansicht
+    Date: 1952
+    DateEnglish: 1952
+    Technique: Bleistiftzeichnung
+    TechniqueEnglish: Pencil
+    TechniquePlatt: Bild emaakt mid Blisticken
+    Dimensions: 32,0 x 46,0 cm
+    LatiAndLongitude: "52\xB005'10.5\"N 11\xB034'47.0\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 5
+        seconds: 10.5
+      longitude:
+        degrees: 11
+        minutes: 34
+        seconds: 47
+    FileName: V_22_00_16_894
+    Image: {fileID: 21300000, guid: e054c7b157d74e84c81cc13d7c118743, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: MD-Ottersleben
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: August Bratfisch (1883-1960)
+    Description: Pferdekoppel vor einem Dorf
+    DescriptionEnglish: Paddock and village
+    DescriptionPlatt: Perewiesche forr en Dorp
+    Date: 1953
+    DateEnglish: 1953
+    Technique: Bleistiftzeichnung
+    TechniqueEnglish: Pencil
+    TechniquePlatt: Bild emaakt mid Blisticken
+    Dimensions: 32,0 x 46,0 cm
+    LatiAndLongitude: "51\xB059'27.3\"N 11\xB018'09.9\"E"
+    GpsCoords:
+      latitude:
+        degrees: 51
+        minutes: 59
+        seconds: 27.3
+      longitude:
+        degrees: 11
+        minutes: 18
+        seconds: 9.9
+    FileName: V_22_00_16_895
+    Image: {fileID: 21300000, guid: 87f10e5c9a10c054db796b0e737d0871, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Hadmersleben
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: August Bratfisch (1883-1960)
+    Description: "Kahle B\xE4ume im Garten vor einem Haus"
+    DescriptionEnglish: House and garden with bare trees
+    DescriptionPlatt: "Kale B\xF6me in en Garen forr en Huus"
+    Date: 1952
+    DateEnglish: 1952
+    Technique: Bleistiftzeichnung
+    TechniqueEnglish: Pencil
+    TechniquePlatt: Bild emaakt mid Blisticken
+    Dimensions: 31,8 x 46,2 cm
+    LatiAndLongitude: "52\xB003'41.4\"N 11\xB026'26.0\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 3
+        seconds: 41.4
+      longitude:
+        degrees: 11
+        minutes: 26
+        seconds: 26
+    FileName: V_22_00_16_896
+    Image: {fileID: 21300000, guid: fdd709b82b130504c85160088612c64c, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Wanzleben
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: August Bratfisch (1883-1960)
+    Description: Kloster Meyendorf
+    DescriptionEnglish: Meyendorf monastery
+    DescriptionPlatt: Kloster Meyendorp
+    Date: 1952
+    DateEnglish: 1952
+    Technique: Bleistiftzeichnung
+    TechniqueEnglish: Pencil
+    TechniquePlatt: Bild emaakt mid Blisticken
+    Dimensions: 32,0 x 46,2 cm
+    LatiAndLongitude: "52\xB005'20.0\"N 11\xB019'52.3\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 5
+        seconds: 20
+      longitude:
+        degrees: 11
+        minutes: 19
+        seconds: 52.3
+    FileName: V_22_00_16_898
+    Image: {fileID: 21300000, guid: b8fc584a99241be47b85a23faa91b31e, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Meyendorf
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: August Bratfisch (1883-1960)
+    Description: Kornfeld und Sicht auf Dorfkirche
+    DescriptionEnglish: Field and view of a village church
+    DescriptionPlatt: "Koornfeld un Blick opp \xB4ne Kerche"
+    Date: 1952
+    DateEnglish: 1952
+    Technique: Bleistiftzeichnung
+    TechniqueEnglish: Pencil
+    TechniquePlatt: Bild emaakt mid Blisticken
+    Dimensions: 32,0 x 46,0 cm
+    LatiAndLongitude: "52\xB006'15.1\"N 11\xB030'05.3\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 6
+        seconds: 15.1
+      longitude:
+        degrees: 11
+        minutes: 30
+        seconds: 5.3
+    FileName: V_22_00_16_899
+    Image: {fileID: 21300000, guid: 21421bfd0fc5c8a47822449cb5ad5090, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Hohendodeleben
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: August Bratfisch (1883-1960)
+    Description: "Junge B\xE4ume an Pf\xE4hlen"
+    DescriptionEnglish: Young trees held by posts
+    DescriptionPlatt: "Junke B\xF6\xF6me an P\xE4len"
+    Date: um 1950
+    DateEnglish: around 1950
+    Technique: Bleistiftzeichnung
+    TechniqueEnglish: Pencil
+    TechniquePlatt: Bild emaakt mid Blisticken
+    Dimensions: 32,0 x 46,3 cm
+    LatiAndLongitude: "52\xB003'41.4\"N 11\xB026'26.0\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 3
+        seconds: 41.4
+      longitude:
+        degrees: 11
+        minutes: 26
+        seconds: 26
+    FileName: V_22_00_16_900
+    Image: {fileID: 21300000, guid: 2462f88c0b5e4f84cb0001dd5e3c084d, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Wanzleben
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: August Bratfisch (1883-1960)
+    Description: "Kornpuppen, M\xFChle und Blick auf Dorfkirche (Gro\xDF Rodensleben)"
+    DescriptionEnglish: "Wheat stacks, mill and view of church (Gro\xDF Rodensleben)"
+    DescriptionPlatt: "Koornpuppen, M\xF6lle un Blick opp de Dorpkerche (Groten Roensl\xE4)"
+    Date: 1953
+    DateEnglish: 1953
+    Technique: Bleistiftzeichnung
+    TechniqueEnglish: Pencil
+    TechniquePlatt: Bild emaakt mid Blisticken
+    Dimensions: 32,0 x 46,3 cm
+    LatiAndLongitude: "52\xB007'18.4\"N 11\xB023'08.1\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 7
+        seconds: 18.4
+      longitude:
+        degrees: 11
+        minutes: 23
+        seconds: 8.1
+    FileName: V_22_00_16_901
+    Image: {fileID: 21300000, guid: a8028c38f56d399469386190288d65ed, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: "Gro\xDF Rodensleben"
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: August Bratfisch (1883-1960)
+    Description: "Gepflasterte Stra\xDFe vor einem Dorf (Buch)"
+    DescriptionEnglish: Paved road towards a village (Buch)
+    DescriptionPlatt: Jeplasterte Strate forr en Dorp (Buch)
+    Date: 1952
+    DateEnglish: 1952
+    Technique: Bleistiftzeichnung
+    TechniqueEnglish: Pencil
+    TechniquePlatt: Bild emaakt mid Blisticken
+    Dimensions: 32,0 x 46,0 cm
+    LatiAndLongitude: "52\xB002'58.9\"N 11\xB029'09.7\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 2
+        seconds: 58.9
+      longitude:
+        degrees: 11
+        minutes: 29
+        seconds: 9.7
+    FileName: V_22_00_16_902
+    Image: {fileID: 21300000, guid: 444a297998492784d941bb374b5b7640, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Buch
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: August Bratfisch (1883-1960)
+    Description: Pflegestation
+    DescriptionEnglish: Hospital
+    DescriptionPlatt: Plegestidde
+    Date: um 1950
+    DateEnglish: around 1950
+    Technique: Bleistiftzeichnung
+    TechniqueEnglish: Pencil
+    TechniquePlatt: Bild emaakt mid Blisticken
+    Dimensions: 32,0 x 46,0 cm
+    LatiAndLongitude: "52\xB003'41.4\"N 11\xB026'26.0\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 3
+        seconds: 41.4
+      longitude:
+        degrees: 11
+        minutes: 26
+        seconds: 26
+    FileName: V_22_00_16_903
+    Image: {fileID: 21300000, guid: 836a0de01b337d049be8da01f2c0f295, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Wanzleben
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: August Bratfisch (1883-1960)
+    Description: Bauernhof mit Vieh
+    DescriptionEnglish: Farm with animals
+    DescriptionPlatt: Buernhoff mid Fei
+    Date: 1952
+    DateEnglish: 1952
+    Technique: Bleistiftzeichnung
+    TechniqueEnglish: Pencil
+    TechniquePlatt: Bild emaakt mid Blisticken
+    Dimensions: 32,0 x 46,0 cm
+    LatiAndLongitude: "52\xB003'41.4\"N 11\xB026'26.0\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 3
+        seconds: 41.4
+      longitude:
+        degrees: 11
+        minutes: 26
+        seconds: 26
+    FileName: V_22_00_16_904
+    Image: {fileID: 21300000, guid: d18050e053d41d54e841b3eb5bf4a152, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Wanzleben
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: August Bratfisch (1883-1960)
+    Description: "Kornfeld und M\xFChle"
+    DescriptionEnglish: Field and mill
+    DescriptionPlatt: "Koornfeld un M\xF6lle"
+    Date: um 1950
+    DateEnglish: around 1950
+    Technique: Bleistiftzeichnung
+    TechniqueEnglish: Pencil
+    TechniquePlatt: Bild emaakt mid Blisticken
+    Dimensions: 32,0 x 46,0 cm
+    LatiAndLongitude: "52\xB004'34.5\"N 11\xB029'08.2\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 4
+        seconds: 34.5
+      longitude:
+        degrees: 11
+        minutes: 29
+        seconds: 8.2
+    FileName: V_22_00_16_907
+    Image: {fileID: 21300000, guid: 7d7a22b741f060b4a8bb3877e5b85bfc, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Schleibnitz
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: August Bratfisch (1883-1960)
+    Description: "Wiese mit H\xFChnern"
+    DescriptionEnglish: Lawn with chicken
+    DescriptionPlatt: "Wiesche mid H\xE4uner"
+    Date: 1953
+    DateEnglish: 1953
+    Technique: Bleistiftzeichnung
+    TechniqueEnglish: Pencil
+    TechniquePlatt: Bild emaakt mid Blisticken
+    Dimensions: 32,0 x 46,2 cm
+    LatiAndLongitude: "52\xB002'25.1\"N 11\xB036'43.1\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 2
+        seconds: 25.1
+      longitude:
+        degrees: 11
+        minutes: 36
+        seconds: 43.1
+    FileName: V_22_00_16_908
+    Image: {fileID: 21300000, guid: 55cb02154a7c7174297e05bf65b06e25, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Dodendorf
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: August Bratfisch (1883-1960)
+    Description: "G\xE4nse auf der Dorfstra\xDFe"
+    DescriptionEnglish: Geese on a village road
+    DescriptionPlatt: "G\xE4use opp de Dorpstrate"
+    Date: 1952
+    DateEnglish: 1952
+    Technique: Bleistiftzeichnung
+    TechniqueEnglish: Pencil
+    TechniquePlatt: Bild emaakt mid Blisticken
+    Dimensions: 32,0 x 46,2 cm
+    LatiAndLongitude: "51\xB059'48.0\"N 11\xB034'24.5\"E"
+    GpsCoords:
+      latitude:
+        degrees: 51
+        minutes: 59
+        seconds: 48
+      longitude:
+        degrees: 11
+        minutes: 34
+        seconds: 24.5
+    FileName: V_22_00_16_909
+    Image: {fileID: 21300000, guid: 3bef7b0fe1d66e445b75924c60bc5352, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Stemmern
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: August Bratfisch (1883-1960)
+    Description: "Abgez\xE4unte Kuhweide"
+    DescriptionEnglish: Fenced cow paddock
+    DescriptionPlatt: Affjetrennte Kauwiesche
+    Date: 1954
+    DateEnglish: 1954
+    Technique: Bleistiftzeichnung
+    TechniqueEnglish: Pencil
+    TechniquePlatt: Bild emaakt mid Blisticken
+    Dimensions: 31,9 x 46,0 cm
+    LatiAndLongitude: "52\xB008'51.3\"N 11\xB012'46.3\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 8
+        seconds: 51.3
+      longitude:
+        degrees: 11
+        minutes: 12
+        seconds: 46.3
+    FileName: V_22_00_16_910
+    Image: {fileID: 21300000, guid: f2bf40634a8022445ad2c9b23fe85dfb, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Eilsleben
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: August Bratfisch (1883-1960)
+    Description: "Kornpuppen, Windm\xFChle und Dorfkirche"
+    DescriptionEnglish: Sheaves, mill and village church
+    DescriptionPlatt: "Koornpuppen, Windm\xF6lle und Dorpkerche"
+    Date: 1952
+    DateEnglish: 1952
+    Technique: Bleistiftzeichnung
+    TechniqueEnglish: Pencil
+    TechniquePlatt: Bild emaakt mid Blisticken
+    Dimensions: 32,0 x 46,2 cm
+    LatiAndLongitude: "52\xB005'18.0\"N 11\xB021'19.3\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 5
+        seconds: 18
+      longitude:
+        degrees: 11
+        minutes: 21
+        seconds: 19.3
+    FileName: V_22_00_16_911
+    Image: {fileID: 21300000, guid: 2a3e175c7f724d847ae4660040aaf28f, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Remkersleben
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: August Bratfisch (1883-1960)
+    Description: "Fuhrwerk mit zwei Pferden und G\xE4nse im Dorf (Wanzleben, Buttenkrug)"
+    DescriptionEnglish: Cart with two horses and geese in a village (Wanzleben, Buttenkrug)
+    DescriptionPlatt: "Ackerwaan mid twei Pere un G\xE4use im Dorp (Wanzl\xE4, Buttenkrauch)"
+    Date: 1954
+    DateEnglish: 1954
+    Technique: Bleistiftzeichnung
+    TechniqueEnglish: Pencil
+    TechniquePlatt: Bild emaakt mid Blisticken
+    Dimensions: 32,0 x 46,2 cm
+    LatiAndLongitude: "52\xB003'41.4\"N 11\xB026'26.0\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 3
+        seconds: 41.4
+      longitude:
+        degrees: 11
+        minutes: 26
+        seconds: 26
+    FileName: V_22_00_16_912
+    Image: {fileID: 21300000, guid: 307b44ae428950249a292c26a3715de6, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Wanzleben
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: August Bratfisch (1883-1960)
+    Description: Baumgruppe im Dorf
+    DescriptionEnglish: Group of trees in a village
+    DescriptionPlatt: "B\xF6me im Dorp"
+    Date: 1953
+    DateEnglish: 1953
+    Technique: Bleistiftzeichnung
+    TechniqueEnglish: Pencil
+    TechniquePlatt: Bild emaakt mid Blisticken
+    Dimensions: 32,0 x 46,0 cm
+    LatiAndLongitude: "52\xB003'41.4\"N 11\xB026'26.0\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 3
+        seconds: 41.4
+      longitude:
+        degrees: 11
+        minutes: 26
+        seconds: 26
+    FileName: V_22_00_16_915
+    Image: {fileID: 21300000, guid: dadc5ace9b1e3204882cf4cacc51e55b, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Wanzleben
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: August Bratfisch (1883-1960)
+    Description: "Kornfeld und M\xFChle"
+    DescriptionEnglish: Field and mill
+    DescriptionPlatt: "Koornfeld un M\xF6lle"
+    Date: 1952
+    DateEnglish: 1952
+    Technique: Bleistiftzeichnung
+    TechniqueEnglish: Pencil
+    TechniquePlatt: Bild emaakt mid Blisticken
+    Dimensions: 32,0 x 46,2 cm
+    LatiAndLongitude: "52\xB004'34.5\"N 11\xB029'08.2\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 4
+        seconds: 34.5
+      longitude:
+        degrees: 11
+        minutes: 29
+        seconds: 8.2
+    FileName: V_22_00_16_916
+    Image: {fileID: 21300000, guid: dfdab5cf562ed824e8d23e7c77c37bf0, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Schleibnitz
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: August Bratfisch (1883-1960)
+    Description: Dorf hinter Kornfeld
+    DescriptionEnglish: Village behind a field
+    DescriptionPlatt: Dorp hinnern Koornfelle
+    Date: 1952
+    DateEnglish: 1952
+    Technique: Bleistiftzeichnung
+    TechniqueEnglish: Pencil
+    TechniquePlatt: Bild emaakt mid Blisticken
+    Dimensions: 32,0 x 46,0 cm
+    LatiAndLongitude: "52\xB002'05.6\"N 11\xB023'30.4\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 2
+        seconds: 5.6
+      longitude:
+        degrees: 11
+        minutes: 23
+        seconds: 30.4
+    FileName: V_22_00_16_917
+    Image: {fileID: 21300000, guid: cf70145e07a96d641b3f6b878985cb42, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Stadt Frankfurt
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: August Bratfisch (1883-1960)
+    Description: Kirche in Osterweddingen
+    DescriptionEnglish: Church in Osterweddingen
+    DescriptionPlatt: Kerche in Osterweddich
+    Date: 1953
+    DateEnglish: 1953
+    Technique: Bleistiftzeichnung
+    TechniqueEnglish: Pencil
+    TechniquePlatt: Bild emaakt mid Blisticken
+    Dimensions: 32,0 x 46,3 cm
+    LatiAndLongitude: "52\xB002'28.6\"N 11\xB034'55.9\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 2
+        seconds: 28.6
+      longitude:
+        degrees: 11
+        minutes: 34
+        seconds: 55.9
+    FileName: V_22_00_16_918
+    Image: {fileID: 21300000, guid: cfb3c45f061edeb4a8a86494f6363262, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Osterweddingen
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: August Bratfisch (1883-1960)
+    Description: "G\xE4nsewiese im Dorf"
+    DescriptionEnglish: Meadow with geese
+    DescriptionPlatt: Gausewiesche in`n Dorp
+    Date: 1953
+    DateEnglish: 1953
+    Technique: Bleistiftzeichnung
+    TechniqueEnglish: Pencil
+    TechniquePlatt: Bild emaakt mid Blisticken
+    Dimensions: 32,0 x 46,2 cm
+    LatiAndLongitude: "52\xB003'23.9\"N 11\xB038'08.2\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 3
+        seconds: 23.9
+      longitude:
+        degrees: 11
+        minutes: 38
+        seconds: 8.2
+    FileName: V_22_00_16_919
+    Image: {fileID: 21300000, guid: 41e592e5d4171bd42a0af32a47daf014, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: MD-Beyendorf
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: August Bratfisch (1883-1960)
+    Description: Mauerring um Kirchenkomplex
+    DescriptionEnglish: Walls around a church
+    DescriptionPlatt: "Muerring um en Kerchenjel\xE4nne"
+    Date: 1952
+    DateEnglish: 1952
+    Technique: Bleistiftzeichnung
+    TechniqueEnglish: Pencil
+    TechniquePlatt: Bild emaakt mid Blisticken
+    Dimensions: 32,0 x 46,2 cm
+    LatiAndLongitude: "52\xB001'31.4\"N 11\xB033'41.4\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 1
+        seconds: 31.4
+      longitude:
+        degrees: 11
+        minutes: 33
+        seconds: 41.4
+    FileName: V_22_00_16_920
+    Image: {fileID: 21300000, guid: b7471b5c8f96c5044a49b7b2e20ebf1e, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: "S\xFClldorf"
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: August Bratfisch (1883-1960)
+    Description: Feldweg mit Sicht auf ein Dorf
+    DescriptionEnglish: Path with view to a village
+    DescriptionPlatt: Feldwech mid Blick opp en Dorp
+    Date: 1953
+    DateEnglish: 1953
+    Technique: Bleistiftzeichnung
+    TechniqueEnglish: Pencil
+    TechniquePlatt: Bild emaakt mid Blisticken
+    Dimensions: 32,0 x 46,0 cm
+    LatiAndLongitude: "52\xB008'01.1\"N 11\xB011'38.4\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 8
+        seconds: 1.1
+      longitude:
+        degrees: 11
+        minutes: 11
+        seconds: 38.4
+    FileName: V_22_00_16_921
+    Image: {fileID: 21300000, guid: 2f81db372c19937478ec69d10dd5d95f, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Wormsdorf
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: August Bratfisch (1883-1960)
+    Description: Blick auf Eggenstedt
+    DescriptionEnglish: View of Eggenstedt
+    DescriptionPlatt: "Blick opp Ejjenst\xE4"
+    Date: 1952
+    DateEnglish: 1952
+    Technique: Bleistiftzeichnung
+    TechniqueEnglish: Pencil
+    TechniquePlatt: Bild emaakt mid Blisticken
+    Dimensions: 32,0 x 46,0 cm
+    LatiAndLongitude: "52\xB006'05.7\"N 11\xB014'04.0\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 6
+        seconds: 5.7
+      longitude:
+        degrees: 11
+        minutes: 14
+        seconds: 4
+    FileName: V_22_00_16_922
+    Image: {fileID: 21300000, guid: e8d517ec95b5eb9489128fdfe33ab81d, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Eggenstedt
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: August Bratfisch (1883-1960)
+    Description: "Gepflasterte Stra\xDFe an Feldern"
+    DescriptionEnglish: Paved road and fields
+    DescriptionPlatt: Jeplasterte Strate an Felle lang
+    Date: 1953
+    DateEnglish: 1953
+    Technique: Bleistiftzeichnung
+    TechniqueEnglish: Pencil
+    TechniquePlatt: Bild emaakt mid Blisticken
+    Dimensions: 32,0 x 46,2 cm
+    LatiAndLongitude: "52\xB006'50.5\"N 11\xB012'05.1\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 6
+        seconds: 50.5
+      longitude:
+        degrees: 11
+        minutes: 12
+        seconds: 5.1
+    FileName: V_22_00_16_923
+    Image: {fileID: 21300000, guid: 773bddb464dcea345a5a96dbefd765d6, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Gehringsdorf
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: August Bratfisch (1883-1960)
+    Description: Breiter Weg an Feldern
+    DescriptionEnglish: Wide path and fields
+    DescriptionPlatt: Breiter Wech an Felle lang
+    Date: 1953
+    DateEnglish: 1953
+    Technique: Bleistiftzeichnung
+    TechniqueEnglish: Pencil
+    TechniquePlatt: Bild emaakt mid Blisticken
+    Dimensions: 32,0 x 46,2 cm
+    LatiAndLongitude: "52\xB007'39.6\"N 11\xB019'56.7\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 7
+        seconds: 39.6
+      longitude:
+        degrees: 11
+        minutes: 19
+        seconds: 56.7
+    FileName: V_22_00_16_924
+    Image: {fileID: 21300000, guid: 4484ae4a5c0b7c84d9e11963a52f7d5d, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Dreileben
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: August Bratfisch (1883-1960)
+    Description: Schafherde vor einem Dorf
+    DescriptionEnglish: Flock of sheep by a village
+    DescriptionPlatt: Schaape forr en Dorp
+    Date: 1953
+    DateEnglish: 1953
+    Technique: Bleistiftzeichnung
+    TechniqueEnglish: Pencil
+    TechniquePlatt: Bild emaakt mid Blisticken
+    Dimensions: 32,0 x 46,2 cm
+    LatiAndLongitude: "52\xB006'00.8\"N 11\xB017'33.9\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 6
+        seconds: 0.8
+      longitude:
+        degrees: 11
+        minutes: 17
+        seconds: 33.9
+    FileName: V_22_00_16_925
+    Image: {fileID: 21300000, guid: 6dc2df96924bc564ab8b3fec3fe6832a, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Seehausen
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: August Bratfisch (1883-1960)
+    Description: "Str\xE4ucher vor einem Dorf"
+    DescriptionEnglish: Shrubbs by a village
+    DescriptionPlatt: Buschwark forr en Dorp
+    Date: 1951
+    DateEnglish: 1951
+    Technique: Bleistiftzeichnung
+    TechniqueEnglish: Pencil
+    TechniquePlatt: Bild emaakt mid Blisticken
+    Dimensions: 32,0 x 46,3 cm
+    LatiAndLongitude: "52\xB005'26.8\"N 11\xB025'59.9\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 5
+        seconds: 26.8
+      longitude:
+        degrees: 11
+        minutes: 25
+        seconds: 59.9
+    FileName: V_22_00_16_926
+    Image: {fileID: 21300000, guid: 9ecb8ccafe767f249aef01d22ec0c90f, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Domersleben
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: August Bratfisch (1883-1960)
+    Description: "Bew\xF6lkter Himmel \xFCber verschiedenen Gr\xE4sern"
+    DescriptionEnglish: Clouded sky over various grasses
+    DescriptionPlatt: "Wulken  an`n Hewen ower de Jr\xE4ser"
+    Date: 1951
+    DateEnglish: 1951
+    Technique: Bleistiftzeichnung
+    TechniqueEnglish: Pencil
+    TechniquePlatt: Bild emaakt mid Blisticken
+    Dimensions: 32,0 x 46,2 cm
+    LatiAndLongitude: "52\xB003'49.0\"N 11\xB028'43.7\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 3
+        seconds: 49
+      longitude:
+        degrees: 11
+        minutes: 28
+        seconds: 43.7
+    FileName: V_22_00_16_927
+    Image: {fileID: 21300000, guid: 14dca3569c881d3439e0d330a5d522e3, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Faule See
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: August Bratfisch (1883-1960)
+    Description: "Gepflasterte Stra\xDFe bei Bahngleisen"
+    DescriptionEnglish: Paved road by train tracks
+    DescriptionPlatt: Jeplasterte Straate bie de Bahngleise
+    Date: 1951
+    DateEnglish: 1951
+    Technique: Bleistiftzeichnung
+    TechniqueEnglish: Pencil
+    TechniquePlatt: Bild emaakt mid Blisticken
+    Dimensions: 32,0 x 46,2 cm
+    LatiAndLongitude: "52\xB002'58.9\"N 11\xB029'09.7\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 2
+        seconds: 58.9
+      longitude:
+        degrees: 11
+        minutes: 29
+        seconds: 9.7
+    FileName: V_22_00_16_928
+    Image: {fileID: 21300000, guid: 24d580ccf6a73434ab8a3ec6e5914c9b, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Buch
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: August Bratfisch (1883-1960)
+    Description: Landschaft mit Telefonmasten
+    DescriptionEnglish: Landscape with telephone posts
+    DescriptionPlatt: "Landschaft mid Telefonp\xE4le"
+    Date: 1952
+    DateEnglish: 1952
+    Technique: Bleistiftzeichnung
+    TechniqueEnglish: Pencil
+    TechniquePlatt: Bild emaakt mid Blisticken
+    Dimensions: 32,0 x 46,0 cm
+    LatiAndLongitude: "52\xB002'02.5\"N 11\xB027'31.4\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 2
+        seconds: 2.5
+      longitude:
+        degrees: 11
+        minutes: 27
+        seconds: 31.4
+    FileName: V_22_00_16_933
+    Image: {fileID: 21300000, guid: ad69bd245a6eeae4784f5262a2d5faa8, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Blumenberg
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: August Bratfisch (1883-1960)
+    Description: "Blick \xFCber Feld auf eine zweit\xFCrmige Kirche"
+    DescriptionEnglish: 'View of a church with two towers across a field '
+    DescriptionPlatt: "Blick ower en Acker opp ne Kerche mid twei T\xF6rme"
+    Date: 1952
+    DateEnglish: 1952
+    Technique: Bleistiftzeichnung
+    TechniqueEnglish: Pencil
+    TechniquePlatt: Bild emaakt mid Blisticken
+    Dimensions: 32,0 x 46,3 cm
+    LatiAndLongitude: "51\xB059'58.8\"N 11\xB033'31.2\"E"
+    GpsCoords:
+      latitude:
+        degrees: 51
+        minutes: 59
+        seconds: 58.8
+      longitude:
+        degrees: 11
+        minutes: 33
+        seconds: 31.2
+    FileName: V_22_00_16_940
+    Image: {fileID: 21300000, guid: d7991cb677274144c97a2e511f4aec08, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Bahrendorf
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: August Bratfisch (1883-1960)
+    Description: "Dorfstra\xDFe mit H\xFChnern"
+    DescriptionEnglish: Village road with chicken
+    DescriptionPlatt: "Dorpstrate mid H\xE4uner"
+    Date: 1952
+    DateEnglish: 1952
+    Technique: Bleistiftzeichnung
+    TechniqueEnglish: Pencil
+    TechniquePlatt: Bild emaakt mid Blisticken
+    Dimensions: 32,0 x 46,2 cm
+    LatiAndLongitude: "52\xB000'12.9\"N 11\xB021'51.7\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 0
+        seconds: 12.9
+      longitude:
+        degrees: 11
+        minutes: 21
+        seconds: 51.7
+    FileName: V_22_00_16_941
+    Image: {fileID: 21300000, guid: 80d7e4597c57f8946bf938049b9fe54b, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: "Gro\xDF Germersleben"
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: August Bratfisch (1883-1960)
+    Description: Kornpuppen und Dorfkirche
+    DescriptionEnglish: Sheaves and village church
+    DescriptionPlatt: Koornpuppen un Dorpkerche
+    Date: 1952
+    DateEnglish: 1952
+    Technique: Bleistiftzeichnung
+    TechniqueEnglish: Pencil
+    TechniquePlatt: Bild emaakt mid Blisticken
+    Dimensions: 32,0 x 46,2 cm
+    LatiAndLongitude: "51\xB058'43.8\"N 11\xB024'48.8\"E"
+    GpsCoords:
+      latitude:
+        degrees: 51
+        minutes: 58
+        seconds: 43.8
+      longitude:
+        degrees: 11
+        minutes: 24
+        seconds: 48.8
+    FileName: V_22_00_16_942
+    Image: {fileID: 21300000, guid: d850b55cc59aefb48b9268ddafb43771, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Etgersleben
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: August Bratfisch (1883-1960)
+    Description: Kornpuppen vor einem Dorf
+    DescriptionEnglish: Sheaves by a village
+    DescriptionPlatt: Koornpuppen forr en Dorp
+    Date: 1952
+    DateEnglish: 1952
+    Technique: Bleistiftzeichnung
+    TechniqueEnglish: Pencil
+    TechniquePlatt: Bild emaakt mid Blisticken
+    Dimensions: 32,0 x 46,0 cm
+    LatiAndLongitude: "52\xB000'32.5\"N 11\xB020'20.8\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 0
+        seconds: 32.5
+      longitude:
+        degrees: 11
+        minutes: 20
+        seconds: 20.8
+    FileName: V_22_00_16_943
+    Image: {fileID: 21300000, guid: 3d5996c49e553d04c8aeb95216a94115, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Klein Oschersleben
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: August Bratfisch (1883-1960)
+    Description: "Beladenes Fuhrwerk auf der Stra\xDFe"
+    DescriptionEnglish: Loaded cart on a road
+    DescriptionPlatt: Belaaner Ackerwaan opp de Strate
+    Date: 1952
+    DateEnglish: 1952
+    Technique: Bleistiftzeichnung
+    TechniqueEnglish: Pencil
+    TechniquePlatt: Bild emaakt mid Blisticken
+    Dimensions: 32,0 x 46,3 cm
+    LatiAndLongitude: "52\xB001'48.0\"N 11\xB025'50.7\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 1
+        seconds: 48
+      longitude:
+        degrees: 11
+        minutes: 25
+        seconds: 50.7
+    FileName: V_22_00_16_944
+    Image: {fileID: 21300000, guid: 90c0028b68545e24789598189c5aaa45, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Bottmersdorf
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: August Bratfisch (1883-1960)
+    Description: "Kornfeld vor einem Dorf mit Windm\xFChle"
+    DescriptionEnglish: Field by a village with a windmill
+    DescriptionPlatt: "Koornfeld forr en Dorp mid Windm\xF6lle"
+    Date: um 1950
+    DateEnglish: around 1950
+    Technique: Bleistiftzeichnung
+    TechniqueEnglish: Pencil
+    TechniquePlatt: Bild emaakt mid Blisticken
+    Dimensions: 32,0 x 46,2 cm
+    LatiAndLongitude: "52\xB006'57.3\"N 11\xB026'15.8\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 6
+        seconds: 57.3
+      longitude:
+        degrees: 11
+        minutes: 26
+        seconds: 15.8
+    FileName: V_22_00_16_945
+    Image: {fileID: 21300000, guid: beff7abb163ffdb4ab6b414a32164156, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Klein Rodensleben
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: August Bratfisch (1883-1960)
+    Description: Baumgruppen und kleine Dorfkiche im Winter
+    DescriptionEnglish: Groups of trees and small village church in the winter
+    DescriptionPlatt: "B\xF6me und l\xFCttje Dorpkerche in`n Winter"
+    Date: 1953
+    DateEnglish: 1953
+    Technique: Wachsstiftzeichnung
+    TechniqueEnglish: Wax crayon
+    TechniquePlatt: Bild emaakt mid Wasssticken
+    Dimensions: 32,0 x 46,0 cm
+    LatiAndLongitude: "52\xB003'41.4\"N 11\xB026'26.0\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 3
+        seconds: 41.4
+      longitude:
+        degrees: 11
+        minutes: 26
+        seconds: 26
+    FileName: V_22_00_16_906
+    Image: {fileID: 21300000, guid: c325f2308c6d0b84b8be6436af864c13, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Wanzleben
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: August Bratfisch (1883-1960)
+    Description: Loitsche
+    DescriptionEnglish: The village of Loitsche
+    DescriptionPlatt: Loitsche
+    Date: 1926
+    DateEnglish: 1926
+    Technique: "\xD6lmalerei"
+    TechniqueEnglish: Oil painting
+    TechniquePlatt: "\xD6lmalerie"
+    Dimensions: 60 x 71 cm
+    LatiAndLongitude: "52\xB018'07.4\"N 11\xB041'33.6\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 18
+        seconds: 7.4
+      longitude:
+        degrees: 11
+        minutes: 41
+        seconds: 33.6
+    FileName: V_22_00_16_162
+    Image: {fileID: 21300000, guid: bbd553730b65557468ad80e0dbb9dd80, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Loitsche
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: August Bratfisch (1883-1960)
+    Description: Salchau
+    DescriptionEnglish: The area of Salchau
+    DescriptionPlatt: Salchau
+    Date: um 1930
+    DateEnglish: around 1930
+    Technique: "\xD6lmalerei"
+    TechniqueEnglish: Oil painting
+    TechniquePlatt: "\xD6lmalerie"
+    Dimensions: 70 x 84 cm
+    LatiAndLongitude: "52\xB026'16.6\"N 11\xB035'04.7\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 26
+        seconds: 16.6
+      longitude:
+        degrees: 11
+        minutes: 35
+        seconds: 4.7
+    FileName: V_22_00_16_166
+    Image: {fileID: 21300000, guid: c9c636445895bee43b8717f8e84c7fd1, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Salchau
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: August Bratfisch (1883-1960)
+    Description: Zielitz
+    DescriptionEnglish: The village of Zielitz
+    DescriptionPlatt: Zielitz
+    Date: 1939
+    DateEnglish: 1939
+    Technique: "\xD6lmalerei"
+    TechniqueEnglish: Oil painting
+    TechniquePlatt: "\xD6lmalerie"
+    Dimensions: 70 x 79 cm
+    LatiAndLongitude: "52\xB018'20.3\"N 11\xB040'04.6\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 18
+        seconds: 20.3
+      longitude:
+        degrees: 11
+        minutes: 40
+        seconds: 4.6
+    FileName: V_22_00_16_172
+    Image: {fileID: 21300000, guid: 9f54f9d553dde67438c881b0f5a46ee4, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Zielitz
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: August Bratfisch (1883-1960)
+    Description: Loitsche
+    DescriptionEnglish: The village of Loitsche
+    DescriptionPlatt: Loitsche
+    Date: 1937
+    DateEnglish: 1937
+    Technique: "\xD6lmalerei"
+    TechniqueEnglish: Oil painting
+    TechniquePlatt: "\xD6lmalerie"
+    Dimensions: 70 x 79 cm
+    LatiAndLongitude: "52\xB017'52.4\"N 11\xB042'05.7\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 17
+        seconds: 52.4
+      longitude:
+        degrees: 11
+        minutes: 42
+        seconds: 5.7
+    FileName: V_22_00_16_174
+    Image: {fileID: 21300000, guid: 9f9db6a25432b5f439e42d1409cc074f, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Loitsche
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: August Bratfisch (1883-1960)
+    Description: Salchau
+    DescriptionEnglish: Salchau
+    DescriptionPlatt: Salchau
+    Date: 1930
+    DateEnglish: 1930
+    Technique: "\xD6lmalerei"
+    TechniqueEnglish: Oil painting
+    TechniquePlatt: "\xD6lmalerie"
+    Dimensions: 70 x 81 cm
+    LatiAndLongitude: "52\xB026'16.6\"N 11\xB035'04.7\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 26
+        seconds: 16.6
+      longitude:
+        degrees: 11
+        minutes: 35
+        seconds: 4.7
+    FileName: V_22_00_16_175
+    Image: {fileID: 21300000, guid: ada83eb52bfa96948b785b425db40b77, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Salchau
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: August Bratfisch (1883-1960)
+    Description: Salchau - Waldweg
+    DescriptionEnglish: Path through a forest in the area of Salchau
+    DescriptionPlatt: Salchau - Holtwech
+    Date: um 1930
+    DateEnglish: around 1930
+    Technique: "\xD6lmalerei"
+    TechniqueEnglish: Oil painting
+    TechniquePlatt: "\xD6lmalerie"
+    Dimensions: 69 x 82 cm
+    LatiAndLongitude: "52\xB026'16.6\"N 11\xB035'04.7\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 26
+        seconds: 16.6
+      longitude:
+        degrees: 11
+        minutes: 35
+        seconds: 4.7
+    FileName: V_22_00_16_179
+    Image: {fileID: 21300000, guid: 6040e468a5856bb4fa074a2fa23027c5, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Salchau
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: August Bratfisch (1883-1960)
+    Description: Zielitz
+    DescriptionEnglish: The village of Zielitz
+    DescriptionPlatt: Zielitz
+    Date: 1938
+    DateEnglish: 1938
+    Technique: "\xD6lmalerei"
+    TechniqueEnglish: Oil painting
+    TechniquePlatt: "\xD6lmalerie"
+    Dimensions: 70 x 80 cm
+    LatiAndLongitude: "52\xB017'21.2\"N 11\xB040'36.7\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 17
+        seconds: 21.2
+      longitude:
+        degrees: 11
+        minutes: 40
+        seconds: 36.7
+    FileName: V_22_00_16_180
+    Image: {fileID: 21300000, guid: 58e977e96ae9faa429c27ca9d3ea4f5c, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Zielitz
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: August Bratfisch (1883-1960)
+    Description: "Ansicht von Wanzleben mit den T\xFCrmen der Stadtkirche St. Jacobi"
+    DescriptionEnglish: View of Wanzleben with the towers of St. Jacobi
+    DescriptionPlatt: "Ansicht fonn Wanzl\xE4 mid de T\xF6rme fonn de Jacobikerche"
+    Date: um 1950
+    DateEnglish: around 1950
+    Technique: "\xD6lmalerei"
+    TechniqueEnglish: Oil painting
+    TechniquePlatt: "\xD6lmalerie"
+    Dimensions: 70 x 82 cm
+    LatiAndLongitude: "52\xB003'41.4\"N 11\xB026'26.0\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 3
+        seconds: 41.4
+      longitude:
+        degrees: 11
+        minutes: 26
+        seconds: 26
+    FileName: V_22_00_16_187
+    Image: {fileID: 21300000, guid: 1317b59d13120074b8f74bd3b1cbf715, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Wanzleben
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: August Bratfisch (1883-1960)
+    Description: Salchau
+    DescriptionEnglish: The area of Salchau
+    DescriptionPlatt: Salchau
+    Date: um 1930
+    DateEnglish: around 1930
+    Technique: "\xD6lmalerei"
+    TechniqueEnglish: Oil painting
+    TechniquePlatt: "\xD6lmalerie"
+    Dimensions: 67 x 78 cm
+    LatiAndLongitude: "52\xB026'16.6\"N 11\xB035'04.7\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 26
+        seconds: 16.6
+      longitude:
+        degrees: 11
+        minutes: 35
+        seconds: 4.7
+    FileName: V_22_00_16_188
+    Image: {fileID: 21300000, guid: cda0bb7fb7766734d8311197a60c2fbe, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Salchau
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: August Bratfisch (1883-1960)
+    Description: Salchau
+    DescriptionEnglish: The area of Salchau
+    DescriptionPlatt: Salchau
+    Date: um 1930
+    DateEnglish: around 1930
+    Technique: "\xD6lmalerei"
+    TechniqueEnglish: Oil painting
+    TechniquePlatt: "\xD6lmalerie"
+    Dimensions: 67 x 78 cm
+    LatiAndLongitude: "52\xB026'16.6\"N 11\xB035'04.7\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 26
+        seconds: 16.6
+      longitude:
+        degrees: 11
+        minutes: 35
+        seconds: 4.7
+    FileName: V_22_00_16_189
+    Image: {fileID: 21300000, guid: 38258eb0a8cca404b9470cc5c7019f41, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Salchau
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: August Bratfisch (1883-1960)
+    Description: Hochsommertag
+    DescriptionEnglish: "A midsummer\u2019s day"
+    DescriptionPlatt: Hochsommerdach
+    Date: unbekannt
+    DateEnglish: unknown
+    Technique: "\xD6lmalerei"
+    TechniqueEnglish: Oil painting
+    TechniquePlatt: "\xD6lmalerie"
+    Dimensions: 56,5 x 67,5 cm
+    LatiAndLongitude: "52\xB017'21.2\"N 11\xB040'36.7\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 17
+        seconds: 21.2
+      longitude:
+        degrees: 11
+        minutes: 40
+        seconds: 36.7
+    FileName: V_22_00_16_191
+    Image: {fileID: 21300000, guid: c12e0735bf66c5045b2b94625d560bff, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Zielitz
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: August Bratfisch (1883-1960)
+    Description: Kiefernwald (Salchau)
+    DescriptionEnglish: A pine-forest in the area of Salchau
+    DescriptionPlatt: Kiewernholt (Salchau)
+    Date: um 1930
+    DateEnglish: around 1930
+    Technique: "\xD6lmalerei"
+    TechniqueEnglish: Oil painting
+    TechniquePlatt: "\xD6lmalerie"
+    Dimensions: 73 x 61 cm
+    LatiAndLongitude: "52\xB026'16.6\"N 11\xB035'04.7\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 26
+        seconds: 16.6
+      longitude:
+        degrees: 11
+        minutes: 35
+        seconds: 4.7
+    FileName: V_22_00_16_353
+    Image: {fileID: 21300000, guid: 530b39fd031c7bd44a65bec621b92c79, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Salchau
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: August Bratfisch (1883-1960)
+    Description: "Bahn\xFCbergang Loitsche"
+    DescriptionEnglish: Train crossing near Loitsche
+    DescriptionPlatt: Bahnowerjang Loitsche
+    Date: 1936
+    DateEnglish: 1936
+    Technique: "\xD6lmalerei"
+    TechniqueEnglish: Oil painting
+    TechniquePlatt: "\xD6lmalerie"
+    Dimensions: 61 x 71 cm
+    LatiAndLongitude: "52\xB017'52.4\"N 11\xB042'05.7\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 17
+        seconds: 52.4
+      longitude:
+        degrees: 11
+        minutes: 42
+        seconds: 5.7
+    FileName: V_22_00_16_355
+    Image: {fileID: 21300000, guid: fe176703741bddd49b70a5bb5dee2125, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Loitsche
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: August Bratfisch (1883-1960)
+    Description: Salchau
+    DescriptionEnglish: The area of Salchau
+    DescriptionPlatt: Salchau
+    Date: um 1930
+    DateEnglish: around 1930
+    Technique: "\xD6lmalerei"
+    TechniqueEnglish: Oil painting
+    TechniquePlatt: "\xD6lmalerie"
+    Dimensions: 61 x 71 cm
+    LatiAndLongitude: "52\xB026'16.6\"N 11\xB035'04.7\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 26
+        seconds: 16.6
+      longitude:
+        degrees: 11
+        minutes: 35
+        seconds: 4.7
+    FileName: V_22_00_16_356
+    Image: {fileID: 21300000, guid: 6892249cee435fe44a7d9cf8cd24809f, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Salchau
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: August Bratfisch (1883-1960)
+    Description: Farsleben
+    DescriptionEnglish: The village Farsleben
+    DescriptionPlatt: "Farsl\xE4"
+    Date: 1937
+    DateEnglish: 1937
+    Technique: "\xD6lmalerei"
+    TechniqueEnglish: Oil painting
+    TechniquePlatt: "\xD6lmalerie"
+    Dimensions: 60 x 71 cm
+    LatiAndLongitude: "52\xB016'44.1\"N 11\xB039'34.0\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 16
+        seconds: 44.1
+      longitude:
+        degrees: 11
+        minutes: 39
+        seconds: 34
+    FileName: V_22_00_16_357
+    Image: {fileID: 21300000, guid: c3eb5a3bd4df7c34abbfced318caaf9d, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Farsleben
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: August Bratfisch (1883-1960)
+    Description: Salchau
+    DescriptionEnglish: The area of Salchau
+    DescriptionPlatt: Salchau
+    Date: um 1930
+    DateEnglish: around 1930
+    Technique: "\xD6lmalerei"
+    TechniqueEnglish: Oil painting
+    TechniquePlatt: "\xD6lmalerie"
+    Dimensions: 74 x 58 cm
+    LatiAndLongitude: "52\xB026'16.6\"N 11\xB035'04.7\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 26
+        seconds: 16.6
+      longitude:
+        degrees: 11
+        minutes: 35
+        seconds: 4.7
+    FileName: V_22_00_16_359
+    Image: {fileID: 21300000, guid: 0462f79e39358d84ba3983d5ecfcdace, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Salchau
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: "Carl H\xFChnichen"
+    Description: Klein Wanzleben
+    DescriptionEnglish: The town of Klein Wanzleben
+    DescriptionPlatt: "L\xFCttchen Wanzl\xE4"
+    Date: 1863
+    DateEnglish: 1863
+    Technique: Aquarell
+    TechniqueEnglish: Aquarell
+    TechniquePlatt: Aquarell
+    Dimensions: 21 x 48 cm
+    LatiAndLongitude: "52\xB004'15.8\"N 11\xB021'54.6\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 4
+        seconds: 15.8
+      longitude:
+        degrees: 11
+        minutes: 21
+        seconds: 54.6
+    FileName: V_22_00_04_18
+    Image: {fileID: 21300000, guid: 95d52da593285324cab81e7f28256229, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Klein Wanzleben
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: Daisy Roderich-Huch (1894-1983)
+    Description: Kirche in Ampfurth
+    DescriptionEnglish: Church in Ampfurth
+    DescriptionPlatt: Kerche in Ampfurth
+    Date: um 1950
+    DateEnglish: ca. 1950
+    Technique: Aquarell
+    TechniqueEnglish: Aquarell
+    TechniquePlatt: Bild emaakt mid Waterfarwe
+    Dimensions: 40 x 30 cm
+    LatiAndLongitude: "52\xB003'49.0\"N 11\xB018'50.5\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 3
+        seconds: 49
+      longitude:
+        degrees: 11
+        minutes: 18
+        seconds: 50.5
+    FileName: V_22_00_17_105
+    Image: {fileID: 21300000, guid: 59de5552b4d03ba4cb05d6ddfe717ce4, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Ampfurth
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: Daisy Roderich-Huch (1894-1983)
+    Description: Kirchturm in Ampfurth
+    DescriptionEnglish: Tower of the church of Ampfurth
+    DescriptionPlatt: Kerchtorm in Ampfurth
+    Date: um 1950
+    DateEnglish: ca. 1950
+    Technique: Federzeichnung
+    TechniqueEnglish: Pen drawing
+    TechniquePlatt: Bild emaakt mid Fedder
+    Dimensions: 32,5 x 23,8 cm
+    LatiAndLongitude: "52\xB003'49.0\"N 11\xB018'50.5\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 3
+        seconds: 49
+      longitude:
+        degrees: 11
+        minutes: 18
+        seconds: 50.5
+    FileName: V_22_00_17_38
+    Image: {fileID: 21300000, guid: d66fa6dc7e365934384270c7e3f352d0, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Ampfurth
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: Daisy Roderich-Huch (1894-1983)
+    Description: "Dorfstra\xDFe Ampfurth"
+    DescriptionEnglish: Village road in Ampfurth
+    DescriptionPlatt: Dorpstrate Ampfurth
+    Date: um 1950
+    DateEnglish: ca. 1950
+    Technique: Federzeichnung
+    TechniqueEnglish: Pen drawing
+    TechniquePlatt: Bild emaakt mid Fedder
+    Dimensions: 26,7 x 24 cm
+    LatiAndLongitude: "52\xB003'49.0\"N 11\xB018'50.5\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 3
+        seconds: 49
+      longitude:
+        degrees: 11
+        minutes: 18
+        seconds: 50.5
+    FileName: V_22_00_17_45
+    Image: {fileID: 21300000, guid: 6690ef4d3ac98dc45818134ed7a7bfab, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Ampfurth
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: Daisy Roderich-Huch (1894-1983)
+    Description: Kirchhof in Ampfurth
+    DescriptionEnglish: Churchyard in Ampfurth
+    DescriptionPlatt: Kerchhoff in Ampfurth
+    Date: um 1950
+    DateEnglish: ca. 1950
+    Technique: Federzeichnung
+    TechniqueEnglish: Pen drawing
+    TechniquePlatt: Bild emaakt mid Fedder
+    Dimensions: 32,5 x 23,9 cm
+    LatiAndLongitude: "52\xB003'49.0\"N 11\xB018'50.5\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 3
+        seconds: 49
+      longitude:
+        degrees: 11
+        minutes: 18
+        seconds: 50.5
+    FileName: V_22_00_17_46
+    Image: {fileID: 21300000, guid: 9adeadd90c834c64faf869100b7433bc, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Ampfurth
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: Daisy Roderich-Huch (1894-1983)
+    Description: Kirche in Ampfurth
+    DescriptionEnglish: Church in Ampfurth
+    DescriptionPlatt: Kerche in Ampfurth
+    Date: um 1950
+    DateEnglish: ca. 1950
+    Technique: Federzeichnung
+    TechniqueEnglish: Pen drawing
+    TechniquePlatt: Bild emaakt mid Fedder
+    Dimensions: 24 x 32,5 cm
+    LatiAndLongitude: "52\xB003'49.0\"N 11\xB018'50.5\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 3
+        seconds: 49
+      longitude:
+        degrees: 11
+        minutes: 18
+        seconds: 50.5
+    FileName: V_22_00_17_56
+    Image: {fileID: 21300000, guid: cfff0b7e1ccd51943bdc682ab84fa10e, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Ampfurth
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: Daisy Roderich-Huch (1894-1983)
+    Description: Portal des Schlossturmes Ampfurth
+    DescriptionEnglish: Portal of the tower of Castle Ampfurth
+    DescriptionPlatt: Injang Slosstorm Ampfurth
+    Date: um 1950
+    DateEnglish: ca. 1950
+    Technique: Federzeichnung, aquarelliert
+    TechniqueEnglish: Pen drawing
+    TechniquePlatt: Bild emaakt mid Fedder, aquarelliert
+    Dimensions: 32 x 24 cm
+    LatiAndLongitude: "52\xB003'49.0\"N 11\xB018'50.5\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 3
+        seconds: 49
+      longitude:
+        degrees: 11
+        minutes: 18
+        seconds: 50.5
+    FileName: V_22_00_17_61
+    Image: {fileID: 21300000, guid: 9aa29635db2340942b43fb4efbbfae7f, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Ampfurth
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: Daisy Roderich-Huch (1894-1983)
+    Description: Altes Rathaus, Hadmersleben
+    DescriptionEnglish: Old townhall of Hadmersleben
+    DescriptionPlatt: Dat oole Rathuus
+    Date: um 1950
+    DateEnglish: ca. 1950
+    Technique: Radierung
+    TechniqueEnglish: Etching
+    TechniquePlatt: Radierung
+    Dimensions: 31,2 x 44 cm
+    LatiAndLongitude: "51\xB059'33.2\"N 11\xB018'07.9\"E"
+    GpsCoords:
+      latitude:
+        degrees: 51
+        minutes: 59
+        seconds: 33.2
+      longitude:
+        degrees: 11
+        minutes: 18
+        seconds: 7.9
+    FileName: V_22_00_17_120
+    Image: {fileID: 21300000, guid: affa5e76bb407114e9b12cf3a803d773, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Hadmersleben
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: Daisy Roderich-Huch (1894-1983)
+    Description: Hadmersleben
+    DescriptionEnglish: The village of Hadmersleben
+    DescriptionPlatt: "Hadmersl\xE4"
+    Date: um 1950
+    DateEnglish: ca. 1950
+    Technique: Federzeichnung
+    TechniqueEnglish: Pen drawing
+    TechniquePlatt: Bild emaakt mid Fedder
+    Dimensions: 20 x 19,7 cm
+    LatiAndLongitude: "51\xB059'33.2\"N 11\xB018'07.9\"E"
+    GpsCoords:
+      latitude:
+        degrees: 51
+        minutes: 59
+        seconds: 33.2
+      longitude:
+        degrees: 11
+        minutes: 18
+        seconds: 7.9
+    FileName: V_22_00_17_39
+    Image: {fileID: 21300000, guid: a10086d09f1be52488d9f8054e88e12c, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Hadmersleben
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: Daisy Roderich-Huch (1894-1983)
+    Description: Hansescher Hof Hadmersleben
+    DescriptionEnglish: The Hanse-farmyard of Hadmersleben
+    DescriptionPlatt: "Hansescher Hoff Hadmersl\xE4"
+    Date: um 1950
+    DateEnglish: ca. 1950
+    Technique: Federzeichnung
+    TechniqueEnglish: Pen drawing
+    TechniquePlatt: Bild emaakt midFedder, Federzeichnung
+    Dimensions: 19,7 x 20 cm
+    LatiAndLongitude: "51\xB059'33.2\"N 11\xB018'07.9\"E"
+    GpsCoords:
+      latitude:
+        degrees: 51
+        minutes: 59
+        seconds: 33.2
+      longitude:
+        degrees: 11
+        minutes: 18
+        seconds: 7.9
+    FileName: V_22_00_17_40
+    Image: {fileID: 21300000, guid: 76bcc8b77c4a43144ae010f4b7aaf25c, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Hadmersleben
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: Daisy Roderich-Huch (1894-1983)
+    Description: Pfarrwinkel Unserer Lieben Frauen, Hadmersleben
+    DescriptionEnglish: "The parish of Unserer Lieben Frauen (\u201Eour dear women\u201C)
+      in Hadmersleben"
+    DescriptionPlatt: "Pasterwinkel Use leiwe Fruun, Hadmersl\xE4"
+    Date: um 1950
+    DateEnglish: ca. 1950
+    Technique: Federzeichnung
+    TechniqueEnglish: Pen drawing
+    TechniquePlatt: Bild emaakt mid Fedder
+    Dimensions: 32,5 x 24 cm
+    LatiAndLongitude: "51\xB059'33.2\"N 11\xB018'07.9\"E"
+    GpsCoords:
+      latitude:
+        degrees: 51
+        minutes: 59
+        seconds: 33.2
+      longitude:
+        degrees: 11
+        minutes: 18
+        seconds: 7.9
+    FileName: V_22_00_17_48
+    Image: {fileID: 21300000, guid: 0a0c11e56fcc5e3408494555ca8b81a6, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Hadmersleben
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: Daisy Roderich-Huch (1894-1983)
+    Description: Altes Rathaus, Hadmersleben
+    DescriptionEnglish: Old townhall of Hadmersleben
+    DescriptionPlatt: "Oolet Rathuus, Hadmersl\xE4"
+    Date: um 1950
+    DateEnglish: ca. 1950
+    Technique: Federzeichnung
+    TechniqueEnglish: Pen drawing
+    TechniquePlatt: Bild emaakt mid Fedder
+    Dimensions: 24,8 x 33,2 cm
+    LatiAndLongitude: "51\xB059'33.2\"N 11\xB018'07.9\"E"
+    GpsCoords:
+      latitude:
+        degrees: 51
+        minutes: 59
+        seconds: 33.2
+      longitude:
+        degrees: 11
+        minutes: 18
+        seconds: 7.9
+    FileName: V_22_00_17_51
+    Image: {fileID: 21300000, guid: 4dc9be68cfc233e47b611d5c0fb0bf97, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Hadmersleben
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: Daisy Roderich-Huch (1894-1983)
+    Description: Ulenturm Hadmersleben
+    DescriptionEnglish: "The \u201EUlenturm\u201C (owl-tower) of Hadmersleben"
+    DescriptionPlatt: "Ulentorm Hadmersl\xE4"
+    Date: um 1950
+    DateEnglish: ca. 1950
+    Technique: Federzeichnung
+    TechniqueEnglish: Pen drawing
+    TechniquePlatt: Bild emaakt mid Fedder
+    Dimensions: 20 x 19,5 cm
+    LatiAndLongitude: "51\xB059'33.2\"N 11\xB018'07.9\"E"
+    GpsCoords:
+      latitude:
+        degrees: 51
+        minutes: 59
+        seconds: 33.2
+      longitude:
+        degrees: 11
+        minutes: 18
+        seconds: 7.9
+    FileName: V_22_00_17_72
+    Image: {fileID: 21300000, guid: 32eaff61b98923f4fb7516fdb00358e0, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Hadmersleben
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: Daisy Roderich-Huch (1894-1983)
+    Description: "Ritterstra\xDFe Hadmersleben"
+    DescriptionEnglish: "Ritterstra\xDFe in Hadmersleben"
+    DescriptionPlatt: "Ridderstrate Hadmersl\xE4"
+    Date: um 1950
+    DateEnglish: ca. 1950
+    Technique: Federzeichnung
+    TechniqueEnglish: Pen drawing
+    TechniquePlatt: Bild emaakt mid Fedder
+    Dimensions: 19,5 x 20 cm
+    LatiAndLongitude: "51\xB059'33.2\"N 11\xB018'07.9\"E"
+    GpsCoords:
+      latitude:
+        degrees: 51
+        minutes: 59
+        seconds: 33.2
+      longitude:
+        degrees: 11
+        minutes: 18
+        seconds: 7.9
+    FileName: V_22_00_17_75
+    Image: {fileID: 21300000, guid: df83d38dfea7b6e4cb63c65c17091814, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Hadmersleben
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: Daisy Roderich-Huch (1894-1983)
+    Description: "Ritterstra\xDFe Hadmersleben"
+    DescriptionEnglish: "Ritterstra\xDFe in Hadmersleben"
+    DescriptionPlatt: "Ridderstrate Hadmersl\xE4"
+    Date: um 1950
+    DateEnglish: ca. 1950
+    Technique: Radierung
+    TechniqueEnglish: Etching
+    TechniquePlatt: Radierung
+    Dimensions: 22 x 31,3 cm
+    LatiAndLongitude: "51\xB059'33.2\"N 11\xB018'07.9\"E"
+    GpsCoords:
+      latitude:
+        degrees: 51
+        minutes: 59
+        seconds: 33.2
+      longitude:
+        degrees: 11
+        minutes: 18
+        seconds: 7.9
+    FileName: V_22_00_17_82a
+    Image: {fileID: 21300000, guid: 2321a842b44c8c54c821b11a15c1669b, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Hadmersleben
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: Daisy Roderich-Huch (1894-1983)
+    Description: Ulenturm Hadmersleben
+    DescriptionEnglish: "The \u201EUlenturm\u201C (owl-tower) of Hadmersleben"
+    DescriptionPlatt: "Ulentorm Hadmersl\xE4"
+    Date: 1950
+    DateEnglish: 1950
+    Technique: Radierung
+    TechniqueEnglish: Etching
+    TechniquePlatt: Radierung
+    Dimensions: 31,3 x 24,4 cm
+    LatiAndLongitude: "51\xB059'33.2\"N 11\xB018'07.9\"E"
+    GpsCoords:
+      latitude:
+        degrees: 51
+        minutes: 59
+        seconds: 33.2
+      longitude:
+        degrees: 11
+        minutes: 18
+        seconds: 7.9
+    FileName: V_22_00_17_84a
+    Image: {fileID: 21300000, guid: ccadf4e3e726f7d45a22a29aea997af5, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Hadmersleben
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: Daisy Roderich-Huch (1894-1983)
+    Description: Gartenlandschaft
+    DescriptionEnglish: Landscape of gardens
+    DescriptionPlatt: 'Gaarnlandschaft '
+    Date: um 1950
+    DateEnglish: ca. 1950
+    Technique: Federzeichnung
+    TechniqueEnglish: Pen drawing
+    TechniquePlatt: Bild emaakt mid Fedder
+    Dimensions: 13,2 x 20,9 cm
+    LatiAndLongitude: "52\xB004'15.8\"N 11\xB021'54.6\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 4
+        seconds: 15.8
+      longitude:
+        degrees: 11
+        minutes: 21
+        seconds: 54.6
+    FileName: V_22_00_17_10
+    Image: {fileID: 21300000, guid: 306b85e3e48fd984da3e7ebf02f8cf92, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Klein Wanzleben
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: Daisy Roderich-Huch (1894-1983)
+    Description: "Stra\xDFe in Klein Wanzleben"
+    DescriptionEnglish: Road in Klein Wanzleben
+    DescriptionPlatt: "Strate in L\xFCttchen Wanzl\xE4"
+    Date: um 1950
+    DateEnglish: ca. 1950
+    Technique: Aquarell
+    TechniqueEnglish: Aquarell
+    TechniquePlatt: Bild emaakt mid Waterfarwe
+    Dimensions: 39,5 x 49,5 cm
+    LatiAndLongitude: "52\xB004'15.8\"N 11\xB021'54.6\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 4
+        seconds: 15.8
+      longitude:
+        degrees: 11
+        minutes: 21
+        seconds: 54.6
+    FileName: V_22_00_17_137
+    Image: {fileID: 21300000, guid: bdcc1b7a7742ac04286719da53bd8bd7, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Klein Wanzleben
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: Daisy Roderich-Huch (1894-1983)
+    Description: "Knippigs M\xFChle"
+    DescriptionEnglish: "Knippig\u2019s Mill"
+    DescriptionPlatt: "Knippigs M\xF6lle"
+    Date: um 1950
+    DateEnglish: ca. 1950
+    Technique: Radierung
+    TechniqueEnglish: Etching
+    TechniquePlatt: Radierung
+    Dimensions: 31 x 22 cm
+    LatiAndLongitude: "52\xB004'15.8\"N 11\xB021'54.6\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 4
+        seconds: 15.8
+      longitude:
+        degrees: 11
+        minutes: 21
+        seconds: 54.6
+    FileName: V_22_00_17_141
+    Image: {fileID: 21300000, guid: f1f1116ddecb46b488c09ec51da8e2aa, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Klein Wanzleben
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: Daisy Roderich-Huch (1894-1983)
+    Description: "Parkstra\xDFe Klein Wanzleben"
+    DescriptionEnglish: "The Parkstra\xDFe in Klein Wanzleben"
+    DescriptionPlatt: "Parkstrate L\xFCttchen Wanzl\xE4"
+    Date: um 1950
+    DateEnglish: ca. 1950
+    Technique: Radierung
+    TechniqueEnglish: Etching
+    TechniquePlatt: Radierung
+    Dimensions: 21,8 x 15,3 cm
+    LatiAndLongitude: "52\xB004'15.8\"N 11\xB021'54.6\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 4
+        seconds: 15.8
+      longitude:
+        degrees: 11
+        minutes: 21
+        seconds: 54.6
+    FileName: V_22_00_17_17
+    Image: {fileID: 21300000, guid: 7dab6f270e625a54fa18409c5153ad77, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Klein Wanzleben
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: Daisy Roderich-Huch (1894-1983)
+    Description: Sankt Johannis Klein Wanzleben
+    DescriptionEnglish: The church of St. Johannis in Klein Wanzleben
+    DescriptionPlatt: "Johanniskerche L\xFCttchen Wanzl\xE4"
+    Date: um 1950
+    DateEnglish: ca. 1950
+    Technique: Radierung
+    TechniqueEnglish: Etching
+    TechniquePlatt: Radierung
+    Dimensions: 21,7 x 15,3 cm
+    LatiAndLongitude: "52\xB004'15.8\"N 11\xB021'54.6\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 4
+        seconds: 15.8
+      longitude:
+        degrees: 11
+        minutes: 21
+        seconds: 54.6
+    FileName: V_22_00_17_18
+    Image: {fileID: 21300000, guid: 169519782b969e44d84cc8c7b8ad3dd2, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Klein Wanzleben
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: Daisy Roderich-Huch (1894-1983)
+    Description: Dorfplatz Klein Wanzleben
+    DescriptionEnglish: A square in Klein Wanzleben
+    DescriptionPlatt: "Dorpstidde L\xFCttchen Wanzl\xE4"
+    Date: um 1950
+    DateEnglish: ca. 1950
+    Technique: Federzeichnung
+    TechniqueEnglish: Pen drawing
+    TechniquePlatt: 'Bild emaakt mid Fedder '
+    Dimensions: 25,6 x 36,6 cm
+    LatiAndLongitude: "52\xB004'15.8\"N 11\xB021'54.6\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 4
+        seconds: 15.8
+      longitude:
+        degrees: 11
+        minutes: 21
+        seconds: 54.6
+    FileName: V_22_00_17_25
+    Image: {fileID: 21300000, guid: 83995b42cfaadfe4d8f7333b4b6df248, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Klein Wanzleben
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: Daisy Roderich-Huch (1894-1983)
+    Description: Friedhofskapelle in Klein Wanzleben
+    DescriptionEnglish: The chapel of the cemetery in Klein Wanzleben
+    DescriptionPlatt: "Kerchhoffskapelle in L\xFCttchen Wanzl\xE4"
+    Date: um 1950
+    DateEnglish: ca. 1950
+    Technique: Radierung
+    TechniqueEnglish: Etching
+    TechniquePlatt: Bild emaakt mid Fedder
+    Dimensions: 22 x 31,5 cm
+    LatiAndLongitude: "52\xB004'15.8\"N 11\xB021'54.6\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 4
+        seconds: 15.8
+      longitude:
+        degrees: 11
+        minutes: 21
+        seconds: 54.6
+    FileName: V_22_00_17_80a
+    Image: {fileID: 21300000, guid: 925b3049e2d5e644a831da4256f0be53, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Klein Wanzleben
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: Daisy Roderich-Huch (1894-1983)
+    Description: Kirche Klein Wanzleben
+    DescriptionEnglish: The church in Klein Wanzleben
+    DescriptionPlatt: "Kerche L\xFCttchen Wanzl\xE4"
+    Date: um 1950
+    DateEnglish: ca. 1950
+    Technique: Federzeichnung
+    TechniqueEnglish: Pen drawing
+    TechniquePlatt: Bild emaakt mid Fedder
+    Dimensions: 36,7 x 25,7 cm
+    LatiAndLongitude: "52\xB004'15.8\"N 11\xB021'54.6\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 4
+        seconds: 15.8
+      longitude:
+        degrees: 11
+        minutes: 21
+        seconds: 54.6
+    FileName: V_22_00_17_92
+    Image: {fileID: 21300000, guid: 1daa74e33497dd140a9b9ddbb87c0dc5, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Klein Wanzleben
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: Daisy Roderich-Huch (1894-1983)
+    Description: Klein Wanzleben
+    DescriptionEnglish: The town of Klein Wanzleben
+    DescriptionPlatt: "L\xFCttchen Wanzl\xE4"
+    Date: um 1950
+    DateEnglish: ca. 1950
+    Technique: Federzeichnung
+    TechniqueEnglish: Pen drawing
+    TechniquePlatt: Bild emaakt mid Fedder
+    Dimensions: 25,7 x 36,8 cm
+    LatiAndLongitude: "52\xB004'15.8\"N 11\xB021'54.6\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 4
+        seconds: 15.8
+      longitude:
+        degrees: 11
+        minutes: 21
+        seconds: 54.6
+    FileName: V_22_00_17_98
+    Image: {fileID: 21300000, guid: c2ec62e31bc9a324fa10427abd4ee227, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Klein Wanzleben
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: Daisy Roderich-Huch (1894-1983)
+    Description: Tor des Nonnenfriedhofs Meyendorf
+    DescriptionEnglish: Gate of the cemetery of the nunnery of Meyendorf
+    DescriptionPlatt: Door fonn en Nonnenkerchhoff Meyendorp
+    Date: um 1950
+    DateEnglish: ca. 1950
+    Technique: Federzeichnung
+    TechniqueEnglish: Pen drawing
+    TechniquePlatt: Bild emaakt mid Fedder
+    Dimensions: 18,5 x 24,5 cm
+    LatiAndLongitude: "52\xB005'22.0\"N 11\xB019'45.0\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 5
+        seconds: 22
+      longitude:
+        degrees: 11
+        minutes: 19
+        seconds: 45
+    FileName: V_22_00_17_28
+    Image: {fileID: 21300000, guid: 09138f7f96cf61444bda5c0336983f19, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Meyendorf
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: Daisy Roderich-Huch (1894-1983)
+    Description: Ehemalige Klosterkirche in Meyendorf
+    DescriptionEnglish: Former church of the nunnery of Meyendorf
+    DescriptionPlatt: Freuere Klosterkerche in Meyendorp
+    Date: um 1950
+    DateEnglish: ca. 1950
+    Technique: Federzeichnung
+    TechniqueEnglish: Pen drawing
+    TechniquePlatt: Bild emaakt mid Fedder
+    Dimensions: 24,4 x 18,4 cm
+    LatiAndLongitude: "52\xB005'22.0\"N 11\xB019'45.0\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 5
+        seconds: 22
+      longitude:
+        degrees: 11
+        minutes: 19
+        seconds: 45
+    FileName: V_22_00_17_63
+    Image: {fileID: 21300000, guid: ebc7c42f5ec2b1e418396a71d38144b4, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Meyendorf
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: Daisy Roderich-Huch (1894-1983)
+    Description: Kloster Meyendorf
+    DescriptionEnglish: The nunnery of Meyendorf
+    DescriptionPlatt: Kloster Meyendorp
+    Date: um 1950
+    DateEnglish: ca. 1950
+    Technique: Federzeichnung
+    TechniqueEnglish: Pen drawing
+    TechniquePlatt: Bild emaakt mid Fedder
+    Dimensions: 24,5 x 18,5 cm
+    LatiAndLongitude: "52\xB005'22.0\"N 11\xB019'45.0\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 5
+        seconds: 22
+      longitude:
+        degrees: 11
+        minutes: 19
+        seconds: 45
+    FileName: V_22_00_17_71
+    Image: {fileID: 21300000, guid: 030d1661e4b62cc4090f8cc4aafce5ab, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Meyendorf
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: Daisy Roderich-Huch (1894-1983)
+    Description: Ehemalige Klosterkirche Meyendorf
+    DescriptionEnglish: Former church of the nunnery of Meyendorf
+    DescriptionPlatt: Freuere Klosterkerche in Meyendorp
+    Date: um 1950
+    DateEnglish: ca. 1950
+    Technique: Radierung
+    TechniqueEnglish: Etching
+    TechniquePlatt: Radierung
+    Dimensions: 31 x 22 cm
+    LatiAndLongitude: "52\xB005'22.0\"N 11\xB019'45.0\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 5
+        seconds: 22
+      longitude:
+        degrees: 11
+        minutes: 19
+        seconds: 45
+    FileName: V_22_00_17_83
+    Image: {fileID: 21300000, guid: d0a6f176f0a33f642ac32cbb268b095a, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Meyendorf
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: Daisy Roderich-Huch (1894-1983)
+    Description: "Wasserm\xFChle im Sauerbachtal"
+    DescriptionEnglish: The water-mill in the Sauerbachtal
+    DescriptionPlatt: "Waterm\xF6lle in`n Suurbachdaal"
+    Date: um 1950
+    DateEnglish: ca. 1950
+    Technique: Federzeichnung
+    TechniqueEnglish: Pen drawing
+    TechniquePlatt: Bild emaakt mid Fedder
+    Dimensions: 36,5 x 26,8 cm
+    LatiAndLongitude: "52\xB004'42.2\"N 11\xB017'47.7\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 4
+        seconds: 42.2
+      longitude:
+        degrees: 11
+        minutes: 17
+        seconds: 47.7
+    FileName: V_22_00_17_101
+    Image: {fileID: 21300000, guid: 26bc14d082d6d0a4099fcc234a3dd695, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Saures Holz
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: Daisy Roderich-Huch (1894-1983)
+    Description: Landschaft am Sauren Holz
+    DescriptionEnglish: "Landscape near the \u201ESaures Holz\u201C"
+    DescriptionPlatt: Landschaft am Suuren Holte
+    Date: 1952
+    DateEnglish: 1952
+    Technique: Radierung
+    TechniqueEnglish: Etching
+    TechniquePlatt: Radierung
+    Dimensions: 24,5 x 31 cm
+    LatiAndLongitude: "52\xB004'30.7\"N 11\xB016'10.8\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 4
+        seconds: 30.7
+      longitude:
+        degrees: 11
+        minutes: 16
+        seconds: 10.8
+    FileName: V_22_00_17_81a
+    Image: {fileID: 21300000, guid: 4c791176fbeff7d41943480c2e93efe4, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Saures Holz
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: Daisy Roderich-Huch (1894-1983)
+    Description: Schloss in Schermcke
+    DescriptionEnglish: Manor house in Schermcke
+    DescriptionPlatt: Sloss in Schermcke
+    Date: um 1950
+    DateEnglish: ca. 1950
+    Technique: Federzeichnung
+    TechniqueEnglish: Pen drawing
+    TechniquePlatt: Bild emaakt mid Fedder
+    Dimensions: 47,5 x 35 cm
+    LatiAndLongitude: "52\xB003'27.5\"N 11\xB017'22.7\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 3
+        seconds: 27.5
+      longitude:
+        degrees: 11
+        minutes: 17
+        seconds: 22.7
+    FileName: V_22_00_17_124
+    Image: {fileID: 21300000, guid: cb6393afd986c264ca8c56a9f90dcc80, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Schermcke
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: Daisy Roderich-Huch (1894-1983)
+    Description: Park in Schermcke
+    DescriptionEnglish: Park in Schermcke
+    DescriptionPlatt: Park in Schermcke
+    Date: 1951
+    DateEnglish: 1951
+    Technique: Federzeichnung
+    TechniqueEnglish: Pen drawing
+    TechniquePlatt: Bild emaakt mid Fedder
+    Dimensions: 44 x 54 cm
+    LatiAndLongitude: "52\xB003'27.5\"N 11\xB017'22.7\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 3
+        seconds: 27.5
+      longitude:
+        degrees: 11
+        minutes: 17
+        seconds: 22.7
+    FileName: V_22_00_17_127
+    Image: {fileID: 21300000, guid: 250e8e8312cc24e4f99367bc9a759ce7, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Schermcke
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: Daisy Roderich-Huch (1894-1983)
+    Description: Kirche in Schermcke
+    DescriptionEnglish: Church in Schermcke
+    DescriptionPlatt: Kerche in Schermcke
+    Date: um 1950
+    DateEnglish: ca. 1950
+    Technique: Federzeichnung
+    TechniqueEnglish: Pen drawing
+    TechniquePlatt: Bild emaakt mid Fedder
+    Dimensions: 21 x 27,7 cm
+    LatiAndLongitude: "52\xB003'27.5\"N 11\xB017'22.7\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 3
+        seconds: 27.5
+      longitude:
+        degrees: 11
+        minutes: 17
+        seconds: 22.7
+    FileName: V_22_00_17_31
+    Image: {fileID: 21300000, guid: 49c634b03fb329148a6b38508b678f71, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Schermcke
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: Daisy Roderich-Huch (1894-1983)
+    Description: Schlossgarten Schloss Schermcke
+    DescriptionEnglish: Garden of the manor house in Schermcke
+    DescriptionPlatt: Slossgaarn Sloss Schermcke
+    Date: 1951
+    DateEnglish: 1951
+    Technique: Federzeichnung
+    TechniqueEnglish: Pen drawing
+    TechniquePlatt: Bild emaakt mid Fedder
+    Dimensions: 24 x 32,5 cm
+    LatiAndLongitude: "52\xB003'27.5\"N 11\xB017'22.7\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 3
+        seconds: 27.5
+      longitude:
+        degrees: 11
+        minutes: 17
+        seconds: 22.7
+    FileName: V_22_00_17_33
+    Image: {fileID: 21300000, guid: 88f65a8918405fb4481c70ca56c946f9, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Schermcke
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: Daisy Roderich-Huch (1894-1983)
+    Description: "Dorfstra\xDFe in Schermcke"
+    DescriptionEnglish: Road in the village of Schermcke
+    DescriptionPlatt: Dorpstrate in Schermcke
+    Date: um 1950
+    DateEnglish: ca. 1950
+    Technique: Federzeichnung
+    TechniqueEnglish: Pen drawing
+    TechniquePlatt: Bild emaakt mid Fedder
+    Dimensions: 24,7 x 33 cm
+    LatiAndLongitude: "52\xB003'27.5\"N 11\xB017'22.7\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 3
+        seconds: 27.5
+      longitude:
+        degrees: 11
+        minutes: 17
+        seconds: 22.7
+    FileName: V_22_00_17_54
+    Image: {fileID: 21300000, guid: bbf3ee1a90fe8bd4e9dbb06ee0394962, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Schermcke
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: Daisy Roderich-Huch (1894-1983)
+    Description: In Schermcke
+    DescriptionEnglish: In Schermcke
+    DescriptionPlatt: In Schermcke
+    Date: um 1950
+    DateEnglish: ca. 1950
+    Technique: Federzeichnung
+    TechniqueEnglish: Pen drawing
+    TechniquePlatt: Bild emaakt mid Fedder
+    Dimensions: 25,5 x 34,5 cm
+    LatiAndLongitude: "52\xB003'27.5\"N 11\xB017'22.7\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 3
+        seconds: 27.5
+      longitude:
+        degrees: 11
+        minutes: 17
+        seconds: 22.7
+    FileName: V_22_00_17_64
+    Image: {fileID: 21300000, guid: 8644f15b0083acc438e6c3417b0afa95, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Schermcke
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: Daisy Roderich-Huch (1894-1983)
+    Description: Blick vom Sauren Holz auf Schermcke
+    DescriptionEnglish: "View from the \u201ESaures Holz\u201C towards Schermcke"
+    DescriptionPlatt: Blick fonn dat Suure Holt ut opp Schermcke
+    Date: um 1950
+    DateEnglish: ca. 1950
+    Technique: Federzeichnung
+    TechniqueEnglish: Pen drawing
+    TechniquePlatt: Bild emaakt mid Fedder
+    Dimensions: 18,5 x 24,5 cm
+    LatiAndLongitude: "52\xB003'27.5\"N 11\xB017'22.7\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 3
+        seconds: 27.5
+      longitude:
+        degrees: 11
+        minutes: 17
+        seconds: 22.7
+    FileName: V_22_00_17_65
+    Image: {fileID: 21300000, guid: c41e4dfe9d51e384faab85959e667901, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Schermcke
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: Daisy Roderich-Huch (1894-1983)
+    Description: Schermcke
+    DescriptionEnglish: The village of Schermcke
+    DescriptionPlatt: Schermcke
+    Date: um 1950
+    DateEnglish: ca. 1950
+    Technique: Radierung
+    TechniqueEnglish: Etching
+    TechniquePlatt: Radierung
+    Dimensions: 24,3 x 31,2 cm
+    LatiAndLongitude: "52\xB003'27.5\"N 11\xB017'22.7\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 3
+        seconds: 27.5
+      longitude:
+        degrees: 11
+        minutes: 17
+        seconds: 22.7
+    FileName: V_22_00_17_86
+    Image: {fileID: 21300000, guid: 8831ec33815cc264a9888c820fc16004, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Schermcke
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: Daisy Roderich-Huch (1894-1983)
+    Description: Portal am Schloss Schermcke
+    DescriptionEnglish: Portal of the manor house of Schermcke
+    DescriptionPlatt: Injang Sloss Schermcke
+    Date: um 1950
+    DateEnglish: ca. 1950
+    Technique: Radierung
+    TechniqueEnglish: Etching
+    TechniquePlatt: Radierung
+    Dimensions: 31,2 x 22 cm
+    LatiAndLongitude: "52\xB003'27.5\"N 11\xB017'22.7\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 3
+        seconds: 27.5
+      longitude:
+        degrees: 11
+        minutes: 17
+        seconds: 22.7
+    FileName: V_22_00_17_87
+    Image: {fileID: 21300000, guid: 0816982e6cc7d3e42b6b618eb78323f6, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Schermcke
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: Daisy Roderich-Huch (1894-1983)
+    Description: Kirche in Schermcke
+    DescriptionEnglish: Church in Schermcke
+    DescriptionPlatt: Kerche in Schermcke
+    Date: um 1950
+    DateEnglish: ca. 1950
+    Technique: Federzeichnung
+    TechniqueEnglish: Pen drawing
+    TechniquePlatt: Bild emaakt mid Fedder
+    Dimensions: 35,8 x 25,4 cm
+    LatiAndLongitude: "52\xB003'27.5\"N 11\xB017'22.7\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 3
+        seconds: 27.5
+      longitude:
+        degrees: 11
+        minutes: 17
+        seconds: 22.7
+    FileName: V_22_00_17_95
+    Image: {fileID: 21300000, guid: ff38ec0b4e1a95347addeebf4612222b, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Schermcke
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: Daisy Roderich-Huch (1894-1983)
+    Description: In Seehausen
+    DescriptionEnglish: In Seehausen
+    DescriptionPlatt: In Seehusen
+    Date: 1947
+    DateEnglish: 1947
+    Technique: Aquarell
+    TechniqueEnglish: Aquarell
+    TechniquePlatt: Bild emaakt mid Waterfarwe
+    Dimensions: 32 x 40 cm
+    LatiAndLongitude: "52\xB006'01.1\"N 11\xB017'32.9\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 6
+        seconds: 1.1
+      longitude:
+        degrees: 11
+        minutes: 17
+        seconds: 32.9
+    FileName: V_22_00_17_106
+    Image: {fileID: 21300000, guid: b2cae7da9e2e027498b61873a0ca6a15, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Seehausen
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: Daisy Roderich-Huch (1894-1983)
+    Description: In Seehausen
+    DescriptionEnglish: In Seehausen
+    DescriptionPlatt: In Seehusen
+    Date: um 1950
+    DateEnglish: ca. 1950
+    Technique: Aquarell
+    TechniqueEnglish: Aquarell
+    TechniquePlatt: Bild emaakt mid Waterfarwe
+    Dimensions: 40 x 50 cm
+    LatiAndLongitude: "52\xB006'01.1\"N 11\xB017'32.9\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 6
+        seconds: 1.1
+      longitude:
+        degrees: 11
+        minutes: 17
+        seconds: 32.9
+    FileName: V_22_00_17_107
+    Image: {fileID: 21300000, guid: 72f3e45cc4c22f4489432e84b2120b37, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Seehausen
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: Daisy Roderich-Huch (1894-1983)
+    Description: In Seehausen
+    DescriptionEnglish: In Seehausen
+    DescriptionPlatt: In Seehusen
+    Date: um 1950
+    DateEnglish: ca. 1950
+    Technique: Aquarell
+    TechniqueEnglish: Aquarell
+    TechniquePlatt: Bild emaakt mid Waterfarwe
+    Dimensions: 37,6 x 30,5 cm
+    LatiAndLongitude: "52\xB006'01.1\"N 11\xB017'32.9\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 6
+        seconds: 1.1
+      longitude:
+        degrees: 11
+        minutes: 17
+        seconds: 32.9
+    FileName: V_22_00_17_109
+    Image: {fileID: 21300000, guid: f328f78872d89f34eb887df04f85aea9, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Seehausen
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: Daisy Roderich-Huch (1894-1983)
+    Description: "Stra\xDFe in Seehausen"
+    DescriptionEnglish: Road in Seehausen
+    DescriptionPlatt: 'Strate in Seehusen '
+    Date: um 1950
+    DateEnglish: ca. 1950
+    Technique: Aquarell
+    TechniqueEnglish: Aquarell
+    TechniquePlatt: Bild emaakt mid Waterfarwe
+    Dimensions: 39,5 x 49,5 cm
+    LatiAndLongitude: "52\xB006'01.1\"N 11\xB017'32.9\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 6
+        seconds: 1.1
+      longitude:
+        degrees: 11
+        minutes: 17
+        seconds: 32.9
+    FileName: V_22_00_17_138
+    Image: {fileID: 21300000, guid: 8618522e3a1333b489e80ab09ed70a9d, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Seehausen
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: Daisy Roderich-Huch (1894-1983)
+    Description: "Stra\xDFe in Seehausen"
+    DescriptionEnglish: Road in Seehausen
+    DescriptionPlatt: 'Strate in Seehusen '
+    Date: 1947
+    DateEnglish: 1947
+    Technique: Aquarell
+    TechniqueEnglish: Aquarell
+    TechniquePlatt: Bild emaakt mid Waterfarwe
+    Dimensions: 39 x 49,5 cm
+    LatiAndLongitude: "52\xB006'01.1\"N 11\xB017'32.9\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 6
+        seconds: 1.1
+      longitude:
+        degrees: 11
+        minutes: 17
+        seconds: 32.9
+    FileName: V_22_00_17_139
+    Image: {fileID: 21300000, guid: 34a400e14db2a08409d0c4912bfb6600, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Seehausen
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: Daisy Roderich-Huch (1894-1983)
+    Description: "Dorfstra\xDFe Seehausen"
+    DescriptionEnglish: Village road in Seehausen
+    DescriptionPlatt: Dorpstrate Seehusen
+    Date: um 1950
+    DateEnglish: ca. 1950
+    Technique: Federzeichnung
+    TechniqueEnglish: Pen drawing
+    TechniquePlatt: Bild emaakt mid Fedder
+    Dimensions: 25,4 x 33 cm
+    LatiAndLongitude: "52\xB006'01.1\"N 11\xB017'32.9\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 6
+        seconds: 1.1
+      longitude:
+        degrees: 11
+        minutes: 17
+        seconds: 32.9
+    FileName: V_22_00_17_29
+    Image: {fileID: 21300000, guid: 0f01480371b58c54f9f4d9dc13fadbd2, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Seehausen
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: Daisy Roderich-Huch (1894-1983)
+    Description: Dorfplatz - Lindenplan Seehausen
+    DescriptionEnglish: Village square and Lindenplan in Seehausen
+    DescriptionPlatt: Dorpstidde - Linnenplan Seehusen
+    Date: um 1950
+    DateEnglish: ca. 1950
+    Technique: Federzeichnung
+    TechniqueEnglish: Pen drawing
+    TechniquePlatt: Bild emaakt mid Fedder
+    Dimensions: 18,5 x 20 cm
+    LatiAndLongitude: "52\xB006'01.1\"N 11\xB017'32.9\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 6
+        seconds: 1.1
+      longitude:
+        degrees: 11
+        minutes: 17
+        seconds: 32.9
+    FileName: V_22_00_17_3
+    Image: {fileID: 21300000, guid: cc5d3172ec53820498678fbe3656d6a1, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Seehausen
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: Daisy Roderich-Huch (1894-1983)
+    Description: In Seehausen
+    DescriptionEnglish: In Seehausen
+    DescriptionPlatt: In Seehusen
+    Date: um 1950
+    DateEnglish: ca. 1950
+    Technique: Federzeichnung
+    TechniqueEnglish: Pen drawing
+    TechniquePlatt: Bild emaakt mid Fedder
+    Dimensions: 19,5 x 20 cm
+    LatiAndLongitude: "52\xB006'01.1\"N 11\xB017'32.9\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 6
+        seconds: 1.1
+      longitude:
+        degrees: 11
+        minutes: 17
+        seconds: 32.9
+    FileName: V_22_00_17_34
+    Image: {fileID: 21300000, guid: 69f965aa31f54d94796f3a9d2302ade6, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Seehausen
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: Daisy Roderich-Huch (1894-1983)
+    Description: St. Laurentius in Seehausen
+    DescriptionEnglish: The church of St. Laurentius in Seehausen
+    DescriptionPlatt: Laurentiuskerche in Seehusen
+    Date: um 1950
+    DateEnglish: ca. 1950
+    Technique: Federzeichnung
+    TechniqueEnglish: Pen drawing
+    TechniquePlatt: Bild emaakt mid Fedder
+    Dimensions: 33 x 25,4 cm
+    LatiAndLongitude: "52\xB006'01.1\"N 11\xB017'32.9\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 6
+        seconds: 1.1
+      longitude:
+        degrees: 11
+        minutes: 17
+        seconds: 32.9
+    FileName: V_22_00_17_41
+    Image: {fileID: 21300000, guid: 5b025babe67d2264a8528fbb66aa2441, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Seehausen
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: Daisy Roderich-Huch (1894-1983)
+    Description: St. Laurentius in Seehausen
+    DescriptionEnglish: The church of St. Laurentius in Seehausen
+    DescriptionPlatt: Laurentiuskerche in Seehusen
+    Date: 1947
+    DateEnglish: 1947
+    Technique: Federzeichnung
+    TechniqueEnglish: Pen drawing
+    TechniquePlatt: Bild emaakt mid Fedder
+    Dimensions: 33 x 25 cm
+    LatiAndLongitude: "52\xB006'01.1\"N 11\xB017'32.9\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 6
+        seconds: 1.1
+      longitude:
+        degrees: 11
+        minutes: 17
+        seconds: 32.9
+    FileName: V_22_00_17_42
+    Image: {fileID: 21300000, guid: 67a9a19d7fe7c3a4c8c2f4f544831c6e, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Seehausen
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: Daisy Roderich-Huch (1894-1983)
+    Description: "Dorfstra\xDFe Seehausen"
+    DescriptionEnglish: Village road in Seehausen
+    DescriptionPlatt: Dorpstrate Seehusen
+    Date: um 1950
+    DateEnglish: ca. 1950
+    Technique: Federzeichnung
+    TechniqueEnglish: Pen drawing
+    TechniquePlatt: Bild emaakt mid Fedder
+    Dimensions: 25,5 x 33 cm
+    LatiAndLongitude: "52\xB006'01.1\"N 11\xB017'32.9\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 6
+        seconds: 1.1
+      longitude:
+        degrees: 11
+        minutes: 17
+        seconds: 32.9
+    FileName: V_22_00_17_52
+    Image: {fileID: 21300000, guid: 3a9bd745dbcb62a40994305cba14a1e6, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Seehausen
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: Daisy Roderich-Huch (1894-1983)
+    Description: Seehausen
+    DescriptionEnglish: In Seehausen
+    DescriptionPlatt: Seehusen
+    Date: um 1950
+    DateEnglish: ca. 1950
+    Technique: Federzeichnung
+    TechniqueEnglish: Pen drawing
+    TechniquePlatt: Bild emaakt mid Fedder
+    Dimensions: 19,5 x 20 cm
+    LatiAndLongitude: "52\xB006'01.1\"N 11\xB017'32.9\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 6
+        seconds: 1.1
+      longitude:
+        degrees: 11
+        minutes: 17
+        seconds: 32.9
+    FileName: V_22_00_17_9
+    Image: {fileID: 21300000, guid: 9dc0a40fcb246be49b002594f0050e9b, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Seehausen
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: Daisy Roderich-Huch (1894-1983)
+    Description: St. Laurentius Seehausen
+    DescriptionEnglish: The church of St. Laurentius in Seehausen
+    DescriptionPlatt: Laurentiuskerche Seehusen
+    Date: um 1950
+    DateEnglish: ca. 1950
+    Technique: Federzeichnung
+    TechniqueEnglish: Pen drawing
+    TechniquePlatt: Bild emaakt mid Fedder
+    Dimensions: 25,4 x 32,8 cm
+    LatiAndLongitude: "52\xB006'01.1\"N 11\xB017'32.9\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 6
+        seconds: 1.1
+      longitude:
+        degrees: 11
+        minutes: 17
+        seconds: 32.9
+    FileName: V_22_00_17_94
+    Image: {fileID: 21300000, guid: 14c1601a366b2a342858c090aab97176, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Seehausen
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: Dr. Erich Vogel (1952)
+    Description: "Blick \xFCber die D\xE4cher von Alvensleben (Bebertal)"
+    DescriptionEnglish: View over the roofs of Alvensleben (Bebertal)
+    DescriptionPlatt: "Blick ower de D\xE4\xE4ker fonn Alwensl\xE4 (Bewerdaal)"
+    Date: 1982
+    DateEnglish: 1982
+    Technique: Linolschnitt
+    TechniqueEnglish: Linoleum cut
+    TechniquePlatt: Linolschnitt
+    Dimensions: 42 x 29,8 cm
+    LatiAndLongitude: "52\xB014'13.9\"N 11\xB019'55.3\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 14
+        seconds: 13.9
+      longitude:
+        degrees: 11
+        minutes: 19
+        seconds: 55.3
+    FileName: V_22_00_19_15
+    Image: {fileID: 21300000, guid: 497e0505460c7b347a5805e54bf49b77, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Bebertal
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: Dr. Erich Vogel (1952)
+    Description: "Belsdorf, Dorfstra\xDFe"
+    DescriptionEnglish: Village road of Gelsdorf
+    DescriptionPlatt: Belsdorp, Dorpstrate
+    Date: 1978
+    DateEnglish: 1978
+    Technique: Linolschnitt
+    TechniqueEnglish: Linoleum cut
+    TechniquePlatt: Linolschnitt
+    Dimensions: 42 x 29,8 cm
+    LatiAndLongitude: "52\xB011'37.5\"N 11\xB009'18.2\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 11
+        seconds: 37.5
+      longitude:
+        degrees: 11
+        minutes: 9
+        seconds: 18.2
+    FileName: V_22_00_19_10
+    Image: {fileID: 21300000, guid: 0335fae41236a95429fc13e6c1932afb, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Wefensleben
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: Dr. Erich Vogel (1952)
+    Description: Eilsleben, Blick auf das ehemalige Hospital
+    DescriptionEnglish: View of the former hospital of Eilsleben
+    DescriptionPlatt: "Eilsl\xE4, Blick opp dat oole Hospidaal"
+    Date: 1982
+    DateEnglish: 1982
+    Technique: Linolschnitt
+    TechniqueEnglish: Linoleum cut
+    TechniquePlatt: Linolschnitt
+    Dimensions: 42 x 29,8 cm
+    LatiAndLongitude: "52\xB008'51.3\"N 11\xB012'46.4\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 8
+        seconds: 51.3
+      longitude:
+        degrees: 11
+        minutes: 12
+        seconds: 46.4
+    FileName: V_22_00_19_17
+    Image: {fileID: 21300000, guid: f55a763505b48a04b81919902133b7e3, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Eilsleben
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: Dr. Erich Vogel (1952)
+    Description: Eilsleben, Zimmermannplatz
+    DescriptionEnglish: Zimmermannplatz in Eilsleben
+    DescriptionPlatt: "Eilsl\xE4, Timmermannstidde"
+    Date: 1982
+    DateEnglish: 1982
+    Technique: Linolschnitt
+    TechniqueEnglish: Linoleum cut
+    TechniquePlatt: Linolschnitt
+    Dimensions: 42 x 29,8 cm
+    LatiAndLongitude: "52\xB008'51.3\"N 11\xB012'46.4\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 8
+        seconds: 51.3
+      longitude:
+        degrees: 11
+        minutes: 12
+        seconds: 46.4
+    FileName: V_22_00_19_18
+    Image: {fileID: 21300000, guid: 2b884ac6838dc6c4284d71da83d0419b, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Eilsleben
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: Dr. Erich Vogel (1952)
+    Description: Gehringsdorf, Gutshaus vom Park aus
+    DescriptionEnglish: Manor house in the Park of Gehringsdorf
+    DescriptionPlatt: Jeringsdorp, Gutshuus fonn`n Park ut
+    Date: 1978
+    DateEnglish: 1978
+    Technique: Linolschnitt
+    TechniqueEnglish: Linoleum cut
+    TechniquePlatt: Linolschnitt
+    Dimensions: 42 x 29,8 cm
+    LatiAndLongitude: "52\xB006'52.1\"N 11\xB011'57.7\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 6
+        seconds: 52.1
+      longitude:
+        degrees: 11
+        minutes: 11
+        seconds: 57.7
+    FileName: V_22_00_19_14
+    Image: {fileID: 21300000, guid: f2d92f0bd9dd907418c9ae1d38ddc61d, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Gehringsdorf
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: Dr. Erich Vogel (1952)
+    Description: 'Ostingersleben, Kirche '
+    DescriptionEnglish: The church of Ostingersleben
+    DescriptionPlatt: "Ostingersl\xE4, Kerche"
+    Date: 1978
+    DateEnglish: 1978
+    Technique: Linolschnitt
+    TechniqueEnglish: Linoleum cut
+    TechniquePlatt: Linolschnitt
+    Dimensions: 42 x 29,8 cm
+    LatiAndLongitude: "52\xB012'33.3\"N 11\xB010'17.1\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 12
+        seconds: 33.3
+      longitude:
+        degrees: 11
+        minutes: 10
+        seconds: 17.1
+    FileName: V_22_00_19_19
+    Image: {fileID: 21300000, guid: f71a5153c15759b4b93fe2db7221d80e, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Ostingersleben
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: Dr. Erich Vogel (1952)
+    Description: "Ovelg\xFCnne, Krankenhaus"
+    DescriptionEnglish: "The hospital of Ovelg\xFCnne"
+    DescriptionPlatt: "J\xFCnne, Krankenhuus"
+    Date: 1982
+    DateEnglish: 1982
+    Technique: Linolschnitt
+    TechniqueEnglish: Linoleum cut
+    TechniquePlatt: Linolschnitt
+    Dimensions: 42 x 29,8 cm
+    LatiAndLongitude: "52\xB008'46.5\"N 11\xB016'18.0\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 8
+        seconds: 46.5
+      longitude:
+        degrees: 11
+        minutes: 16
+        seconds: 18
+    FileName: V_22_00_19_13
+    Image: {fileID: 21300000, guid: a328535aa0e8082499f092f675f122ee, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: "Ovelg\xFCnne"
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: Dr. Erich Vogel (1952)
+    Description: "Remkersleben, Gastst\xE4tte \"Landhaus\""
+    DescriptionEnglish: "The inn \u201ELandhaus\u201C in Remkersleben"
+    DescriptionPlatt: "Remkersl\xE4, Gaststidde \"Landhuus\""
+    Date: 1983
+    DateEnglish: 1983
+    Technique: Linolschnitt
+    TechniqueEnglish: Linoleum cut
+    TechniquePlatt: Linolschnitt
+    Dimensions: 42 x 29,8 cm
+    LatiAndLongitude: "52\xB005'17.9\"N 11\xB021'19.4\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 5
+        seconds: 17.9
+      longitude:
+        degrees: 11
+        minutes: 21
+        seconds: 19.4
+    FileName: V_22_00_19_12
+    Image: {fileID: 21300000, guid: 36efbdcfd64520c47981ac39b98c30ff, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Remkersleben
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: Dr. Erich Vogel (1952)
+    Description: "Ummendorf, Kirche von S\xFCdosten"
+    DescriptionEnglish: The church of Ummendorf from the south-east
+    DescriptionPlatt: "Ummendorp, Kerche fonn S\xFCdosten"
+    Date: 1978
+    DateEnglish: 1978
+    Technique: Linolschnitt
+    TechniqueEnglish: Linoleum cut
+    TechniquePlatt: Linolschnitt
+    Dimensions: 42 x 29,8 cm
+    LatiAndLongitude: "52\xB009'21.0\"N 11\xB010'55.0\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 9
+        seconds: 21
+      longitude:
+        degrees: 11
+        minutes: 10
+        seconds: 55
+    FileName: V_22_00_19_7
+    Image: {fileID: 21300000, guid: fb1047a2daf37ab45969837a1f9b9e56, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Ummendorf
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: Dr. Erich Vogel (1952)
+    Description: "Weferlingen, B\xE4ckerstra\xDFe"
+    DescriptionEnglish: "The B\xE4ckerstra\xDFe in Weferlingen"
+    DescriptionPlatt: "Weweling, B\xE4ckerstrate"
+    Date: 1983
+    DateEnglish: 1983
+    Technique: Linolschnitt
+    TechniqueEnglish: Linoleum cut
+    TechniquePlatt: Linolschnitt
+    Dimensions: 42 x 29,8 cm
+    LatiAndLongitude: "52\xB018'57.3\"N 11\xB003'27.7\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 18
+        seconds: 57.3
+      longitude:
+        degrees: 11
+        minutes: 3
+        seconds: 27.7
+    FileName: V_22_00_19_11
+    Image: {fileID: 21300000, guid: dad52ba0ba786c74db2be0cd3ca5987e, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Weferlingen
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: Dr. Erich Vogel (1952)
+    Description: Wormsdorf, Winkel II
+    DescriptionEnglish: Winkel II in Wormsdorf
+    DescriptionPlatt: Wormsdorp, Winkel II
+    Date: 1982
+    DateEnglish: 1982
+    Technique: Linolschnitt
+    TechniqueEnglish: Linoleum cut
+    TechniquePlatt: Linolschnitt
+    Dimensions: 42 x 29,8 cm
+    LatiAndLongitude: "52\xB007'59.7\"N 11\xB011'40.4\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 7
+        seconds: 59.7
+      longitude:
+        degrees: 11
+        minutes: 11
+        seconds: 40.4
+    FileName: V_22_00_19_16
+    Image: {fileID: 21300000, guid: 179538797bd17d74c9878e32b44d99bd, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Wormsdorf
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: Dr. Erich Vogel (1952)
+    Description: In der Allerhorst
+    DescriptionEnglish: In the Allerhorst
+    DescriptionPlatt: In de Allerwiesche
+    Date: 1978
+    DateEnglish: 1978
+    Technique: Linolschnitt
+    TechniqueEnglish: Linoleum cut
+    TechniquePlatt: Linolschnitt
+    Dimensions: 42 x 29,8 cm
+    LatiAndLongitude: "52\xB008'28.7\"N 11\xB011'28.1\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 8
+        seconds: 28.7
+      longitude:
+        degrees: 11
+        minutes: 11
+        seconds: 28.1
+    FileName: V_22_00_19_3
+    Image: {fileID: 21300000, guid: f4c46d4c6d3335b468fdb8ed136fe02b, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Wormsdorf
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: "Friedrich R\xFChmland"
+    Description: "Kolonistenh\xE4user in Sommerschenburg"
+    DescriptionEnglish: Workers houses in Sommerschenburg
+    DescriptionPlatt: "Kolonistenh\xFCser in Pottborch"
+    Date: 1982
+    DateEnglish: 1982
+    Technique: Lithografie
+    TechniqueEnglish: Lithograph
+    TechniquePlatt: Lithografie
+    Dimensions: 42,5 x 30 cm
+    LatiAndLongitude: "52\xB010'20.3\"N 11\xB006'12.9\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 10
+        seconds: 20.3
+      longitude:
+        degrees: 11
+        minutes: 6
+        seconds: 12.9
+    FileName: V_22_00_22_17
+    Image: {fileID: 21300000, guid: 930776267586a7b4b8d3770640ac3d4b, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Sommerschenburg
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: "Friedrich R\xFChmland"
+    Description: Amtsgericht in Sommerschenburg
+    DescriptionEnglish: The local district court in Sommerschenburg
+    DescriptionPlatt: Amtsjericht in Pottborch
+    Date: 1982
+    DateEnglish: 1982
+    Technique: Lithografie
+    TechniqueEnglish: Lithograph
+    TechniquePlatt: Lithografie
+    Dimensions: 30 x 42,5 cm
+    LatiAndLongitude: "52\xB010'20.3\"N 11\xB006'12.9\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 10
+        seconds: 20.3
+      longitude:
+        degrees: 11
+        minutes: 6
+        seconds: 12.9
+    FileName: V_22_00_22_18
+    Image: {fileID: 21300000, guid: 737e1bc0011bae94290346f37dc68e56, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Sommerschenburg
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: "Friedrich R\xFChmland"
+    Description: "Hofgeb\xE4ude in Sommersdorf"
+    DescriptionEnglish: A farmyard building in Sommersdorf
+    DescriptionPlatt: Buuwark opp en Hoff in Sommersdorp
+    Date: 1982
+    DateEnglish: 1982
+    Technique: Lithografie
+    TechniqueEnglish: Lithograph
+    TechniquePlatt: Lithografie
+    Dimensions: 30 x 42 cm
+    LatiAndLongitude: "52\xB010'00.5\"N 11\xB004'49.7\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 10
+        seconds: 0.5
+      longitude:
+        degrees: 11
+        minutes: 4
+        seconds: 49.7
+    FileName: V_22_00_22_16
+    Image: {fileID: 21300000, guid: e0becaa13c381dd4096fe5e6e5fcdaa5, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Sommersdorf
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: "Friedrich R\xFChmland"
+    Description: Schulanbau Wackersleben
+    DescriptionEnglish: School-extension in Wackersleben
+    DescriptionPlatt: "Schaulanbuu Wackersl\xE4"
+    Date: 1979
+    DateEnglish: 1979
+    Technique: Lithografie
+    TechniqueEnglish: Lithograph
+    TechniquePlatt: Lithografie
+    Dimensions: 38 x 50 cm
+    LatiAndLongitude: "52\xB004'16.5\"N 11\xB001'11.3\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 4
+        seconds: 16.5
+      longitude:
+        degrees: 11
+        minutes: 1
+        seconds: 11.3
+    FileName: V_22_00_22_1a
+    Image: {fileID: 21300000, guid: 1a6f7d275f71bf840bf4395d0acedb47, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Wackersleben
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: Fritz Hickfang
+    Description: "Deesdorf, Stra\xDFe mit H\xE4usern"
+    DescriptionEnglish: Road with houses in Deesdorf
+    DescriptionPlatt: "Deesdorp, Strate mid H\xFCser"
+    Date: 1943
+    DateEnglish: 1943
+    Technique: Lithografie
+    TechniqueEnglish: Lithograph
+    TechniquePlatt: Lithografie
+    Dimensions: 32,5 x 24,8 cm
+    LatiAndLongitude: "51\xB055'08.3\"N 11\xB011'32.9\"E"
+    GpsCoords:
+      latitude:
+        degrees: 51
+        minutes: 55
+        seconds: 8.3
+      longitude:
+        degrees: 11
+        minutes: 11
+        seconds: 32.9
+    FileName: V_22_00_11_14
+    Image: {fileID: 21300000, guid: 8f7723eaa28a98543918a6abbf3408a5, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Deesdorf
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: Fritz Hickfang
+    Description: "Gr\xF6ningen, Tietor"
+    DescriptionEnglish: "The Tie gate in Gr\xF6ningen"
+    DescriptionPlatt: Groinich, Tietor
+    Date: 1943
+    DateEnglish: 1943
+    Technique: Lithografie
+    TechniqueEnglish: Lithograph
+    TechniquePlatt: Lithografie
+    Dimensions: 32,5 x 24,8 cm
+    LatiAndLongitude: "51\xB056'19.7\"N 11\xB013'07.6\"E"
+    GpsCoords:
+      latitude:
+        degrees: 51
+        minutes: 56
+        seconds: 19.7
+      longitude:
+        degrees: 11
+        minutes: 13
+        seconds: 7.6
+    FileName: V_22_00_11_15a
+    Image: {fileID: 21300000, guid: 0e7022b782f9ec641a89af917d6e25e9, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: "Gr\xF6ningen"
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: Fritz Hickfang
+    Description: "Gr\xF6ningen mit den Kircht\xFCrmen St. Cyriaci und St. Martini"
+    DescriptionEnglish: "The town of Gr\xF6ningen with the church towers St. Cyriaci
+      and St. Martini"
+    DescriptionPlatt: "Groinich mid de T\xF6rme fonn de Cyriaci- un Martinikerche"
+    Date: 1943
+    DateEnglish: 1943
+    Technique: Lithografie
+    TechniqueEnglish: Lithograph
+    TechniquePlatt: Lithografie
+    Dimensions: 32,5 x 24,8 cm
+    LatiAndLongitude: "51\xB056'19.7\"N 11\xB013'07.6\"E"
+    GpsCoords:
+      latitude:
+        degrees: 51
+        minutes: 56
+        seconds: 19.7
+      longitude:
+        degrees: 11
+        minutes: 13
+        seconds: 7.6
+    FileName: V_22_00_11_16a
+    Image: {fileID: 21300000, guid: 80ed3a3575e1e114e91891333924a07b, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: "Gr\xF6ningen"
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: Fritz Hickfang
+    Description: "Gr\xF6ningen, H\xE4user"
+    DescriptionEnglish: "Houses in Gr\xF6ningen"
+    DescriptionPlatt: "Groinich, H\xFCser"
+    Date: 1943
+    DateEnglish: 1943
+    Technique: Lithografie
+    TechniqueEnglish: Lithograph
+    TechniquePlatt: Lithografie
+    Dimensions: 32,5 x 24,3 cm
+    LatiAndLongitude: "51\xB056'19.7\"N 11\xB013'07.6\"E"
+    GpsCoords:
+      latitude:
+        degrees: 51
+        minutes: 56
+        seconds: 19.7
+      longitude:
+        degrees: 11
+        minutes: 13
+        seconds: 7.6
+    FileName: V_22_00_11_17a
+    Image: {fileID: 21300000, guid: e69d42f1ce8322241b167d0f1e22f7ed, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: "Gr\xF6ningen"
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: Fritz Hickfang
+    Description: "Gr\xF6ningen, Bahnschiene"
+    DescriptionEnglish: "Railtracks in Gr\xF6ningen"
+    DescriptionPlatt: Groinich, Iesenbahnschiene
+    Date: 1943
+    DateEnglish: 1943
+    Technique: Lithografie
+    TechniqueEnglish: Lithograph
+    TechniquePlatt: Lithografie
+    Dimensions: 24,5 x 32,5 cm
+    LatiAndLongitude: "51\xB056'19.7\"N 11\xB013'07.6\"E"
+    GpsCoords:
+      latitude:
+        degrees: 51
+        minutes: 56
+        seconds: 19.7
+      longitude:
+        degrees: 11
+        minutes: 13
+        seconds: 7.6
+    FileName: V_22_00_11_18a
+    Image: {fileID: 21300000, guid: 3452df74f3769054bbf8f720889dceb7, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: "Gr\xF6ningen"
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: Fritz Hickfang
+    Description: "Gr\xF6ningen von der Galgenbreite"
+    DescriptionEnglish: "Gr\xF6ningen viewed from the Galgenbreite"
+    DescriptionPlatt: Groinich, fonn de Galjenbreite ut
+    Date: 1943
+    DateEnglish: 1943
+    Technique: Lithografie
+    TechniqueEnglish: Lithograph
+    TechniquePlatt: Lithografie
+    Dimensions: 24,3 x 32,7 cm
+    LatiAndLongitude: "51\xB056'19.7\"N 11\xB013'07.6\"E"
+    GpsCoords:
+      latitude:
+        degrees: 51
+        minutes: 56
+        seconds: 19.7
+      longitude:
+        degrees: 11
+        minutes: 13
+        seconds: 7.6
+    FileName: V_22_00_11_19a
+    Image: {fileID: 21300000, guid: 53e09322a599c954485cda985d70d33b, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: "Gr\xF6ningen"
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: Fritz Hickfang
+    Description: "Gr\xF6ningen, Allee mit Turm der Kirche St. Martini"
+    DescriptionEnglish: "Avenue with the tower of St. Martini in Gr\xF6ningen"
+    DescriptionPlatt: Groinich, Strate mid Torm fonn de Martinikerche
+    Date: 1943
+    DateEnglish: 1943
+    Technique: Lithografie
+    TechniqueEnglish: Lithograph
+    TechniquePlatt: Lithografie
+    Dimensions: 24,4 x 32,4 cm
+    LatiAndLongitude: "51\xB056'19.7\"N 11\xB013'07.6\"E"
+    GpsCoords:
+      latitude:
+        degrees: 51
+        minutes: 56
+        seconds: 19.7
+      longitude:
+        degrees: 11
+        minutes: 13
+        seconds: 7.6
+    FileName: V_22_00_11_20a
+    Image: {fileID: 21300000, guid: 40a70195f0412e84584616e7aed185b2, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: "Gr\xF6ningen"
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: Fritz Hickfang
+    Description: "Gr\xF6ningen, Klosterkirche St. Vitus"
+    DescriptionEnglish: "The friary of St. Vitus in Gr\xF6ningen"
+    DescriptionPlatt: Groinich, St. Vitusklosterkerche
+    Date: 1943
+    DateEnglish: 1943
+    Technique: Lithografie
+    TechniqueEnglish: Lithograph
+    TechniquePlatt: Lithografie
+    Dimensions: 24,3 x 32,7 cm
+    LatiAndLongitude: "51\xB056'19.7\"N 11\xB013'07.6\"E"
+    GpsCoords:
+      latitude:
+        degrees: 51
+        minutes: 56
+        seconds: 19.7
+      longitude:
+        degrees: 11
+        minutes: 13
+        seconds: 7.6
+    FileName: V_22_00_11_21a
+    Image: {fileID: 21300000, guid: 309dbe43f5ad612438c4234a61e78509, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: "Gr\xF6ningen"
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: Fritz Hickfang
+    Description: "Gr\xF6ningen, Stra\xDFe mit Ladenschild"
+    DescriptionEnglish: "Road with shop in Gr\xF6ningen"
+    DescriptionPlatt: Groinich, Strate mid Stratenschild
+    Date: 1943
+    DateEnglish: 1943
+    Technique: Lithografie
+    TechniqueEnglish: Lithograph
+    TechniquePlatt: Lithografie
+    Dimensions: 24,3 x 32,7 cm
+    LatiAndLongitude: "51\xB056'19.7\"N 11\xB013'07.6\"E"
+    GpsCoords:
+      latitude:
+        degrees: 51
+        minutes: 56
+        seconds: 19.7
+      longitude:
+        degrees: 11
+        minutes: 13
+        seconds: 7.6
+    FileName: V_22_00_11_22a
+    Image: {fileID: 21300000, guid: 8b19d1c0559e3914aa168ccfabd6ef87, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: "Gr\xF6ningen"
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: Fritz Julius Eschemann (1856-1935)
+    Description: "Gro\xDF Rodensleben 1912"
+    DescriptionEnglish: "Gro\xDF Rodensleben in 1912"
+    DescriptionPlatt: "Groot Rodensl\xE4 1912"
+    Date: 1912
+    DateEnglish: 1912
+    Technique: Aquarell
+    TechniqueEnglish: Aquarell
+    TechniquePlatt: Bild emaakt mid Waterfarwe
+    Dimensions: 32 x 41 cm
+    LatiAndLongitude: "52\xB007'18.6\"N 11\xB023'08.5\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 7
+        seconds: 18.6
+      longitude:
+        degrees: 11
+        minutes: 23
+        seconds: 8.5
+    FileName: BMBU 2009-1106
+    Image: {fileID: 21300000, guid: c056f7470d44fd342a72d70bb6599fb3, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: "Gro\xDF Rodensleben"
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: Fritz Julius Eschemann (1856-1935)
+    Description: Wackersleben
+    DescriptionEnglish: The village of Wackersleben
+    DescriptionPlatt: "Wackersl\xE4"
+    Date: 1911
+    DateEnglish: 1911
+    Technique: Aquarell
+    TechniqueEnglish: Aquarell
+    TechniquePlatt: Bild emaakt mid Waterfarwe
+    Dimensions: 28,5 x 72 cm
+    LatiAndLongitude: "52\xB004'16.5\"N 11\xB001'11.3\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 4
+        seconds: 16.5
+      longitude:
+        degrees: 11
+        minutes: 1
+        seconds: 11.3
+    FileName: BMBU 2009-1105
+    Image: {fileID: 21300000, guid: b13acba7095a20d45ba5d88d2e359405, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Wackersleben
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: Gunter Czyrnik (1947-)
+    Description: "Trafoh\xE4uschen bei Bahrendorf"
+    DescriptionEnglish: Transformer station by Bahrendorf
+    DescriptionPlatt: Umspannhuus bie Bahrendorp
+    Date: 1997
+    DateEnglish: 1997
+    Technique: Federzeichnung
+    TechniqueEnglish: Pen drawing
+    TechniquePlatt: Bild emaakt mid Waterfarwe
+    Dimensions: 40 x 30 cm
+    LatiAndLongitude: "51\xB059'58.4\"N 11\xB033'33.9\"E"
+    GpsCoords:
+      latitude:
+        degrees: 51
+        minutes: 59
+        seconds: 58.4
+      longitude:
+        degrees: 11
+        minutes: 33
+        seconds: 33.9
+    FileName: V_22_00_03_1
+    Image: {fileID: 21300000, guid: c7a83027f1167904cb0696f770e853bb, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Bahrendorf
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: Gunter Czyrnik (1947-)
+    Description: "Eingang des B\xF6rde-Museums Burg Ummendorf"
+    DescriptionEnglish: "Entrance of the B\xF6rde-Museum of Castle Ummendorf"
+    DescriptionPlatt: "Injang B\xF6re-Museum Borch Ummendorp"
+    Date: unbekannt
+    DateEnglish: unknown
+    Technique: Federzeichnung
+    TechniqueEnglish: Pen drawing
+    TechniquePlatt: Bild emaakt mid Fedder
+    Dimensions: 37,5 x 25 cm
+    LatiAndLongitude: "52\xB009'21.0\"N 11\xB010'55.0\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 9
+        seconds: 21
+      longitude:
+        degrees: 11
+        minutes: 10
+        seconds: 55
+    FileName: V_22_00_03_2
+    Image: {fileID: 21300000, guid: ba6d7ed25f268ed44ad6a713f1e01748, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Ummendorf
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: "G\xFCnther Gerth (1931-2019)"
+    Description: "Oschersleben Mittelstra\xDFe"
+    DescriptionEnglish: "The Mittelstra\xDFe in Oschersleben"
+    DescriptionPlatt: "Oschersl\xE4 Middelstrate"
+    Date: 1985
+    DateEnglish: 1985
+    Technique: Radierung
+    TechniqueEnglish: Etching
+    TechniquePlatt: Radierung
+    Dimensions: 41,5 x 58 cm
+    LatiAndLongitude: "52\xB001'36.2\"N 11\xB013'37.0\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 1
+        seconds: 36.2
+      longitude:
+        degrees: 11
+        minutes: 13
+        seconds: 37
+    FileName: V_22_00_10_9
+    Image: {fileID: 21300000, guid: e129432241d20414b97aa8d94bc362c4, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Oschersleben
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: Kluge, W.
+    Description: Schwaneberg um 1700. Der Hirtenborn
+    DescriptionEnglish: "The village of Schwaneberg around 1700 (\u201EDer Hirtenborn\u201C)"
+    DescriptionPlatt: Schwanebarch um 1700. De Hirtenborn
+    Date: 1935
+    DateEnglish: 1935
+    Technique: Federzeichnung, laviert
+    TechniqueEnglish: Pen drawing, washed
+    TechniquePlatt: "Bild emaakt mid Fedder un d\xFCnne oppedraane Farwe"
+    Dimensions: 41,5 x 59,5 cm
+    LatiAndLongitude: "51\xB059'54.2\"N 11\xB028'21.6\"E"
+    GpsCoords:
+      latitude:
+        degrees: 51
+        minutes: 59
+        seconds: 54.2
+      longitude:
+        degrees: 11
+        minutes: 28
+        seconds: 21.6
+    FileName: V_22_00_03_22
+    Image: {fileID: 21300000, guid: 785971741e2152b45883bbfd82e900b4, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Schwaneberg
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: "Matth\xE4us Merian (der \xC4ltere) (1593-1650)"
+    Description: "St\xE4ttlein und Ambt Hatmersleben (Hadmersleben)"
+    DescriptionEnglish: Village and council of Hatmersleben (Hadmersleben)
+    DescriptionPlatt: "St\xE4ttlein un Amt Hadmersl\xE4 "
+    Date: 1650
+    DateEnglish: 1650
+    Technique: Aquarell
+    TechniqueEnglish: Aquarell
+    TechniquePlatt: Bild emaakt mid Waterfarwe
+    Dimensions: 16,4 x 34,7 cm
+    LatiAndLongitude: "51\xB059'33.2\"N 11\xB018'07.9\"E"
+    GpsCoords:
+      latitude:
+        degrees: 51
+        minutes: 59
+        seconds: 33.2
+      longitude:
+        degrees: 11
+        minutes: 18
+        seconds: 7.9
+    FileName: V_22_00_10_8
+    Image: {fileID: 21300000, guid: ccf87f3cee54ad44a86a2b80c58459b6, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Hadmersleben
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: "Matth\xE4us Merian (der \xC4ltere) (1593-1650)"
+    Description: Statt und Ambtt Wantzleben (Wanzleben)
+    DescriptionEnglish: Town and council of Wantzleben (Wanzleben)
+    DescriptionPlatt: "Stadt un Amt Wanzl\xE4"
+    Date: 17. Jahrhundert
+    DateEnglish: 17th century
+    Technique: Kupferstich
+    TechniqueEnglish: Copper engraving
+    TechniquePlatt: Kupferstich
+    Dimensions: 14,5 x 39 cm
+    LatiAndLongitude: "52\xB003'41.4\"N 11\xB026'26.0\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 3
+        seconds: 41.4
+      longitude:
+        degrees: 11
+        minutes: 26
+        seconds: 26
+    FileName: V_22_00_10_10
+    Image: {fileID: 21300000, guid: b8fd76b8f6481284a813481a82511ad8, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Wanzleben
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: Max Schulz
+    Description: "Burggraben Burg Ummendorf (B\xF6rde)"
+    DescriptionEnglish: The moat of the castle of Ummendorf
+    DescriptionPlatt: "Buorchgram Borch Ummendorp (B\xF6re)"
+    Date: unbekannt
+    DateEnglish: unknown
+    Technique: Aquarell
+    TechniqueEnglish: Aquarell
+    TechniquePlatt: Bild emaakt mid Waterfarwe
+    Dimensions: 23 x 27,8 cm
+    LatiAndLongitude: "52\xB009'21.0\"N 11\xB010'55.0\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 9
+        seconds: 21
+      longitude:
+        degrees: 11
+        minutes: 10
+        seconds: 55
+    FileName: V_22_00_04_15
+    Image: {fileID: 21300000, guid: 35d2450d4d4a345419c6ca03502cdf6c, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Ummendorf
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: Max Schulz
+    Description: "Ortsansicht von Ummendorf (B\xF6rde)"
+    DescriptionEnglish: View of Ummendorf
+    DescriptionPlatt: "Dorpansicht fonn Ummendorp (B\xF6re)"
+    Date: 1949
+    DateEnglish: 1949
+    Technique: Aquarell
+    TechniqueEnglish: Aquarell
+    TechniquePlatt: Bild emaakt mid Waterfarwe
+    Dimensions: 29 x 34,5 cm
+    LatiAndLongitude: "52\xB009'21.0\"N 11\xB010'55.0\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 9
+        seconds: 21
+      longitude:
+        degrees: 11
+        minutes: 10
+        seconds: 55
+    FileName: V_22_00_04_16
+    Image: {fileID: 21300000, guid: 0cfe9f63fb818d24a8ec36e46958db83, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Ummendorf
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: Neuburg, H.
+    Description: "Der alte Weg nach Helmstedt an der F\xF6rsterei Morsleben vorbei"
+    DescriptionEnglish: "The old road to Helmstedt at the forester\u2019s house of
+      Morsleben"
+    DescriptionPlatt: "De oole Wech na Helmst\xE4 an de F\xF6rsterie forrbie na Morsl\xE4"
+    Date: 1884
+    DateEnglish: 1884
+    Technique: Aquarell
+    TechniqueEnglish: Aquarell
+    TechniquePlatt: Aquarell
+    Dimensions: 12,8 x 19,5 cm
+    LatiAndLongitude: "52\xB013'06.8\"N 11\xB006'39.7\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 13
+        seconds: 6.8
+      longitude:
+        degrees: 11
+        minutes: 6
+        seconds: 39.7
+    FileName: V_22_00_04_10
+    Image: {fileID: 21300000, guid: 49b440e23461c544dad98555cb8f61fc, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Morsleben
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: Walter Gemm (1898-1973)
+    Description: "Gr\xF6ningen, eingefallener Turm"
+    DescriptionEnglish: "A collapsed tower in Gr\xF6ningen"
+    DescriptionPlatt: Groinich, ooler Torm
+    Date: unbekannt
+    DateEnglish: unknown
+    Technique: Lithografie
+    TechniqueEnglish: Lithograph
+    TechniquePlatt: Lithographie
+    Dimensions: 24,2 x 17,8 cm
+    LatiAndLongitude: "51\xB056'19.7\"N 11\xB013'07.6\"E"
+    GpsCoords:
+      latitude:
+        degrees: 51
+        minutes: 56
+        seconds: 19.7
+      longitude:
+        degrees: 11
+        minutes: 13
+        seconds: 7.6
+    FileName: V_22_00_11_10a
+    Image: {fileID: 21300000, guid: baeaf49a00e94db4d89be52a2ffa2898, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: "Gr\xF6ningen"
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: Walter Gemm (1898-1973)
+    Description: "Gr\xF6ningen, Stra\xDFe mit H\xE4usern"
+    DescriptionEnglish: "Road with houses in Gr\xF6ningen"
+    DescriptionPlatt: "Groinich, Strate mid H\xFCser"
+    Date: unbekannt
+    DateEnglish: unknown
+    Technique: Lithografie
+    TechniqueEnglish: Lithograph
+    TechniquePlatt: Lithographie
+    Dimensions: 24,3 x 17,8 cm
+    LatiAndLongitude: "51\xB056'19.7\"N 11\xB013'07.6\"E"
+    GpsCoords:
+      latitude:
+        degrees: 51
+        minutes: 56
+        seconds: 19.7
+      longitude:
+        degrees: 11
+        minutes: 13
+        seconds: 7.6
+    FileName: V_22_00_11_11a
+    Image: {fileID: 21300000, guid: 759f545a678e4c846868c428af1047f7, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: "Gr\xF6ningen"
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: Walter Gemm (1898-1973)
+    Description: "Gr\xF6ningen, Fluss mit Stadt"
+    DescriptionEnglish: "River and the town of Gr\xF6ningen"
+    DescriptionPlatt: Groinich, Fluss mid Stadt
+    Date: unbekannt
+    DateEnglish: unknown
+    Technique: Lithografie
+    TechniqueEnglish: Lithograph
+    TechniquePlatt: Lithographie
+    Dimensions: 17,8 x 24,3 cm
+    LatiAndLongitude: "51\xB056'19.7\"N 11\xB013'07.6\"E"
+    GpsCoords:
+      latitude:
+        degrees: 51
+        minutes: 56
+        seconds: 19.7
+      longitude:
+        degrees: 11
+        minutes: 13
+        seconds: 7.6
+    FileName: V_22_00_11_12a
+    Image: {fileID: 21300000, guid: 901b0ad3fab509b488f40ddd9b5be9c3, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: "Gr\xF6ningen"
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: Walter Gemm (1898-1973)
+    Description: "Gr\xF6ningen, Br\xFCcke am Fluss"
+    DescriptionEnglish: "Bridge over the river in Gr\xF6ningen"
+    DescriptionPlatt: "Groinich, Br\xFCjje an`n Fluss"
+    Date: unbekannt
+    DateEnglish: unknown
+    Technique: Lithografie
+    TechniqueEnglish: Lithograph
+    TechniquePlatt: Lithographie
+    Dimensions: 17,4 x 24,2 cm
+    LatiAndLongitude: "51\xB056'19.7\"N 11\xB013'07.6\"E"
+    GpsCoords:
+      latitude:
+        degrees: 51
+        minutes: 56
+        seconds: 19.7
+      longitude:
+        degrees: 11
+        minutes: 13
+        seconds: 7.6
+    FileName: V_22_00_11_13
+    Image: {fileID: 21300000, guid: d8cb95eb62d610e48a49f38f1f697308, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: "Gr\xF6ningen"
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: "Werner K\xF6hler (Lehrer) (1921-1989)"
+    Description: "W\xF6hre"
+    DescriptionEnglish: The Where
+    DescriptionPlatt: "Opp de W\xF6hre"
+    Date: 1978
+    DateEnglish: 1978
+    Technique: Lithografie
+    TechniqueEnglish: Lithograph
+    TechniquePlatt: Lithogrie
+    Dimensions: 37,5 x 50 cm
+    LatiAndLongitude: "52\xB007'07.8\"N 11\xB001'15.1\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 7
+        seconds: 7.8
+      longitude:
+        degrees: 11
+        minutes: 1
+        seconds: 15.1
+    FileName: V_22_00_23_10
+    Image: {fileID: 21300000, guid: 5c1afb918d7f06840970cca25a764b2d, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: "H\xF6tensleben"
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: "Werner K\xF6hler (Lehrer) (1921-1989)"
+    Description: "Torbogen in H\xF6tensleben"
+    DescriptionEnglish: "A gate in H\xF6tensleben"
+    DescriptionPlatt: "Doorbogen in Hoitensl\xE4"
+    Date: 1980
+    DateEnglish: 1980
+    Technique: Lithografie
+    TechniqueEnglish: Lithograph
+    TechniquePlatt: Lithografie
+    Dimensions: 38 x 49,7 cm
+    LatiAndLongitude: "52\xB007'07.8\"N 11\xB001'15.1\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 7
+        seconds: 7.8
+      longitude:
+        degrees: 11
+        minutes: 1
+        seconds: 15.1
+    FileName: V_22_00_23_9
+    Image: {fileID: 21300000, guid: 9c6f280035341b241a4490972cb631ec, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: "H\xF6tensleben"
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: "Werner K\xF6hler (Lehrer) (1921-1989)"
+    Description: Amtsberg in Sommerschenburg
+    DescriptionEnglish: The Amtsberg in Sommerschenburg
+    DescriptionPlatt: Amtsbarch in Pottborch
+    Date: 1982
+    DateEnglish: 1982
+    Technique: Lithografie
+    TechniqueEnglish: Lithograph
+    TechniquePlatt: Lithografie
+    Dimensions: 30 x 42,5 cm
+    LatiAndLongitude: "52\xB010'20.3\"N 11\xB006'12.9\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 10
+        seconds: 20.3
+      longitude:
+        degrees: 11
+        minutes: 6
+        seconds: 12.9
+    FileName: V_22_00_23_4
+    Image: {fileID: 21300000, guid: 61cab42f50011704e829cedd89be7b6c, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Sommerschenburg
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: "Werner K\xF6hler (Lehrer) (1921-1989)"
+    Description: Blick auf Sommersdorf
+    DescriptionEnglish: View of Sommersdorf
+    DescriptionPlatt: Blick opp Sommersdorp
+    Date: 1982
+    DateEnglish: 1982
+    Technique: Lithografie
+    TechniqueEnglish: Lithograph
+    TechniquePlatt: Lithografie
+    Dimensions: 30 x 42,5 cm
+    LatiAndLongitude: "52\xB010'00.5\"N 11\xB004'49.7\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 10
+        seconds: 0.5
+      longitude:
+        degrees: 11
+        minutes: 4
+        seconds: 49.7
+    FileName: V_22_00_23_5
+    Image: {fileID: 21300000, guid: 2946ae5ca6e21494a935a3387ce68353, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Sommersdorf
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: "Werner K\xF6hler (Lehrer) (1921-1989)"
+    Description: "Paltrockwindm\xFChle Sommersdorf"
+    DescriptionEnglish: The Paltrok mill of Sommersdorf
+    DescriptionPlatt: "Paltrockwindm\xF6lle Sommersdorp"
+    Date: 1982
+    DateEnglish: 1982
+    Technique: Lithografie
+    TechniqueEnglish: Lithograph
+    TechniquePlatt: Lithografie
+    Dimensions: 42,5 x 30 cm
+    LatiAndLongitude: "52\xB010'00.5\"N 11\xB004'49.7\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 10
+        seconds: 0.5
+      longitude:
+        degrees: 11
+        minutes: 4
+        seconds: 49.7
+    FileName: V_22_00_23_6
+    Image: {fileID: 21300000, guid: 3c049522272c9d743ac8305d93d53b70, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Sommersdorf
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: "Werner K\xF6hler (Lehrer) (1921-1989)"
+    Description: Gneisenau-Denkmal Sommerschenburg
+    DescriptionEnglish: The Gneisenau-memorial in Sommerschenburg
+    DescriptionPlatt: Gneisenau-Denkmal Pottborch
+    Date: unbekannt
+    DateEnglish: unknown
+    Technique: Lithografie
+    TechniqueEnglish: Lithograph
+    TechniquePlatt: Lithografie
+    Dimensions: 42,5 x 30 cm
+    LatiAndLongitude: "52\xB010'20.3\"N 11\xB006'12.9\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 10
+        seconds: 20.3
+      longitude:
+        degrees: 11
+        minutes: 6
+        seconds: 12.9
+    FileName: V_22_00_23_3
+    Image: {fileID: 21300000, guid: ea689dce103b4a44999a426619cf8160, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Sommerschenburg
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: Werner Nolopp (1835-1903)
+    Description: Wanzleben
+    DescriptionEnglish: The town of Wanzleben
+    DescriptionPlatt: "Wanzl\xE4 "
+    Date: 1869
+    DateEnglish: 1869
+    Technique: Pastell
+    TechniqueEnglish: Pastel
+    TechniquePlatt: Pastell
+    Dimensions: 26 x 33 cm
+    LatiAndLongitude: "52\xB003'41.4\"N 11\xB026'26.0\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 3
+        seconds: 41.4
+      longitude:
+        degrees: 11
+        minutes: 26
+        seconds: 26
+    FileName: V_22_00_05_3
+    Image: {fileID: 21300000, guid: 58bfa79cfc391984fa5a39685094cbc0, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Wanzleben
+    Audio: {fileID: 0}
+    isAudio: 0
+  - Author: Unbekannt
+    Description: Harbke
+    DescriptionEnglish: The town of Harbke
+    DescriptionPlatt: Harbke
+    Date: unbekannt
+    DateEnglish: unknown
+    Technique: Stahlstich
+    TechniqueEnglish: Steel engraving
+    TechniquePlatt: Stahlstich
+    Dimensions: 17,2 x 21 cm
+    LatiAndLongitude: "52\xB011'26.0\"N 11\xB003'03.5\"E"
+    GpsCoords:
+      latitude:
+        degrees: 52
+        minutes: 11
+        seconds: 26
+      longitude:
+        degrees: 11
+        minutes: 3
+        seconds: 3.5
+    FileName: V_22_00_10_11
+    Image: {fileID: 21300000, guid: de9fd91b0ffaf7a4abbd2668b7e40adb, type: 3}
+    Copyright: "B\xF6rde-Museum Burg Ummendorf"
+    Radius: Harbke
+    Audio: {fileID: 0}
+    isAudio: 0

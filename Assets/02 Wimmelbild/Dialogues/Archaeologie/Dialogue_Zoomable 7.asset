@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7cdca8fa1c6f26f40ac66f11763ddcdf, type: 3}
+  m_Name: Dialogue_Zoomable 7
+  m_EditorClassIdentifier: 
+  ComplementingImage: {fileID: 0}
+  Messages:
+  - CharacterName: {fileID: 0}
+    CharacterImage: {fileID: 21300000, guid: 64947af127d85bd4d85ea3a49fb5b4e1, type: 3}
+    Sound: {fileID: 8300000, guid: 480f429739ad9dd42a1430451fe455b0, type: 3}
+    SoundEnglish: {fileID: 8300000, guid: 402503e57600d12429c35c92fe284c49, type: 3}
+    SoundPlatt: {fileID: 8300000, guid: 0cb561a2b30994d429f16bb4daf188db, type: 3}
+    SoundVolume: 1
+    SoundOffset: 0
+    Text: "Armreif: Schon fr\xFCher war Schmuck beliebt. Man konnte damit zeigen,
+      dass man eine wichtige Person war. Bei Frauen zeigte der Schmuck auch, ob sie
+      verheiratet waren oder Kinder hatten."
+    TextEnglish: 'Armband: In the past jewellery was also popular. You could show
+      your importance with it. Also women could show if they were married or had
+      children.'
+    TextPlatt: "Armreif: Smuck funne man schon tau fr\xE4uerer Tiet gut. Man konnen
+      damidde teigen, dat man en bed\xFCttsamer Minsche w\xF6rre. Bie Fruunsl\xFCe
+      konne man ok seien, off sei forrfriet w\xF6rren or Kinner harren."

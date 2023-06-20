@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7643d40a59075f94e8a334639f99db85, type: 3}
+  m_Name: 1-Turmfalke
+  m_EditorClassIdentifier: 
+  Name: Turmfalke
+  NameEnglish: Kestrel
+  NamePlatt: 
+  Image: {fileID: 21300000, guid: fe0962adfd52c114ebc7416e9d2fe804, type: 3}
+  ZoomScale: 9.907799
+  ZoomLocalPosition: {x: 2602, y: 1713}
+  Text: "Super! Der Turmfalke ist ein Greifvogel, der gerne in Bauwerken nistet.
+    Hier im Burgturm br\xFCten auch jedes Jahr Turmfalken. Achtung, in diesem Raum
+    findest du auch das zweite Objekt."
+  TextEnglish: 'Great! The kestrel is a bird of prey, which preferably nests on buildings.
+    Every year kestrels breed in our tower. Watch out: in this room you will also
+    find the second object.'
+  TextPlatt: 
+  Voiceover: {fileID: 0}
+  Room: Tierwelt
+  RoomEnglish: Wildlife
+  QRCode: Turmfalke

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7cdca8fa1c6f26f40ac66f11763ddcdf, type: 3}
+  m_Name: Dialogue_Hint 1
+  m_EditorClassIdentifier: 
+  ComplementingImage: {fileID: 0}
+  Messages:
+  - CharacterName: {fileID: 0}
+    CharacterImage: {fileID: 21300000, guid: d649fc6bd32da4f46be963855ac9c533, type: 3}
+    Sound: {fileID: 8300000, guid: 5ffb8354c2990dc4984860a7bbafa548, type: 3}
+    SoundEnglish: {fileID: 8300000, guid: 6ec102f6866d82746b615dabb058d4b1, type: 3}
+    SoundPlatt: {fileID: 8300000, guid: fa8dcbbfb781e444199bee7af0529c03, type: 3}
+    SoundVolume: 1
+    SoundOffset: 0
+    Text: "Hat man damals wirklich schon mit Kettens\xE4gen Holz bearbeitet?"
+    TextEnglish: Did people really use chainsaws to work on wood back then?
+    TextPlatt: Harre man dunnemals all ne Keddensaage forr`t Holt?

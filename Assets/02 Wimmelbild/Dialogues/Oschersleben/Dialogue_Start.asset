@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7cdca8fa1c6f26f40ac66f11763ddcdf, type: 3}
+  m_Name: Dialogue_Start
+  m_EditorClassIdentifier: 
+  ComplementingImage: {fileID: 0}
+  Messages:
+  - CharacterName: {fileID: 0}
+    CharacterImage: {fileID: 21300000, guid: 1c09482ba5189e148b366992d15c16fd, type: 3}
+    Sound: {fileID: 8300000, guid: 9937f0379e2eb534e8ab5b87f852505c, type: 3}
+    SoundEnglish: {fileID: 8300000, guid: 7c69d881b21f29644b04a49cd0bf4dea, type: 3}
+    SoundPlatt: {fileID: 8300000, guid: da907b710b4cebe45bb0b85a3a58ed68, type: 3}
+    SoundVolume: 1
+    SoundOffset: 0
+    Text: Hier in der Stadt ist viel los. Fahrzeuge liefern Waren und Rohstoffe,
+      die zu anderen Produkten weiterverarbeitet werden. Erkunde den Ort und finde
+      die gesuchten Objekte.
+    TextEnglish: What a busy town! Vehicles transport goods and resources that are
+      needed for certain products. Explore the town and find sought after objects.
+    TextPlatt: "Heier in de Stadt is feel los. Fahrt\xFCje bringet Waren un Rohstoffe,
+      woruut annere Produkte herjestellt weerd. Kieke dick umme un finne dat Jesochte!"

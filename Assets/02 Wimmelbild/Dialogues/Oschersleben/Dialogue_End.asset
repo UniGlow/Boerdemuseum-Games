@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7cdca8fa1c6f26f40ac66f11763ddcdf, type: 3}
+  m_Name: Dialogue_End
+  m_EditorClassIdentifier: 
+  ComplementingImage: {fileID: 0}
+  Messages:
+  - CharacterName: {fileID: 0}
+    CharacterImage: {fileID: 21300000, guid: 1c09482ba5189e148b366992d15c16fd, type: 3}
+    Sound: {fileID: 8300000, guid: ce34597cd4d557a43a9625569aa9a39a, type: 3}
+    SoundEnglish: {fileID: 8300000, guid: bcfd77320d2b4754bb0d663bee0c56b9, type: 3}
+    SoundPlatt: {fileID: 8300000, guid: cdbd6d7233ad8eb41ba05150c229848a, type: 3}
+    SoundVolume: 1
+    SoundOffset: 0
+    Text: "Super, du hast alle Dinge gefunden. Schaue dir noch die anderen Geb\xE4ude
+      und Fabriken an. Oder m\xF6chtest du nochmal spielen?"
+    TextEnglish: Well done! You found everything! Have a look at the other buildings
+      and factories. Or would you like to play again?
+    TextPlatt: "Dat is forrmoost, du hast allet efunnen! Kieke dick ma noch de annern
+      Jeb\xE4ude un Fabriken anne! Or wutt`e nochemal speelen?"

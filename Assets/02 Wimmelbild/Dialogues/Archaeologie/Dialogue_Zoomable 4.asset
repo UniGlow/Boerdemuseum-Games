@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7cdca8fa1c6f26f40ac66f11763ddcdf, type: 3}
+  m_Name: Dialogue_Zoomable 4
+  m_EditorClassIdentifier: 
+  ComplementingImage: {fileID: 0}
+  Messages:
+  - CharacterName: {fileID: 0}
+    CharacterImage: {fileID: 21300000, guid: a525d678b93a4474491add9bfff4395d, type: 3}
+    Sound: {fileID: 8300000, guid: 476f02ab6adfe5947b30449159a68108, type: 3}
+    SoundEnglish: {fileID: 8300000, guid: e6080e23495b9f54781ef6eaaceac725, type: 3}
+    SoundPlatt: {fileID: 8300000, guid: 934fa090f189f98449759728a081d758, type: 3}
+    SoundVolume: 1
+    SoundOffset: 0
+    Text: "Spinnwirtel: F\xE4den zur Herstellung von Stoffen werden gesponnen. Der
+      Faden wird rei\xDFfest, wenn man ihn gut dreht. Dabei halfen die Spinnwirtel.
+      Das sind kleine Gewichte meist aus Ton."
+    TextEnglish: "Spindle whorl: To produce fabrics you had to spin yarn. The better
+      you spin the yarn, the stronger it becomes. That\u2019s what the spindle whorls
+      are for. They are little clay weights."
+    TextPlatt: "Spinnwirtel: Forr Antrecket\xFC\xFCch bruukt man Stoffe ut F\xE4den.
+      De s\xFCnd espunnen. Damidde se feste enauch s\xFCnd, w\xF6rren de gut forrdreit.
+      Dabie hilpt en Spinnwirtel. Dat s\xFCnd l\xFCttche Jewichte ut Ton. "
